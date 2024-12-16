@@ -1,0 +1,565 @@
+state,answer_set,facility_name,race,count,n_respondents,pct_of_respondents
+IL,all-surveys,"Cook County, IL",Black or African American,286,566,0.5053003533568905
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Hispanic or Latino,245,873,0.2806414662084765
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",White,223,873,0.2554410080183276
+CA,all-surveys,"Santa Clara County, CA",Hispanic or Latino,141,352,0.4005681818181818
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Black or African American,139,873,0.15922107674684993
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Black or African American,115,235,0.48936170212765956
+IL,all-surveys,"Cook County, IL",Hispanic or Latino,86,566,0.1519434628975265
+NY,all-surveys,"Pasco County Corrections, FL",White,77,146,0.5273972602739726
+WV,all-surveys,WV DCR North Central Regional Jail,White,77,115,0.6695652173913044
+AZ,all-surveys,"Pima County Jail, AZ",Hispanic or Latino,76,209,0.36363636363636365
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Black or African American,74,302,0.24503311258278146
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",White,73,302,0.24172185430463577
+IL,all-surveys,"Winnebago County, IL",Black or African American,73,153,0.477124183006536
+CA,all-surveys,"Orange County, CA - Theo Lacy",Hispanic or Latino,72,134,0.5373134328358209
+CA,all-surveys,"Fresno County, CA",Hispanic or Latino,70,224,0.3125
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",White,69,182,0.3791208791208791
+TN,all-surveys,"Sullivan County Jail, TN",White,67,88,0.7613636363636364
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Other,64,873,0.07331042382588775
+TX,all-surveys,"MTC: Giles Dalby, TX",Black or African American,60,132,0.45454545454545453
+TN,all-surveys,"Davidson County Detention Center, TN",Black or African American,58,119,0.48739495798319327
+DC,all-surveys,DC DOC: Central Detention Facility,Black or African American,56,81,0.691358024691358
+TX,all-surveys,"Travis County Jail, TX",White,54,204,0.2647058823529412
+PA,all-surveys,"Lackawana County, PA",White,53,115,0.4608695652173913
+CA,all-surveys,"Stanislaus County, CA",Hispanic or Latino,51,171,0.2982456140350877
+AZ,all-surveys,"Pima County Jail, AZ",White,50,209,0.23923444976076555
+FL,all-surveys,"Leon County Jail, FL",Black or African American,50,95,0.5263157894736842
+TX,all-surveys,"Travis County Jail, TX",Hispanic or Latino,50,204,0.24509803921568626
+PA,all-surveys,"Westmoreland County, PA",White,49,89,0.550561797752809
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,White,49,59,0.8305084745762712
+CO,all-surveys,"Weld County, CO",Hispanic or Latino,48,133,0.3609022556390977
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Black or African American,48,91,0.5274725274725275
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Black or African American,47,109,0.43119266055045874
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Native American / American Indian,46,873,0.052691867124856816
+CA,all-surveys,"Stanislaus County, CA",White,46,171,0.26900584795321636
+FL,all-surveys,"Pinellas County Jail, FL",White,45,89,0.5056179775280899
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Hispanic or Latino,44,104,0.4230769230769231
+CA,all-surveys,"Santa Clara County, CA",White,44,352,0.125
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Hispanic or Latino,44,99,0.4444444444444444
+CO,all-surveys,"Mesa County, CO",White,44,94,0.46808510638297873
+IL,all-surveys,"Cook County, IL",White,44,566,0.07773851590106007
+IN,all-surveys,"Hamilton County Main Jail, IN",White,44,97,0.4536082474226804
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",White,44,109,0.4036697247706422
+IL,all-surveys,"Cook County, IL",Other,43,566,0.07597173144876325
+OH,all-surveys,"Cuyahoga County Justice Center, OH",White,43,235,0.1829787234042553
+TX,all-surveys,"Travis County Jail, TX",Black or African American,43,204,0.2107843137254902
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",Black or African American,41,182,0.22527472527472528
+CO,all-surveys,"Denver County Jail, CO",White,40,148,0.2702702702702703
+MO,all-surveys,"St. Louis County Jail, MO",Black or African American,40,92,0.43478260869565216
+FL,all-surveys,Santa Rosa County FL,White,39,60,0.65
+WA,all-surveys,"Spokane County Jail, WA",White,38,82,0.4634146341463415
+CO,all-surveys,"Weld County, CO",White,37,133,0.2781954887218045
+OH,all-surveys,"Mahoning County Justice Center, OH",Black or African American,37,82,0.45121951219512196
+PA,all-surveys,"Dauphin County Jail, PA",Black or African American,37,118,0.3135593220338983
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Black or African American,37,58,0.6379310344827587
+FL,all-surveys,"Okaloosa County Department of Corrections, FL",White,36,61,0.5901639344262295
+TN,all-surveys,"Davidson County Detention Center, TN",White,36,119,0.3025210084033613
+VA,all-surveys,"Rappahannock Regional Jail, VA",White,36,76,0.47368421052631576
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Black or African American,36,109,0.3302752293577982
+WV,all-surveys,WV DCR Southwestern Regional Jail,White,36,47,0.7659574468085106
+CO,all-surveys,"Jefferson County Detention Facility, CO",White,35,76,0.4605263157894737
+GA,all-surveys,"Athens Clarke County Jail, GA",Black or African American,35,67,0.5223880597014925
+PA,all-surveys,"Montgomery County Correctional Facility, PA",White,35,92,0.3804347826086957
+PA,all-surveys,"Washington County, PA ",White,35,62,0.5645161290322581
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Hispanic or Latino,33,302,0.10927152317880795
+AL,all-surveys,"Etowah County Jail, AL",White,32,52,0.6153846153846154
+CA,all-surveys,"Santa Clara County, CA",Black or African American,32,352,0.09090909090909091
+NJ,all-surveys,"Essex County Correctional Facility, NJ",Black or African American,32,68,0.47058823529411764
+VA,all-surveys,"Western Regional, VA",White,32,52,0.6153846153846154
+WA,all-surveys,"Yakima County, WA",White,32,110,0.2909090909090909
+CA,all-surveys,"Fresno County, CA",White,31,224,0.13839285714285715
+MI,all-surveys,"Kent County, MI ",White,31,100,0.31
+VA,all-surveys,"Chesapeake Correctional Center, VA",White,31,72,0.4305555555555556
+IN,all-surveys,"Elkhart County Jail, IN",White,30,59,0.5084745762711864
+MO,all-surveys,"Cape Girardeau County Jail, MO",White,30,69,0.43478260869565216
+PA,all-surveys,"Lebanon County, PA",White,30,66,0.45454545454545453
+UT,all-surveys,"Salt Lake City County, UT",White,30,68,0.4411764705882353
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Black or African American,29,84,0.34523809523809523
+OH,all-surveys,"Mahoning County Justice Center, OH",White,29,82,0.35365853658536583
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Black or African American,29,92,0.31521739130434784
+WV,all-surveys,WV DCR Central Regional Jail,White,29,39,0.7435897435897436
+CA,all-surveys,"San Joaquin County Jail, CA",Hispanic or Latino,28,96,0.2916666666666667
+CA,all-surveys,"Santa Barbara County, CA",Hispanic or Latino,28,74,0.3783783783783784
+MA,all-surveys,"Bristol County House of Correction, MA",White,28,58,0.4827586206896552
+MI,all-surveys,"Kent County, MI ",Black or African American,28,100,0.28
+NC,all-surveys,"Cumberland County, NC",Black or African American,28,82,0.34146341463414637
+NE,all-surveys,"Lancaster County, NE",White,28,76,0.3684210526315789
+TX,all-surveys,"Guadalupe County, TX",Hispanic or Latino,28,75,0.37333333333333335
+WV,all-surveys,WV DCR Western Regional Jail,White,28,41,0.6829268292682927
+CA,all-surveys,"Madera County, CA",Hispanic or Latino,27,90,0.3
+CA,all-surveys,"Orange County, CA - Central Jail Complex",White,27,104,0.25961538461538464
+CO,all-surveys,"Denver County Jail, CO",Black or African American,27,148,0.18243243243243243
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",Hispanic or Latino,27,182,0.14835164835164835
+FL,all-surveys,"Leon County Jail, FL",White,27,95,0.28421052631578947
+FL,all-surveys,"Sarasota County, FL",White,27,64,0.421875
+IL,all-surveys,"Winnebago County, IL",White,27,153,0.17647058823529413
+MA,all-surveys,"Essex County Middleton HOC, MA",White,27,70,0.38571428571428573
+PA,all-surveys,"Cambria County Prison, PA",White,27,42,0.6428571428571429
+WV,all-surveys,WV DCR South Central Regional Jail,White,27,35,0.7714285714285715
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Hispanic or Latino, White",26,873,0.029782359679266894
+GA,all-surveys,"Bibb County Jail, GA",Black or African American,26,50,0.52
+IN,all-surveys,"Hamilton County Main Jail, IN",Black or African American,26,97,0.26804123711340205
+MA,all-surveys,"Middlesex County House of Corrections, MA",White,26,68,0.38235294117647056
+MO,all-surveys,"St. Louis County Jail, MO",White,26,92,0.2826086956521739
+NY,all-surveys,"Albany County Correctional Facility, NY",Black or African American,26,87,0.2988505747126437
+OR,all-surveys,"Lincoln County, OR",White,26,40,0.65
+TX,all-surveys,"Potter County Detention, TX",White,26,78,0.3333333333333333
+CO,all-surveys,"Denver County Jail, CO",Hispanic or Latino,25,148,0.16891891891891891
+CO,all-surveys,"Pueblo County, CO",Hispanic or Latino,25,93,0.26881720430107525
+FL,all-surveys,"Escambia County Jail, FL",White,25,53,0.4716981132075472
+MI,all-surveys,"Livingston County, MI",White,25,32,0.78125
+PA,all-surveys,"Fayette County, PA",White,25,36,0.6944444444444444
+PA,all-surveys,"Lancaster County Prison, PA",White,25,59,0.423728813559322
+TN,all-surveys,"Warren County Jail, TN",White,25,26,0.9615384615384616
+TX,all-surveys,"Guadalupe County, TX",White,25,75,0.3333333333333333
+VA,all-surveys,"Rappahannock Regional Jail, VA",Black or African American,25,76,0.32894736842105265
+WA,all-surveys,"Yakima County, WA",Hispanic or Latino,25,110,0.22727272727272727
+CO,all-surveys,"Larimer County, CO",White,24,45,0.5333333333333333
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",White,24,109,0.22018348623853212
+NM,all-surveys,"Santa Fe County Adult Correctional Facility, NM",Hispanic or Latino,24,37,0.6486486486486487
+NY,all-surveys,"New York City Department of Correction, NY (NYC DOC)",Black or African American,24,70,0.34285714285714286
+PA,all-surveys,"Dauphin County Jail, PA",White,24,118,0.2033898305084746
+TX,all-surveys,"MTC: Giles Dalby, TX",Hispanic or Latino,24,132,0.18181818181818182
+TX,all-surveys,"Wichita County, TX ",White,24,34,0.7058823529411765
+CA,all-surveys,"Fresno County, CA",Black or African American,23,224,0.10267857142857142
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Other,23,302,0.076158940397351
+CA,all-surveys,"Ventura County Sheriff's Office, CA",White,23,99,0.23232323232323232
+MA,all-surveys,"Worcester County Jail, MA",White,23,58,0.39655172413793105
+NY,all-surveys,"Albany County Correctional Facility, NY",White,23,87,0.26436781609195403
+PA,all-surveys,"Lehigh County, PA",White,23,76,0.3026315789473684
+TX,all-surveys,"Collin County, TX ",White,23,69,0.3333333333333333
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",White,23,64,0.359375
+CA,all-surveys,"Orange County, CA - Theo Lacy",White,22,134,0.16417910447761194
+IL,all-surveys,"Kane County, IL",Black or African American,22,65,0.3384615384615385
+IN,all-surveys,"Boone County, IN",White,22,31,0.7096774193548387
+KY,all-surveys,"Madison County, KY",White,22,28,0.7857142857142857
+MI,all-surveys,"Macomb County, MI",White,22,53,0.41509433962264153
+NY,all-surveys,"Erie County, NY",Black or African American,22,55,0.4
+PA,all-surveys,"Allegheny County Jail, PA",Black or African American,22,54,0.4074074074074074
+SC,all-surveys,"Pickens County Detention Facility, SC",White,22,30,0.7333333333333333
+CA,all-surveys,"San Joaquin County Jail, CA",White,21,96,0.21875
+CA,all-surveys,"Santa Barbara County, CA",White,21,74,0.28378378378378377
+CO,all-surveys,"Douglas Detention Center, CO",White,21,43,0.4883720930232558
+NJ,all-surveys,"Bergen County, NJ",Hispanic or Latino,21,51,0.4117647058823529
+PA,all-surveys,"Westmoreland County, PA",Black or African American,21,89,0.23595505617977527
+CA,all-surveys,"Santa Clara County, CA",Other,20,352,0.056818181818181816
+FL,all-surveys,"Bay County, FL",White,20,35,0.5714285714285714
+GA,all-surveys,"Cobb County, GA",Black or African American,20,58,0.3448275862068966
+GA,all-surveys,"Dekalb County Jail, GA",Black or African American,20,36,0.5555555555555556
+IA,all-surveys,"Polk County, IA ",White,20,44,0.45454545454545453
+MA,all-surveys,"Essex County Middleton HOC, MA",Hispanic or Latino,20,70,0.2857142857142857
+MI,all-surveys,"Genesee County, MI",Black or African American,20,35,0.5714285714285714
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Hispanic or Latino,20,34,0.5882352941176471
+NY,all-surveys,"Chautauqua County, NY",White,20,38,0.5263157894736842
+NY,all-surveys,"Suffolk County, NY ",Black or African American,20,72,0.2777777777777778
+OH,all-surveys,Corrections Center of NW Ohio,White,20,45,0.4444444444444444
+OH,all-surveys,"Muskingum County, OH",White,20,28,0.7142857142857143
+OH,all-surveys,"Portage County, OH",White,20,31,0.6451612903225806
+TX,all-surveys,"Collin County, TX ",Black or African American,20,69,0.2898550724637681
+TX,all-surveys,"MTC: Giles Dalby, TX",White,20,132,0.15151515151515152
+TX,all-surveys,"McLennan County, TX",White,20,80,0.25
+VA,all-surveys,"Pamunkey Regional Jail, VA",White,20,58,0.3448275862068966
+CA,all-surveys,"Butte County, CA",White,19,55,0.34545454545454546
+CO,all-surveys,"Pueblo County, CO",White,19,93,0.20430107526881722
+FL,all-surveys,"Lee County, FL",White,19,61,0.3114754098360656
+IL,all-surveys,"Kane County, IL",Hispanic or Latino,19,65,0.2923076923076923
+IN,all-surveys,"La Port County Jail, IN",White,19,38,0.5
+NC,all-surveys,"Cumberland County, NC",White,19,82,0.23170731707317074
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Black or African American,19,47,0.40425531914893614
+NY,all-surveys,"Monroe County Sheriff's Department, NY",White,19,84,0.2261904761904762
+NY,all-surveys,"Pasco County Corrections, FL",Black or African American,19,146,0.13013698630136986
+NY,all-surveys,"Suffolk County, NY ",White,19,72,0.2638888888888889
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Other,19,235,0.08085106382978724
+OH,all-surveys,"Summit County, OH",White,19,48,0.3958333333333333
+PA,all-surveys,"Berks County Jail, PA",Hispanic or Latino,19,60,0.31666666666666665
+PA,all-surveys,"Franklin County, PA",White,19,34,0.5588235294117647
+PA,all-surveys,"Lehigh County, PA",Hispanic or Latino,19,76,0.25
+TN,all-surveys,"Hamilton County, TN",Black or African American,19,46,0.41304347826086957
+TX,all-surveys,"McLennan County, TX",Black or African American,19,80,0.2375
+UT,all-surveys,"Beaver County, UT",White,19,40,0.475
+VA,all-surveys,"Chesapeake Correctional Center, VA",Black or African American,19,72,0.2638888888888889
+WI,all-surveys,"Brown County Jail, WI",White,19,73,0.2602739726027397
+WI,all-surveys,"Dodge County, WI",White,19,33,0.5757575757575758
+WV,all-surveys,WV DCR Southern Regional Jail,White,19,27,0.7037037037037037
+AL,all-surveys,"Tuscaloosa County Jail, AL",Black or African American,18,35,0.5142857142857142
+AZ,all-surveys,"Yavapai County Jail, AZ",White,18,36,0.5
+CA,all-surveys,"Fresno County, CA",Other,18,224,0.08035714285714286
+FL,all-surveys,"Escambia County Jail, FL",Black or African American,18,53,0.33962264150943394
+MO,all-surveys,"Cape Girardeau County Jail, MO",Black or African American,18,69,0.2608695652173913
+TX,all-surveys,"Johnson County, TX",White,18,50,0.36
+AL,all-surveys,"Riverside Regional, VA",White,17,34,0.5
+AZ,all-surveys,"Pinal County Jail, AZ",White,17,51,0.3333333333333333
+GA,all-surveys,"Athens Clarke County Jail, GA",White,17,67,0.2537313432835821
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Hispanic or Latino,17,109,0.1559633027522936
+MA,all-surveys,"Suffolk County Jail, MA",Black or African American,17,71,0.23943661971830985
+MA,all-surveys,"Suffolk County Jail, MA",Hispanic or Latino,17,71,0.23943661971830985
+NJ,all-surveys,"Bergen County, NJ",Black or African American,17,51,0.3333333333333333
+NY,all-surveys,"New York City Department of Correction, NY (NYC DOC)",Hispanic or Latino,17,70,0.24285714285714285
+NY,all-surveys,"Niagara County Correctional Facility, NY",Black or African American,17,49,0.3469387755102041
+OH,all-surveys,"Lorain County, OH ",Black or African American,17,44,0.38636363636363635
+OH,all-surveys,"Summit County, OH",Black or African American,17,48,0.3541666666666667
+PA,all-surveys,"Berks County Jail, PA",White,17,60,0.2833333333333333
+PA,all-surveys,"Dauphin County Jail, PA",Hispanic or Latino,17,118,0.1440677966101695
+PA,all-surveys,"Lackawana County, PA",Black or African American,17,115,0.14782608695652175
+TX,all-surveys,"Potter County Detention, TX",Hispanic or Latino,17,78,0.21794871794871795
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Black or African American,17,64,0.265625
+WA,all-surveys,"King County Adult Detention, WA",White,17,62,0.27419354838709675
+AL,all-surveys,"Montgomery County, AL",Black or African American,16,29,0.5517241379310345
+AZ,all-surveys,"Pima County Jail, AZ",Black or African American,16,209,0.07655502392344497
+CA,all-surveys,"Madera County, CA",White,16,90,0.17777777777777778
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",Other,16,182,0.08791208791208792
+FL,all-surveys,"Nassau County, FL",White,16,30,0.5333333333333333
+MA,all-surveys,"Suffolk County Jail, MA",White,16,71,0.22535211267605634
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Hispanic or Latino, Native American / American Indian",15,873,0.01718213058419244
+CA,all-surveys,"San Joaquin County Jail, CA",Black or African American,15,96,0.15625
+CA,all-surveys,"Sonoma County, CA",White,15,42,0.35714285714285715
+CO,all-surveys,"Jefferson County Detention Facility, CO",Hispanic or Latino,15,76,0.19736842105263158
+FL,all-surveys,"Lake County Detention Center, FL",White,15,28,0.5357142857142857
+IL,all-surveys,"Cook County, IL","Black or African American, Other",15,566,0.026501766784452298
+KS,all-surveys,"Douglas County, KS",White,15,34,0.4411764705882353
+MA,all-surveys,"Barnstable County Correctional Facility, MA",White,15,29,0.5172413793103449
+MD,all-surveys,"Washington County Detention Center, MD",White,15,36,0.4166666666666667
+MI,all-surveys,"Macomb County, MI",Black or African American,15,53,0.2830188679245283
+NC,all-surveys,"Onslow County Jail, NC",Black or African American,15,33,0.45454545454545453
+NY,all-surveys,"Onondaga County-Justice Center, NY",Black or African American,15,39,0.38461538461538464
+OH,all-surveys,"Medina County Jail, OH",White,15,21,0.7142857142857143
+UT,all-surveys,"Iron County, UT",White,15,20,0.75
+VA,all-surveys,"Arlington County Detention Center, VA",Black or African American,15,34,0.4411764705882353
+WA,all-surveys,"Whatcom County, WA - Main Jail",White,15,48,0.3125
+WI,all-surveys,"Brown County Jail, WI",Black or African American,15,73,0.2054794520547945
+CA,all-surveys,"Stanislaus County, CA",Black or African American,14,171,0.08187134502923976
+GA,all-surveys,"Catoosa County Jail, GA",White,14,20,0.7
+IN,all-surveys,"Floyd County Jail, IN",White,14,24,0.5833333333333334
+KS,all-surveys,"Shawnee County Detention Center, KS",White,14,37,0.3783783783783784
+MA,all-surveys,"Plymouth County Correctional Facility, MA",White,14,39,0.358974358974359
+NY,all-surveys,"Delaware County Correctional Facility, NY",White,14,19,0.7368421052631579
+NY,all-surveys,"Pasco County Corrections, FL",Hispanic or Latino,14,146,0.0958904109589041
+NY,all-surveys,"Suffolk County, NY ",Hispanic or Latino,14,72,0.19444444444444445
+PA,all-surveys,"Allegheny County Jail, PA",White,14,54,0.25925925925925924
+PA,all-surveys,"Delaware County, PA",Black or African American,14,37,0.3783783783783784
+PA,all-surveys,"Lehigh County, PA",Black or African American,14,76,0.18421052631578946
+TN,all-surveys,"McMinn County Justice Center, TN",White,14,23,0.6086956521739131
+WI,all-surveys,"Rock County, WI",White,14,37,0.3783783783783784
+AZ,all-surveys,"Pima County Jail, AZ",Native American / American Indian,13,209,0.06220095693779904
+CA,all-surveys,"Fresno County, CA",Native American / American Indian,13,224,0.05803571428571429
+CA,all-surveys,"Stanislaus County, CA",Other,13,171,0.07602339181286549
+FL,all-surveys,"Citrus County Detention Facility, FL",White,13,29,0.4482758620689655
+FL,all-surveys,"Okaloosa County Department of Corrections, FL",Black or African American,13,61,0.21311475409836064
+FL,all-surveys,"Sarasota County, FL",Black or African American,13,64,0.203125
+GA,all-surveys,"Columbia County Detention Center, GA",White,13,31,0.41935483870967744
+IA,all-surveys,"Polk County, IA ",Black or African American,13,44,0.29545454545454547
+MA,all-surveys,"Middlesex County House of Corrections, MA",Black or African American,13,68,0.19117647058823528
+ME,all-surveys,"Two Bridges Regional, ME",White,13,24,0.5416666666666666
+NE,all-surveys,"Lancaster County, NE",Black or African American,13,76,0.17105263157894737
+NJ,all-surveys,"Hudson County Corrections Center, NJ",Black or African American,13,32,0.40625
+NY,all-surveys,"Erie County, NY",White,13,55,0.23636363636363636
+NY,all-surveys,"Niagara County Correctional Facility, NY",White,13,49,0.2653061224489796
+NY,all-surveys,"Onondaga County-Justice Center, NY",White,13,39,0.3333333333333333
+OH,all-surveys,"Greene County, OH: Adult Detention",White,13,26,0.5
+PA,all-surveys,"Chester County Prison, PA",White,13,32,0.40625
+PA,all-surveys,"Columbia County, PA",White,13,22,0.5909090909090909
+PA,all-surveys,"Lebanon County, PA",Hispanic or Latino,13,66,0.19696969696969696
+PA,all-surveys,"Washington County, PA ",Black or African American,13,62,0.20967741935483872
+TX,all-surveys,"McLennan County, TX",Hispanic or Latino,13,80,0.1625
+VA,all-surveys,"Pamunkey Regional Jail, VA",Black or African American,13,58,0.22413793103448276
+WA,all-surveys,"Spokane County Jail, WA",Native American / American Indian,13,82,0.15853658536585366
+WI,all-surveys,"Brown County Jail, WI",Native American / American Indian,13,73,0.1780821917808219
+WV,all-surveys,WV DCR Potomac Highlands Regional Jail,White,13,17,0.7647058823529411
+AL,all-surveys,"Etowah County Jail, AL",Black or African American,12,52,0.23076923076923078
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Black or African American, Other",12,873,0.013745704467353952
+CA,all-surveys,"Alameda County-Santa Rita, CA",Black or African American,12,41,0.2926829268292683
+CA,all-surveys,"Santa Clara County, CA","Hispanic or Latino, Native American / American Indian",12,352,0.03409090909090909
+FL,all-surveys,"Lee County, FL",Hispanic or Latino,12,61,0.19672131147540983
+FL,all-surveys,"St. Lucie County Jail, FL",White,12,27,0.4444444444444444
+GA,all-surveys,"Cobb County, GA",White,12,58,0.20689655172413793
+GA,all-surveys,"Columbia County Detention Center, GA",Black or African American,12,31,0.3870967741935484
+ID,all-surveys,"Bonneville County, ID",White,12,20,0.6
+IL,all-surveys,"Cook County, IL",Native American / American Indian,12,566,0.02120141342756184
+IN,all-surveys,"Kosciusko County, IN",White,12,17,0.7058823529411765
+KY,all-surveys,"Clay County Detention Center, KY",White,12,13,0.9230769230769231
+MA,all-surveys,"Middlesex County House of Corrections, MA",Hispanic or Latino,12,68,0.17647058823529413
+MA,all-surveys,"Norfolk County Jail, MA",White,12,31,0.3870967741935484
+MD,all-surveys,"Washington County Detention Center, MD",Black or African American,12,36,0.3333333333333333
+NM,all-surveys,"Luna County Detention Center, NM",Hispanic or Latino,12,36,0.3333333333333333
+NM,all-surveys,"Luna County Detention Center, NM",White,12,36,0.3333333333333333
+OH,all-surveys,"Lorain County, OH ",White,12,44,0.2727272727272727
+OH,all-surveys,"Scioto County, OH ",White,12,15,0.8
+SC,all-surveys,"Clarendon County, SC",Black or African American,12,19,0.631578947368421
+TN,all-surveys,"Hamilton County, TN",White,12,46,0.2608695652173913
+TX,all-surveys,"Johnson County, TX",Hispanic or Latino,12,50,0.24
+VA,all-surveys,"Henrico County Sheriff's Office, VA",Black or African American,12,23,0.5217391304347826
+VA,all-surveys,"Meherrin River Alberta, VA",Black or African American,12,24,0.5
+WA,all-surveys,"Yakima County, WA",Native American / American Indian,12,110,0.10909090909090909
+WI,all-surveys,"Sheboygan County Jail, WI",White,12,29,0.41379310344827586
+WV,all-surveys,WV DCR Eastern Regional Jail,White,12,20,0.6
+WV,all-surveys,WV DCR North Central Regional Jail,Black or African American,12,115,0.10434782608695652
+CA,all-surveys,"Santa Clara County, CA","Hispanic or Latino, White",11,352,0.03125
+FL,all-surveys,"Lee County, FL",Black or African American,11,61,0.18032786885245902
+FL,all-surveys,"Monroe County-Key West, FL",White,11,26,0.4230769230769231
+FL,all-surveys,"Pinellas County Jail, FL",Black or African American,11,89,0.12359550561797752
+KS,all-surveys,"Butler County Corrections, KS",White,11,15,0.7333333333333333
+KY,all-surveys,"Pulaski County, KY",White,11,11,1
+MA,all-surveys,"Worcester County Jail, MA",Hispanic or Latino,11,58,0.1896551724137931
+MS,all-surveys,"Madison County Detention Center, MS",Black or African American,11,18,0.6111111111111112
+NC,all-surveys,"Craven County Jail, NC",Black or African American,11,33,0.3333333333333333
+NC,all-surveys,Durham County NC - Detention Facility,Black or African American,11,25,0.44
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",White,11,47,0.23404255319148937
+NJ,all-surveys,"Essex County Correctional Facility, NJ",White,11,68,0.16176470588235295
+NJ,all-surveys,"Ocean County, NJ",White,11,23,0.4782608695652174
+NY,all-surveys,"Onondaga County, NY",White,11,21,0.5238095238095238
+PA,all-surveys,"Venango County Prison, PA",White,11,16,0.6875
+PA,all-surveys,"York County, PA",White,11,18,0.6111111111111112
+TX,all-surveys,"GEO Group-Kinney County, TX",Hispanic or Latino,11,25,0.44
+VA,all-surveys,"Blue Ridge Regional Jail Authority, VA",White,11,28,0.39285714285714285
+WA,all-surveys,"King County Adult Detention, WA",Black or African American,11,62,0.1774193548387097
+WI,all-surveys,"Dodge County, WI",Black or African American,11,33,0.3333333333333333
+AL,all-surveys,"Tuscaloosa County Jail, AL",White,10,35,0.2857142857142857
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Hispanic or Latino, Other",10,873,0.011454753722794959
+AZ,all-surveys,"Pinal County Jail, AZ",Hispanic or Latino,10,51,0.19607843137254902
+CA,all-surveys,"Alameda County-Santa Rita, CA",Hispanic or Latino,10,41,0.24390243902439024
+CA,all-surveys,"Lassen County, CA",White,10,17,0.5882352941176471
+CO,all-surveys,"Mesa County, CO",Hispanic or Latino,10,94,0.10638297872340426
+CO,all-surveys,"Weld County, CO","Hispanic or Latino, White",10,133,0.07518796992481203
+GA,all-surveys,"Bibb County Jail, GA",White,10,50,0.2
+IL,all-surveys,"Cook County, IL","Black or African American, Native American / American Indian",10,566,0.0176678445229682
+IL,all-surveys,"DuPage County Jail, IL",Black or African American,10,29,0.3448275862068966
+MA,all-surveys,"Hampshire County, MA",White,10,25,0.4
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Black or African American,10,39,0.2564102564102564
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",White,10,91,0.10989010989010989
+NC,all-surveys,"New Hanover County Detention Center, NC",Black or African American,10,24,0.4166666666666667
+NJ,all-surveys,"Hudson County Corrections Center, NJ",Hispanic or Latino,10,32,0.3125
+NM,all-surveys,"Eddy County Detention Center, NM",Hispanic or Latino,10,30,0.3333333333333333
+NM,all-surveys,"Lea County Sheriff's Office, NM",Hispanic or Latino,10,35,0.2857142857142857
+NY,all-surveys,"Chemung County Jail, NY",White,10,14,0.7142857142857143
+NY,all-surveys,"Saratoga County Correctional Facility, NY",White,10,13,0.7692307692307693
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Hispanic or Latino,10,235,0.0425531914893617
+OH,all-surveys,"Fairfield County, OH",White,10,15,0.6666666666666666
+PA,all-surveys,"Adam County, PA - Adult Correctional Complex",White,10,15,0.6666666666666666
+PA,all-surveys,"Bradford County, PA",White,10,13,0.7692307692307693
+PA,all-surveys,"Cumberland County Prison, PA",White,10,24,0.4166666666666667
+PA,all-surveys,"Lancaster County Prison, PA",Hispanic or Latino,10,59,0.1694915254237288
+SC,all-surveys,"Aiken County, SC",White,10,19,0.5263157894736842
+SC,all-surveys,"Richland County Glenn Detention Center, SC",White,10,58,0.1724137931034483
+SC,all-surveys,"Sumter County Detention Center, SC",White,10,13,0.7692307692307693
+TX,all-surveys,"Hunt County, TX",White,10,25,0.4
+TX,all-surveys,"Potter County Detention, TX",Black or African American,10,78,0.1282051282051282
+VA,all-surveys,"Blue Ridge Regional Jail Authority, VA",Black or African American,10,28,0.35714285714285715
+VA,all-surveys,"Middle Peninsula Regional Jail, VA",White,10,16,0.625
+VA,all-surveys,"Southside Regional Jail, VA",Black or African American,10,11,0.9090909090909091
+WA,all-surveys,"Whatcom County, WA - Main Jail",Native American / American Indian,10,48,0.20833333333333334
+WI,all-surveys,"Rock County, WI",Black or African American,10,37,0.2702702702702703
+WI,all-surveys,"Winnebago County, WI",White,10,14,0.7142857142857143
+AZ,all-surveys,"Apache County Jail, AZ",White,9,23,0.391304347826087
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Black or African American, Hispanic or Latino",9,873,0.010309278350515464
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Black or African American, Native American / American Indian",9,873,0.010309278350515464
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Black or African American,9,104,0.08653846153846154
+CA,all-surveys,"Santa Clara County, CA",Asian American,9,352,0.02556818181818182
+CA,all-surveys,"Santa Clara County, CA",Native American / American Indian,9,352,0.02556818181818182
+CA,all-surveys,"Santa Clara County, CA",Native Hawaiian or Pacific Islander,9,352,0.02556818181818182
+CA,all-surveys,"Sonoma County, CA",Hispanic or Latino,9,42,0.21428571428571427
+CA,all-surveys,"Tehama County, CA",White,9,20,0.45
+CO,all-surveys,"Denver County Jail, CO",Other,9,148,0.060810810810810814
+CO,all-surveys,"Pueblo County, CO",Other,9,93,0.0967741935483871
+FL,all-surveys,"Pinellas County Jail, FL",Other,9,89,0.10112359550561797
+FL,all-surveys,"Walton County Jail, FL",White,9,13,0.6923076923076923
+GA,all-surveys,"Cobb County, GA",Hispanic or Latino,9,58,0.15517241379310345
+GA,all-surveys,"Forsyth County Detention Center, GA",White,9,21,0.42857142857142855
+GA,all-surveys,"Thomas County Detention, GA",Black or African American,9,20,0.45
+IN,all-surveys,"La Port County Jail, IN",Black or African American,9,38,0.23684210526315788
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Black or African American,9,25,0.36
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",White,9,25,0.36
+MA,all-surveys,"Bristol County House of Correction, MA",Black or African American,9,58,0.15517241379310345
+MA,all-surveys,"Bristol County House of Correction, MA",Hispanic or Latino,9,58,0.15517241379310345
+MD,all-surveys,"Anne Arundel County, MD",White,9,21,0.42857142857142855
+MD,all-surveys,"Prince Georges County DOC, MD",Black or African American,9,16,0.5625
+ME,all-surveys,"Cumberland County Jail, ME",White,9,16,0.5625
+MI,all-surveys,"Genesee County, MI",White,9,35,0.2571428571428571
+MI,all-surveys,"Kent County, MI ",Other,9,100,0.09
+MI,all-surveys,"Washtenaw County Jail, MI",Black or African American,9,24,0.375
+NC,all-surveys,"Craven County Jail, NC",White,9,33,0.2727272727272727
+NC,all-surveys,"Onslow County Jail, NC",White,9,33,0.2727272727272727
+NE,all-surveys,"Sarpy County Jail, NE",White,9,13,0.6923076923076923
+NJ,all-surveys,"Camden County Department of Corrections, NJ",Black or African American,9,24,0.375
+NJ,all-surveys,"Essex County Correctional Facility, NJ",Hispanic or Latino,9,68,0.1323529411764706
+NM,all-surveys,"Eddy County Detention Center, NM",White,9,30,0.3
+NY,all-surveys,"Oneida County Correctional Facility, NY",White,9,21,0.42857142857142855
+OH,all-surveys,"Columbiana County Jail, OH",White,9,16,0.5625
+PA,all-surveys,"Chester County Prison, PA",Black or African American,9,32,0.28125
+PA,all-surveys,"Delaware County, PA",White,9,37,0.24324324324324326
+PA,all-surveys,"Lackawana County, PA",Hispanic or Latino,9,115,0.0782608695652174
+TN,all-surveys,"Rhea County Jail, TN",White,9,13,0.6923076923076923
+TX,all-surveys,"Travis County Jail, TX",Other,9,204,0.04411764705882353
+VA,all-surveys,"Botetourt Craig Public Safety Facility, VA",White,9,16,0.5625
+AZ,all-surveys,"Pima County Jail, AZ","Hispanic or Latino, White",8,209,0.03827751196172249
+AZ,all-surveys,"Pima County Jail, AZ",Other,8,209,0.03827751196172249
+CA,all-surveys,"Madera County, CA",Native American / American Indian,8,90,0.08888888888888889
+CA,all-surveys,"Sonoma County, CA",Native American / American Indian,8,42,0.19047619047619047
+CA,all-surveys,"Yuba County, CA ",White,8,18,0.4444444444444444
+CO,all-surveys,"Mesa County, CO",Other,8,94,0.0851063829787234
+CO,all-surveys,"Weld County, CO","Hispanic or Latino, Native American / American Indian",8,133,0.06015037593984962
+FL,all-surveys,"Bay County, FL",Black or African American,8,35,0.22857142857142856
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Other,8,109,0.07339449541284404
+IL,all-surveys,"DuPage County Jail, IL",White,8,29,0.27586206896551724
+IL,all-surveys,"Kane County, IL",White,8,65,0.12307692307692308
+IL,all-surveys,"Winnebago County, IL",Other,8,153,0.05228758169934641
+IN,all-surveys,"Elkhart County Jail, IN",Black or African American,8,59,0.13559322033898305
+IN,all-surveys,"Hamilton County Main Jail, IN",Hispanic or Latino,8,97,0.08247422680412371
+KS,all-surveys,"Douglas County, KS",Black or African American,8,34,0.23529411764705882
+KS,all-surveys,"Shawnee County Detention Center, KS",Black or African American,8,37,0.21621621621621623
+MA,all-surveys,"Berkshire County House of Corrections, MA",White,8,24,0.3333333333333333
+MD,all-surveys,"Dorchester County Detention Center, MD",Black or African American,8,8,1
+MO,all-surveys,"Marion County, MO ",White,8,11,0.7272727272727273
+MT,all-surveys,"Missoula County, MT",White,8,23,0.34782608695652173
+NC,all-surveys,"Cumberland County, NC",Other,8,82,0.0975609756097561
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Hispanic or Latino,8,91,0.08791208791208792
+NC,all-surveys,"Stanly County Jail, NC",White,8,15,0.5333333333333333
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",White,8,30,0.26666666666666666
+NJ,all-surveys,"Bergen County, NJ",White,8,51,0.1568627450980392
+NJ,all-surveys,"Cumberland County Jail, NJ",Black or African American,8,24,0.3333333333333333
+NY,all-surveys,"Cayuga County, NY",White,8,12,0.6666666666666666
+NY,all-surveys,"Chautauqua County, NY",Hispanic or Latino,8,38,0.21052631578947367
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Other,8,84,0.09523809523809523
+NY,all-surveys,"Ulster County Jail, NY",White,8,19,0.42105263157894735
+OH,all-surveys,Corrections Center of NW Ohio,Black or African American,8,45,0.17777777777777778
+PA,all-surveys,"Bucks County Correctional Facility, PA",White,8,23,0.34782608695652173
+PA,all-surveys,"Cambria County Prison, PA",Black or African American,8,42,0.19047619047619047
+PA,all-surveys,"Centre County Correctional Facility, PA",White,8,10,0.8
+PA,all-surveys,"Dauphin County Jail, PA","Black or African American, Other",8,118,0.06779661016949153
+PA,all-surveys,"Indiana County, PA",White,8,20,0.4
+PA,all-surveys,"Lebanon County, PA",Black or African American,8,66,0.12121212121212122
+PA,all-surveys,"Northampton County Prison, PA",White,8,19,0.42105263157894735
+TX,all-surveys,"Guadalupe County, TX",Black or African American,8,75,0.10666666666666667
+TX,all-surveys,"MTC: Giles Dalby, TX",Other,8,132,0.06060606060606061
+VA,all-surveys,"Arlington County Detention Center, VA",Hispanic or Latino,8,34,0.23529411764705882
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Other,8,109,0.07339449541284404
+WI,all-surveys,"La Crosse County Jail, WI",White,8,12,0.6666666666666666
+AL,all-surveys,"Riverside Regional, VA",Black or African American,7,34,0.20588235294117646
+AZ,all-surveys,"Pinal County Jail, AZ",Black or African American,7,51,0.13725490196078433
+CA,all-surveys,"Madera County, CA",Black or African American,7,90,0.07777777777777778
+CA,all-surveys,"Madera County, CA",Other,7,90,0.07777777777777778
+CA,all-surveys,"Nevada County, CA",White,7,12,0.5833333333333334
+CA,all-surveys,"Orange County, CA - Theo Lacy","Hispanic or Latino, White",7,134,0.05223880597014925
+CA,all-surveys,"Sacramento County Sheriff's Office, CA","Black or African American, Other",7,302,0.023178807947019868
+CA,all-surveys,"Santa Barbara County, CA","Hispanic or Latino, White",7,74,0.0945945945945946
+CA,all-surveys,"Stanislaus County, CA",Native American / American Indian,7,171,0.04093567251461988
+CA,all-surveys,"Tuolumne-Dambacher Detention Center, CA",White,7,17,0.4117647058823529
+CO,all-surveys,"Denver County Jail, CO",Native American / American Indian,7,148,0.0472972972972973
+CO,all-surveys,"Douglas Detention Center, CO",Black or African American,7,43,0.16279069767441862
+CO,all-surveys,"Mesa County, CO",Native American / American Indian,7,94,0.07446808510638298
+CO,all-surveys,"Mesa County, CO","Native American / American Indian, White",7,94,0.07446808510638298
+CO,all-surveys,"Pueblo County, CO","Hispanic or Latino, Native American / American Indian",7,93,0.07526881720430108
+DC,all-surveys,DC DOC: Central Detention Facility,Other,7,81,0.08641975308641975
+FL,all-surveys,"Monroe County-Key West, FL",Hispanic or Latino,7,26,0.2692307692307692
+FL,all-surveys,"Pinellas County Jail, FL",Hispanic or Latino,7,89,0.07865168539325842
+GA,all-surveys,"Thomas County Detention, GA",White,7,20,0.35
+IA,all-surveys,"Dubuque County, IA ",White,7,14,0.5
+IL,all-surveys,"Cook County, IL","Asian American, Black or African American, Hispanic or Latino, Middle Eastern or Arab, Native American / American Indian, Native Hawaiian or Pacific Islander, Other, White",7,566,0.012367491166077738
+IL,all-surveys,"DuPage County Jail, IL",Hispanic or Latino,7,29,0.2413793103448276
+IL,all-surveys,Edovo Go - General,White,7,15,0.4666666666666667
+IL,all-surveys,"Madison County, IL",Black or African American,7,20,0.35
+IL,all-surveys,"Vermilion County Jail, IL",White,7,19,0.3684210526315789
+IL,all-surveys,"Winnebago County, IL","Black or African American, Other",7,153,0.0457516339869281
+MA,all-surveys,"Berkshire County House of Corrections, MA",Black or African American,7,24,0.2916666666666667
+MD,all-surveys,"Anne Arundel County, MD",Black or African American,7,21,0.3333333333333333
+ME,all-surveys,"Kennebec County Jail, ME",White,7,9,0.7777777777777778
+ME,all-surveys,"Somerset County Jail, ME",White,7,10,0.7
+MI,all-surveys,"Kalamazoo County, MI",White,7,24,0.2916666666666667
+MI,all-surveys,"Kent County, MI ",Hispanic or Latino,7,100,0.07
+MI,all-surveys,"Monroe County Correctional System, MI",White,7,13,0.5384615384615384
+NC,all-surveys,"Brunswick County Jail, NC",White,7,12,0.5833333333333334
+NE,all-surveys,"Lancaster County, NE",Native American / American Indian,7,76,0.09210526315789473
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",Hispanic or Latino,7,30,0.23333333333333334
+NH,all-surveys,"Hillsborough County House of Corrections, NH",Black or African American,7,23,0.30434782608695654
+NH,all-surveys,"Hillsborough County House of Corrections, NH",White,7,23,0.30434782608695654
+NJ,all-surveys,"Mercer County Correction Center, NJ",Black or African American,7,16,0.4375
+NM,all-surveys,"Chaves County Adult Detention Center, NM",White,7,34,0.20588235294117646
+NM,all-surveys,"Curry County Detention Center, NM",White,7,29,0.2413793103448276
+NM,all-surveys,"Lea County Sheriff's Office, NM",Black or African American,7,35,0.2
+NM,all-surveys,"Lea County Sheriff's Office, NM",White,7,35,0.2
+NY,all-surveys,"Albany County Correctional Facility, NY",Hispanic or Latino,7,87,0.08045977011494253
+NY,all-surveys,"Broome County Public Safety Facility, NY",White,7,20,0.35
+NY,all-surveys,"Herkimer County Correctional Facility, NY",White,7,8,0.875
+OH,all-surveys,"Ashland County, OH ",Black or African American,7,17,0.4117647058823529
+OH,all-surveys,"Cuyahoga County Justice Center, OH","Black or African American, Native American / American Indian",7,235,0.029787234042553193
+PA,all-surveys,"Franklin County, PA",Black or African American,7,34,0.20588235294117646
+PA,all-surveys,"Lackawana County, PA",Other,7,115,0.06086956521739131
+PA,all-surveys,"Lancaster County Prison, PA",Black or African American,7,59,0.11864406779661017
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Other,7,92,0.07608695652173914
+TN,all-surveys,"Davidson County Detention Center, TN",Other,7,119,0.058823529411764705
+TX,all-surveys,"Uvalde County, TX",Hispanic or Latino,7,11,0.6363636363636364
+UT,all-surveys,"Beaver County, UT",Hispanic or Latino,7,40,0.175
+UT,all-surveys,"Salt Lake City County, UT",Hispanic or Latino,7,68,0.10294117647058823
+UT,all-surveys,"Sanpete County Jail, UT",White,7,9,0.7777777777777778
+UT,all-surveys,"Weber County Correctional Facility, UT",White,7,21,0.3333333333333333
+VA,all-surveys,"Norfolk City Jail, VA",Black or African American,7,17,0.4117647058823529
+VA,all-surveys,"Western Regional, VA",Black or African American,7,52,0.1346153846153846
+WA,all-surveys,"King County Adult Detention, WA",Other,7,62,0.11290322580645161
+WA,all-surveys,"Whatcom County, WA - Main Jail",Hispanic or Latino,7,48,0.14583333333333334
+WI,all-surveys,"Brown County Jail, WI",Other,7,73,0.0958904109589041
+AZ,all-surveys,"Apache County Jail, AZ",Native American / American Indian,6,23,0.2608695652173913
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Black or African American, Hispanic or Latino, Native American / American Indian",6,873,0.006872852233676976
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Other, White",6,873,0.006872852233676976
+CA,all-surveys,"Butte County, CA","Native American / American Indian, White",6,55,0.10909090909090909
+CA,all-surveys,"Butte County, CA",Other,6,55,0.10909090909090909
+CA,all-surveys,"Fresno County, CA","Black or African American, Other",6,224,0.026785714285714284
+CA,all-surveys,"Madera County, CA","Native American / American Indian, White",6,90,0.06666666666666667
+CA,all-surveys,"Orange County, CA - Theo Lacy","Hispanic or Latino, Other",6,134,0.04477611940298507
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Asian American,6,302,0.019867549668874173
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Native American / American Indian,6,302,0.019867549668874173
+CA,all-surveys,"Santa Clara County, CA","Hispanic or Latino, Other, White",6,352,0.017045454545454544
+CA,all-surveys,"Tulare County, CA-Bob Wiley Detention ",Hispanic or Latino,6,12,0.5
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Black or African American,6,99,0.06060606060606061
+CO,all-surveys,"Denver County Jail, CO","Hispanic or Latino, Native American / American Indian",6,148,0.04054054054054054
+CO,all-surveys,"Jefferson County Detention Facility, CO",Other,6,76,0.07894736842105263
+CO,all-surveys,"La Plata County, CO ",Native American / American Indian,6,18,0.3333333333333333
+CO,all-surveys,"Pueblo County, CO",Black or African American,6,93,0.06451612903225806
+FL,all-surveys,"Hardee County Jail, FL",White,6,10,0.6
+FL,all-surveys,"Lake County Detention Center, FL",Black or African American,6,28,0.21428571428571427
+FL,all-surveys,"St. Lucie County Jail, FL",Black or African American,6,27,0.2222222222222222
+GA,all-surveys,"Hall County Jail, GA",White,6,11,0.5454545454545454
+IL,all-surveys,"Cook County, IL","Black or African American, Native American / American Indian, Other",6,566,0.01060070671378092
+IL,all-surveys,"Kane County, IL",Other,6,65,0.09230769230769231
+IL,all-surveys,"Madison County, IL",White,6,20,0.3
+IL,all-surveys,"Vermilion County Jail, IL",Black or African American,6,19,0.3157894736842105
+IL,all-surveys,"Winnebago County, IL",Hispanic or Latino,6,153,0.0392156862745098
+IL,all-surveys,"Winnebago County, IL","Other, White",6,153,0.0392156862745098
+IN,all-surveys,"Elkhart County Jail, IN",Other,6,59,0.1016949152542373
+IN,all-surveys,"Montgomery County, IN",White,6,8,0.75
+MA,all-surveys,"Franklin County Jail, MA",White,6,14,0.42857142857142855
+MA,all-surveys,"Norfolk County Jail, MA",Black or African American,6,31,0.1935483870967742
+MA,all-surveys,"Suffolk County Jail, MA",Other,6,71,0.08450704225352113
+MA,all-surveys,"Worcester County Jail, MA",Black or African American,6,58,0.10344827586206896
+MA,all-surveys,"Worcester County Jail, MA",Other,6,58,0.10344827586206896
+ME,all-surveys,"York County Jail, ME",White,6,8,0.75
+MI,all-surveys,"Kalamazoo County, MI",Black or African American,6,24,0.25
+MI,all-surveys,"Muskegon County Jail, MI",Black or African American,6,17,0.35294117647058826
+MI,all-surveys,"Washtenaw County Jail, MI",White,6,24,0.25
+MO,all-surveys,"Cape Girardeau County Jail, MO",Other,6,69,0.08695652173913043
+MT,all-surveys,"Dawson County, MT",White,6,8,0.75
+NC,all-surveys,"Craven County Jail, NC",Other,6,33,0.18181818181818182
+NC,all-surveys,"New Hanover County Detention Center, NC",White,6,24,0.25
+NE,all-surveys,"Lancaster County, NE",Hispanic or Latino,6,76,0.07894736842105263
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",Native American / American Indian,6,30,0.2
+NJ,all-surveys,Middlesex County NJ: Adult Correctional,Hispanic or Latino,6,16,0.375
+NM,all-surveys,"Santa Fe County Adult Correctional Facility, NM",White,6,37,0.16216216216216217
+NV,all-surveys,"Elko County, NV",White,6,11,0.5454545454545454
+NY,all-surveys,"Albany County Correctional Facility, NY",Other,6,87,0.06896551724137931
+NY,all-surveys,"New York City Department of Correction, NY (NYC DOC)",Other,6,70,0.08571428571428572
+NY,all-surveys,"Pasco County Corrections, FL","Hispanic or Latino, White",6,146,0.0410958904109589
+NY,all-surveys,"Pasco County Corrections, FL",Other,6,146,0.0410958904109589
+PA,all-surveys,"Dauphin County Jail, PA","Black or African American, White",6,118,0.05084745762711865
+PA,all-surveys,"Huntingdon County Prison, PA",White,6,7,0.8571428571428571
+PA,all-surveys,"Lycoming County, PA",Black or African American,6,14,0.42857142857142855
+PA,all-surveys,"Northumberland County, PA",White,6,12,0.5
+TN,all-surveys,"Johnson County Jail, TN",White,6,8,0.75
+TX,all-surveys,"Collin County, TX ",Hispanic or Latino,6,69,0.08695652173913043
+TX,all-surveys,"Johnson County, TX",Black or African American,6,50,0.12
+TX,all-surveys,"Potter County Detention, TX","Hispanic or Latino, White",6,78,0.07692307692307693
+TX,all-surveys,"Travis County Jail, TX",Native American / American Indian,6,204,0.029411764705882353
+UT,all-surveys,"Uintah County Jail, UT",White,6,8,0.75
+UT,all-surveys,"Utah County Jail, UT",White,6,7,0.8571428571428571
+VA,all-surveys,"Piedmont Regional Security Center, VA",White,6,11,0.5454545454545454
+WA,all-surveys,"Spokane County Jail, WA",Other,6,82,0.07317073170731707
+WI,all-surveys,"Brown County Jail, WI",Hispanic or Latino,6,73,0.0821917808219178
+WV,all-surveys,WV DCR Southwestern Regional Jail,Black or African American,6,47,0.1276595744680851

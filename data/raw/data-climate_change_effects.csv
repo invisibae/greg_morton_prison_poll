@@ -1,0 +1,237 @@
+state,answer_set,climate_change_effects,count,n_respondents,pct_of_respondents
+0_ALL_STATES,all-surveys,A worse place to live,11414,25368,0.4499369284137496
+0_ALL_STATES,all-surveys,Not much different,5009,25368,0.19745348470514035
+0_ALL_STATES,all-surveys,No answer,4365,25368,0.17206717123935666
+CA,all-surveys,A worse place to live,2560,4696,0.545144804088586
+AZ,all-surveys,A worse place to live,2533,4576,0.5535402097902098
+0_ALL_STATES,all-surveys,A better place to live,2147,25368,0.08463418479974771
+0_ALL_STATES,all-surveys,Climate change is not impacting communities,1942,25368,0.07655313781141596
+NC,all-surveys,A worse place to live,1495,4107,0.36401266130995863
+NC,all-surveys,Not much different,886,4107,0.21572924275626978
+NC,all-surveys,No answer,828,4107,0.20160701241782322
+AZ,all-surveys,Not much different,710,4576,0.15515734265734266
+WA,all-surveys,A worse place to live,698,1701,0.41034685479129923
+CA,all-surveys,Not much different,688,4696,0.1465076660988075
+OK,all-surveys,A worse place to live,656,1422,0.4613220815752461
+AZ,all-surveys,No answer,650,4576,0.14204545454545456
+OH,all-surveys,A worse place to live,633,1420,0.44577464788732396
+CA,all-surveys,No answer,624,4696,0.13287904599659284
+KY,all-surveys,A worse place to live,605,1463,0.41353383458646614
+CA,all-surveys,A better place to live,444,4696,0.09454855195911414
+NC,all-surveys,Climate change is not impacting communities,404,4107,0.09836863890917945
+NC,all-surveys,A better place to live,392,4107,0.09544679814950086
+WA,all-surveys,Not much different,384,1701,0.2257495590828924
+AR,all-surveys,A worse place to live,376,1000,0.376
+SC,all-surveys,A worse place to live,359,931,0.38560687432867885
+KY,all-surveys,Not much different,349,1463,0.23855092276144907
+AZ,all-surveys,A better place to live,329,4576,0.07189685314685315
+WA,all-surveys,No answer,318,1701,0.18694885361552027
+CA,all-surveys,Climate change is not impacting communities,301,4696,0.06409710391822827
+OH,all-surveys,Not much different,290,1420,0.20422535211267606
+OK,all-surveys,Not much different,284,1422,0.19971870604781997
+KY,all-surveys,No answer,276,1463,0.18865345181134655
+OK,all-surveys,No answer,265,1422,0.18635724331926865
+WV,all-surveys,A worse place to live,262,867,0.3021914648212226
+AL,all-surveys,A worse place to live,260,604,0.4304635761589404
+AZ,all-surveys,Climate change is not impacting communities,258,4576,0.05638111888111888
+AR,all-surveys,Not much different,252,1000,0.252
+OH,all-surveys,No answer,252,1420,0.17746478873239438
+WV,all-surveys,Not much different,250,867,0.28835063437139563
+OR,all-surveys,A worse place to live,214,548,0.3905109489051095
+NE,all-surveys,A worse place to live,211,557,0.37881508078994613
+SC,all-surveys,Not much different,191,931,0.20515574650912996
+SC,all-surveys,No answer,189,931,0.20300751879699247
+SD,all-surveys,A worse place to live,181,464,0.3900862068965517
+WV,all-surveys,No answer,180,867,0.20761245674740483
+AR,all-surveys,No answer,170,1000,0.17
+WA,all-surveys,Climate change is not impacting communities,148,1701,0.08700764256319812
+OR,all-surveys,Not much different,138,548,0.2518248175182482
+NE,all-surveys,Not much different,137,557,0.2459605026929982
+WA,all-surveys,A better place to live,118,1701,0.06937095825984715
+OH,all-surveys,Climate change is not impacting communities,116,1420,0.08169014084507042
+KY,all-surveys,A better place to live,115,1463,0.0786056049213944
+OH,all-surveys,A better place to live,115,1420,0.08098591549295775
+AL,all-surveys,Not much different,113,604,0.1870860927152318
+NE,all-surveys,No answer,109,557,0.19569120287253142
+AL,all-surveys,No answer,106,604,0.17549668874172186
+KY,all-surveys,Climate change is not impacting communities,105,1463,0.07177033492822966
+OK,all-surveys,A better place to live,104,1422,0.07313642756680731
+MI,all-surveys,A worse place to live,101,269,0.3754646840148699
+OR,all-surveys,No answer,100,548,0.18248175182481752
+SD,all-surveys,Not much different,100,464,0.21551724137931033
+OK,all-surveys,Climate change is not impacting communities,96,1422,0.06751054852320675
+SC,all-surveys,A better place to live,96,931,0.10311493018259936
+AR,all-surveys,Climate change is not impacting communities,93,1000,0.093
+SD,all-surveys,No answer,91,464,0.1961206896551724
+MT,all-surveys,A worse place to live,86,227,0.3788546255506608
+WV,all-surveys,Climate change is not impacting communities,84,867,0.09688581314878893
+0_ALL_STATES,all-surveys,"A worse place to live, Not much different",83,25368,0.003271838536739199
+AR,all-surveys,A better place to live,83,1000,0.083
+SC,all-surveys,Climate change is not impacting communities,82,931,0.08807733619763695
+WV,all-surveys,A better place to live,71,867,0.08189158016147635
+0_ALL_STATES,all-surveys,"A worse place to live, No answer",65,25368,0.002562283191422264
+ME,all-surveys,A worse place to live,65,160,0.40625
+0_ALL_STATES,all-surveys,"No answer, Not much different",63,25368,0.0024834437086092716
+0_ALL_STATES,all-surveys,"Climate change is not impacting communities, Not much different",60,25368,0.0023651844843897824
+MI,all-surveys,Not much different,60,269,0.22304832713754646
+AL,all-surveys,Climate change is not impacting communities,59,604,0.09768211920529801
+MI,all-surveys,No answer,59,269,0.21933085501858737
+TX,all-surveys,A worse place to live,59,185,0.31891891891891894
+MT,all-surveys,Not much different,56,227,0.24669603524229075
+AL,all-surveys,A better place to live,50,604,0.08278145695364239
+NE,all-surveys,A better place to live,50,557,0.08976660682226212
+NH,all-surveys,A worse place to live,48,111,0.43243243243243246
+SD,all-surveys,A better place to live,47,464,0.10129310344827586
+0_ALL_STATES,all-surveys,"A better place to live, A worse place to live",46,25368,0.0018133081046988332
+0_ALL_STATES,all-surveys,"A better place to live, No answer",46,25368,0.0018133081046988332
+OR,all-surveys,Climate change is not impacting communities,44,548,0.08029197080291971
+TX,all-surveys,Not much different,42,185,0.22702702702702704
+OR,all-surveys,A better place to live,41,548,0.07481751824817519
+0_ALL_STATES,all-surveys,"Climate change is not impacting communities, No answer",40,25368,0.001576789656259855
+MT,all-surveys,No answer,38,227,0.16740088105726872
+TX,all-surveys,No answer,38,185,0.20540540540540542
+ME,all-surveys,No answer,37,160,0.23125
+NE,all-surveys,Climate change is not impacting communities,36,557,0.06463195691202872
+0_ALL_STATES,all-surveys,"A better place to live, Not much different",34,25368,0.0013402712078208767
+NH,all-surveys,Not much different,34,111,0.3063063063063063
+SD,all-surveys,Climate change is not impacting communities,32,464,0.06896551724137931
+ME,all-surveys,Not much different,30,160,0.1875
+MI,all-surveys,A better place to live,24,269,0.08921933085501858
+TX,all-surveys,A better place to live,24,185,0.12972972972972974
+MT,all-surveys,Climate change is not impacting communities,21,227,0.09251101321585903
+0_ALL_STATES,all-surveys,"A better place to live, Climate change is not impacting communities",20,25368,0.0007883948281299275
+MT,all-surveys,A better place to live,20,227,0.0881057268722467
+TX,all-surveys,Climate change is not impacting communities,20,185,0.10810810810810811
+AZ,all-surveys,"A worse place to live, Not much different",19,4576,0.004152097902097902
+NH,all-surveys,No answer,19,111,0.17117117117117117
+NC,all-surveys,"No answer, Not much different",18,4107,0.004382761139517896
+0_ALL_STATES,all-surveys,"A worse place to live, Climate change is not impacting communities",17,25368,0.0006701356039104383
+CA,all-surveys,"A worse place to live, Not much different",17,4696,0.003620102214650767
+MI,all-surveys,Climate change is not impacting communities,17,269,0.06319702602230483
+NC,all-surveys,"A worse place to live, Not much different",15,4107,0.003652300949598247
+NC,all-surveys,"Climate change is not impacting communities, Not much different",15,4107,0.003652300949598247
+CA,all-surveys,"A better place to live, A worse place to live",14,4696,0.002981260647359455
+ME,all-surveys,A better place to live,14,160,0.0875
+AZ,all-surveys,"No answer, Not much different",12,4576,0.0026223776223776225
+AZ,all-surveys,"A worse place to live, No answer",11,4576,0.002403846153846154
+AZ,all-surveys,"Climate change is not impacting communities, Not much different",11,4576,0.002403846153846154
+CA,all-surveys,"A worse place to live, No answer",11,4696,0.002342419080068143
+NC,all-surveys,"A worse place to live, No answer",11,4107,0.002678354029705381
+0_ALL_STATES,2024-001,A worse place to live,11414,25368,0.4499369284137496
+0_ALL_STATES,2024-001,Not much different,5009,25368,0.19745348470514035
+0_ALL_STATES,2024-001,No answer,4365,25368,0.17206717123935666
+CA,2024-001,A worse place to live,2560,4696,0.545144804088586
+AZ,2024-001,A worse place to live,2533,4576,0.5535402097902098
+0_ALL_STATES,2024-001,A better place to live,2147,25368,0.08463418479974771
+0_ALL_STATES,2024-001,Climate change is not impacting communities,1942,25368,0.07655313781141596
+NC,2024-001,A worse place to live,1495,4107,0.36401266130995863
+NC,2024-001,Not much different,886,4107,0.21572924275626978
+NC,2024-001,No answer,828,4107,0.20160701241782322
+AZ,2024-001,Not much different,710,4576,0.15515734265734266
+WA,2024-001,A worse place to live,698,1701,0.41034685479129923
+CA,2024-001,Not much different,688,4696,0.1465076660988075
+OK,2024-001,A worse place to live,656,1422,0.4613220815752461
+AZ,2024-001,No answer,650,4576,0.14204545454545456
+OH,2024-001,A worse place to live,633,1420,0.44577464788732396
+CA,2024-001,No answer,624,4696,0.13287904599659284
+KY,2024-001,A worse place to live,605,1463,0.41353383458646614
+CA,2024-001,A better place to live,444,4696,0.09454855195911414
+NC,2024-001,Climate change is not impacting communities,404,4107,0.09836863890917945
+NC,2024-001,A better place to live,392,4107,0.09544679814950086
+WA,2024-001,Not much different,384,1701,0.2257495590828924
+AR,2024-001,A worse place to live,376,1000,0.376
+SC,2024-001,A worse place to live,359,931,0.38560687432867885
+KY,2024-001,Not much different,349,1463,0.23855092276144907
+AZ,2024-001,A better place to live,329,4576,0.07189685314685315
+WA,2024-001,No answer,318,1701,0.18694885361552027
+CA,2024-001,Climate change is not impacting communities,301,4696,0.06409710391822827
+OH,2024-001,Not much different,290,1420,0.20422535211267606
+OK,2024-001,Not much different,284,1422,0.19971870604781997
+KY,2024-001,No answer,276,1463,0.18865345181134655
+OK,2024-001,No answer,265,1422,0.18635724331926865
+WV,2024-001,A worse place to live,262,867,0.3021914648212226
+AL,2024-001,A worse place to live,260,604,0.4304635761589404
+AZ,2024-001,Climate change is not impacting communities,258,4576,0.05638111888111888
+AR,2024-001,Not much different,252,1000,0.252
+OH,2024-001,No answer,252,1420,0.17746478873239438
+WV,2024-001,Not much different,250,867,0.28835063437139563
+OR,2024-001,A worse place to live,214,548,0.3905109489051095
+NE,2024-001,A worse place to live,211,557,0.37881508078994613
+SC,2024-001,Not much different,191,931,0.20515574650912996
+SC,2024-001,No answer,189,931,0.20300751879699247
+SD,2024-001,A worse place to live,181,464,0.3900862068965517
+WV,2024-001,No answer,180,867,0.20761245674740483
+AR,2024-001,No answer,170,1000,0.17
+WA,2024-001,Climate change is not impacting communities,148,1701,0.08700764256319812
+OR,2024-001,Not much different,138,548,0.2518248175182482
+NE,2024-001,Not much different,137,557,0.2459605026929982
+WA,2024-001,A better place to live,118,1701,0.06937095825984715
+OH,2024-001,Climate change is not impacting communities,116,1420,0.08169014084507042
+KY,2024-001,A better place to live,115,1463,0.0786056049213944
+OH,2024-001,A better place to live,115,1420,0.08098591549295775
+AL,2024-001,Not much different,113,604,0.1870860927152318
+NE,2024-001,No answer,109,557,0.19569120287253142
+AL,2024-001,No answer,106,604,0.17549668874172186
+KY,2024-001,Climate change is not impacting communities,105,1463,0.07177033492822966
+OK,2024-001,A better place to live,104,1422,0.07313642756680731
+MI,2024-001,A worse place to live,101,269,0.3754646840148699
+OR,2024-001,No answer,100,548,0.18248175182481752
+SD,2024-001,Not much different,100,464,0.21551724137931033
+OK,2024-001,Climate change is not impacting communities,96,1422,0.06751054852320675
+SC,2024-001,A better place to live,96,931,0.10311493018259936
+AR,2024-001,Climate change is not impacting communities,93,1000,0.093
+SD,2024-001,No answer,91,464,0.1961206896551724
+MT,2024-001,A worse place to live,86,227,0.3788546255506608
+WV,2024-001,Climate change is not impacting communities,84,867,0.09688581314878893
+0_ALL_STATES,2024-001,"A worse place to live, Not much different",83,25368,0.003271838536739199
+AR,2024-001,A better place to live,83,1000,0.083
+SC,2024-001,Climate change is not impacting communities,82,931,0.08807733619763695
+WV,2024-001,A better place to live,71,867,0.08189158016147635
+0_ALL_STATES,2024-001,"A worse place to live, No answer",65,25368,0.002562283191422264
+ME,2024-001,A worse place to live,65,160,0.40625
+0_ALL_STATES,2024-001,"No answer, Not much different",63,25368,0.0024834437086092716
+0_ALL_STATES,2024-001,"Climate change is not impacting communities, Not much different",60,25368,0.0023651844843897824
+MI,2024-001,Not much different,60,269,0.22304832713754646
+AL,2024-001,Climate change is not impacting communities,59,604,0.09768211920529801
+MI,2024-001,No answer,59,269,0.21933085501858737
+TX,2024-001,A worse place to live,59,185,0.31891891891891894
+MT,2024-001,Not much different,56,227,0.24669603524229075
+AL,2024-001,A better place to live,50,604,0.08278145695364239
+NE,2024-001,A better place to live,50,557,0.08976660682226212
+NH,2024-001,A worse place to live,48,111,0.43243243243243246
+SD,2024-001,A better place to live,47,464,0.10129310344827586
+0_ALL_STATES,2024-001,"A better place to live, A worse place to live",46,25368,0.0018133081046988332
+0_ALL_STATES,2024-001,"A better place to live, No answer",46,25368,0.0018133081046988332
+OR,2024-001,Climate change is not impacting communities,44,548,0.08029197080291971
+TX,2024-001,Not much different,42,185,0.22702702702702704
+OR,2024-001,A better place to live,41,548,0.07481751824817519
+0_ALL_STATES,2024-001,"Climate change is not impacting communities, No answer",40,25368,0.001576789656259855
+MT,2024-001,No answer,38,227,0.16740088105726872
+TX,2024-001,No answer,38,185,0.20540540540540542
+ME,2024-001,No answer,37,160,0.23125
+NE,2024-001,Climate change is not impacting communities,36,557,0.06463195691202872
+0_ALL_STATES,2024-001,"A better place to live, Not much different",34,25368,0.0013402712078208767
+NH,2024-001,Not much different,34,111,0.3063063063063063
+SD,2024-001,Climate change is not impacting communities,32,464,0.06896551724137931
+ME,2024-001,Not much different,30,160,0.1875
+MI,2024-001,A better place to live,24,269,0.08921933085501858
+TX,2024-001,A better place to live,24,185,0.12972972972972974
+MT,2024-001,Climate change is not impacting communities,21,227,0.09251101321585903
+0_ALL_STATES,2024-001,"A better place to live, Climate change is not impacting communities",20,25368,0.0007883948281299275
+MT,2024-001,A better place to live,20,227,0.0881057268722467
+TX,2024-001,Climate change is not impacting communities,20,185,0.10810810810810811
+AZ,2024-001,"A worse place to live, Not much different",19,4576,0.004152097902097902
+NH,2024-001,No answer,19,111,0.17117117117117117
+NC,2024-001,"No answer, Not much different",18,4107,0.004382761139517896
+0_ALL_STATES,2024-001,"A worse place to live, Climate change is not impacting communities",17,25368,0.0006701356039104383
+CA,2024-001,"A worse place to live, Not much different",17,4696,0.003620102214650767
+MI,2024-001,Climate change is not impacting communities,17,269,0.06319702602230483
+NC,2024-001,"A worse place to live, Not much different",15,4107,0.003652300949598247
+NC,2024-001,"Climate change is not impacting communities, Not much different",15,4107,0.003652300949598247
+CA,2024-001,"A better place to live, A worse place to live",14,4696,0.002981260647359455
+ME,2024-001,A better place to live,14,160,0.0875
+AZ,2024-001,"No answer, Not much different",12,4576,0.0026223776223776225
+AZ,2024-001,"A worse place to live, No answer",11,4576,0.002403846153846154
+AZ,2024-001,"Climate change is not impacting communities, Not much different",11,4576,0.002403846153846154
+CA,2024-001,"A worse place to live, No answer",11,4696,0.002342419080068143
+NC,2024-001,"A worse place to live, No answer",11,4107,0.002678354029705381

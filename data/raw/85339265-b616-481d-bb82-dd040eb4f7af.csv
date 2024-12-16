@@ -1,0 +1,690 @@
+state,answer_set,facility_name,party,count,n_respondents,pct_of_respondents
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Independent,319,872,0.3658256880733945
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Republican,188,872,0.21559633027522937
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Democrat,159,872,0.1823394495412844
+IL,all-surveys,"Cook County, IL",Independent,154,572,0.2692307692307692
+IL,all-surveys,"Cook County, IL",Democrat,145,572,0.2534965034965035
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Other,135,872,0.15481651376146788
+IL,all-surveys,"Cook County, IL",Republican,120,572,0.2097902097902098
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Independent,113,297,0.38047138047138046
+CA,all-surveys,"Santa Clara County, CA",Democrat,97,350,0.27714285714285714
+CA,all-surveys,"Santa Clara County, CA",Independent,90,350,0.2571428571428571
+CA,all-surveys,"Santa Clara County, CA",Other,88,350,0.25142857142857145
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Independent,82,236,0.3474576271186441
+AZ,all-surveys,"Pima County Jail, AZ",Independent,80,210,0.38095238095238093
+IL,all-surveys,"Cook County, IL",Other,76,572,0.13286713286713286
+TX,all-surveys,"Travis County Jail, TX",Independent,71,205,0.3463414634146341
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",Independent,66,182,0.3626373626373626
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Republican,65,297,0.21885521885521886
+CA,all-surveys,"Santa Clara County, CA",Republican,65,350,0.18571428571428572
+CA,all-surveys,"Fresno County, CA",Independent,63,224,0.28125
+CA,all-surveys,"Stanislaus County, CA",Independent,57,171,0.3333333333333333
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Other,56,297,0.18855218855218855
+IL,all-surveys,"Winnebago County, IL",Independent,56,156,0.358974358974359
+NY,all-surveys,"Pasco County Corrections, FL",Independent,56,147,0.38095238095238093
+CO,all-surveys,"Weld County, CO",Independent,54,130,0.4153846153846154
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",Republican,54,182,0.2967032967032967
+TX,all-surveys,"MTC: Giles Dalby, TX",Independent,51,130,0.3923076923076923
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Democrat,50,236,0.211864406779661
+TN,all-surveys,"Davidson County Detention Center, TN",Independent,50,119,0.42016806722689076
+CA,all-surveys,"Fresno County, CA",Republican,48,224,0.21428571428571427
+CO,all-surveys,"Denver County Jail, CO",Independent,48,148,0.32432432432432434
+CA,all-surveys,"Stanislaus County, CA",Republican,46,171,0.26900584795321636
+NY,all-surveys,"Pasco County Corrections, FL",Republican,45,147,0.30612244897959184
+TX,all-surveys,"Travis County Jail, TX",Other,45,205,0.21951219512195122
+WV,all-surveys,WV DCR North Central Regional Jail,Independent,45,115,0.391304347826087
+CA,all-surveys,"Fresno County, CA",Democrat,43,224,0.19196428571428573
+CA,all-surveys,"Orange County, CA - Theo Lacy",Independent,43,135,0.31851851851851853
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Republican,43,236,0.18220338983050846
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Democrat,42,297,0.1414141414141414
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Other,42,236,0.17796610169491525
+WA,all-surveys,"Yakima County, WA",Independent,42,110,0.38181818181818183
+AZ,all-surveys,"Pima County Jail, AZ",Other,40,210,0.19047619047619047
+AZ,all-surveys,"Pima County Jail, AZ",Republican,40,210,0.19047619047619047
+CA,all-surveys,"Fresno County, CA",Other,40,224,0.17857142857142858
+CO,all-surveys,"Mesa County, CO",Independent,40,92,0.43478260869565216
+IL,all-surveys,"Winnebago County, IL",Democrat,38,156,0.24358974358974358
+PA,all-surveys,"Lackawana County, PA",Independent,38,111,0.34234234234234234
+TX,all-surveys,"Travis County Jail, TX",Republican,38,205,0.18536585365853658
+WA,all-surveys,"Spokane County Jail, WA",Independent,38,80,0.475
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Independent,37,110,0.33636363636363636
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Independent,37,91,0.4065934065934066
+NY,all-surveys,"Albany County Correctional Facility, NY",Independent,37,87,0.42528735632183906
+FL,all-surveys,"Leon County Jail, FL",Independent,36,95,0.37894736842105264
+PA,all-surveys,"Westmoreland County, PA",Independent,36,90,0.4
+MI,all-surveys,"Kent County, MI ",Independent,35,97,0.36082474226804123
+PA,all-surveys,"Dauphin County Jail, PA",Independent,35,117,0.29914529914529914
+TN,all-surveys,"Davidson County Detention Center, TN",Democrat,35,119,0.29411764705882354
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Independent,34,102,0.3333333333333333
+CA,all-surveys,"Orange County, CA - Theo Lacy",Republican,34,135,0.2518518518518518
+CO,all-surveys,"Pueblo County, CO",Independent,34,95,0.35789473684210527
+IN,all-surveys,"Hamilton County Main Jail, IN",Independent,34,97,0.35051546391752575
+MO,all-surveys,"St. Louis County Jail, MO",Independent,34,95,0.35789473684210527
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Independent,34,86,0.3953488372093023
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Independent,34,108,0.3148148148148148
+WV,all-surveys,WV DCR North Central Regional Jail,Republican,34,115,0.2956521739130435
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Independent,33,98,0.336734693877551
+CO,all-surveys,"Denver County Jail, CO",Democrat,33,148,0.22297297297297297
+TX,all-surveys,"Travis County Jail, TX",Democrat,33,205,0.16097560975609757
+IL,all-surveys,"Kane County, IL",Independent,32,68,0.47058823529411764
+OH,all-surveys,"Mahoning County Justice Center, OH",Independent,32,81,0.3950617283950617
+CA,all-surveys,"Orange County, CA - Theo Lacy",Democrat,31,135,0.22962962962962963
+FL,all-surveys,"Pinellas County Jail, FL",Republican,31,90,0.34444444444444444
+VA,all-surveys,"Rappahannock Regional Jail, VA",Independent,31,75,0.41333333333333333
+DC,all-surveys,DC DOC: Central Detention Facility,Independent,30,81,0.37037037037037035
+PA,all-surveys,"Dauphin County Jail, PA",Republican,30,117,0.2564102564102564
+PA,all-surveys,"Lackawana County, PA",Republican,30,111,0.2702702702702703
+TN,all-surveys,"Sullivan County Jail, TN",Independent,30,88,0.3409090909090909
+TX,all-surveys,"McLennan County, TX",Independent,30,80,0.375
+AZ,all-surveys,"Pima County Jail, AZ",Democrat,29,210,0.1380952380952381
+CO,all-surveys,"Jefferson County Detention Facility, CO",Independent,29,75,0.38666666666666666
+MA,all-surveys,"Suffolk County Jail, MA",Independent,29,70,0.4142857142857143
+NY,all-surveys,"Pasco County Corrections, FL",Other,29,147,0.19727891156462585
+WI,all-surveys,"Brown County Jail, WI",Independent,29,71,0.4084507042253521
+CA,all-surveys,"Stanislaus County, CA",Other,28,171,0.16374269005847952
+CO,all-surveys,"Denver County Jail, CO",Republican,28,148,0.1891891891891892
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",Democrat,28,182,0.15384615384615385
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",Other,28,182,0.15384615384615385
+FL,all-surveys,"Pinellas County Jail, FL",Independent,28,90,0.3111111111111111
+IN,all-surveys,"Elkhart County Jail, IN",Independent,28,55,0.509090909090909
+MA,all-surveys,"Middlesex County House of Corrections, MA",Independent,28,66,0.42424242424242425
+UT,all-surveys,"Salt Lake City County, UT",Independent,28,66,0.42424242424242425
+CA,all-surveys,"Madera County, CA",Republican,27,95,0.28421052631578947
+MI,all-surveys,"Macomb County, MI",Independent,27,55,0.4909090909090909
+NC,all-surveys,"Cumberland County, NC",Independent,27,84,0.32142857142857145
+NE,all-surveys,"Lancaster County, NE",Independent,27,76,0.35526315789473684
+NJ,all-surveys,"Essex County Correctional Facility, NJ",Independent,27,65,0.4153846153846154
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Independent,27,56,0.48214285714285715
+TX,all-surveys,"Collin County, TX ",Independent,27,69,0.391304347826087
+TX,all-surveys,"MTC: Giles Dalby, TX",Democrat,27,130,0.2076923076923077
+VA,all-surveys,"Chesapeake Correctional Center, VA",Independent,27,72,0.375
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Republican,26,102,0.2549019607843137
+CO,all-surveys,"Denver County Jail, CO",Other,26,148,0.17567567567567569
+CO,all-surveys,"Pueblo County, CO",Democrat,26,95,0.2736842105263158
+CO,all-surveys,"Weld County, CO",Republican,26,130,0.2
+MA,all-surveys,"Essex County Middleton HOC, MA",Independent,26,68,0.38235294117647056
+MA,all-surveys,"Worcester County Jail, MA",Independent,26,57,0.45614035087719296
+PA,all-surveys,"Lehigh County, PA",Independent,26,77,0.33766233766233766
+NY,all-surveys,"Suffolk County, NY ",Independent,25,71,0.352112676056338
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Independent,25,93,0.26881720430107525
+TX,all-surveys,"Guadalupe County, TX",Independent,25,76,0.32894736842105265
+TX,all-surveys,"Guadalupe County, TX",Republican,25,76,0.32894736842105265
+CA,all-surveys,"Santa Barbara County, CA",Independent,24,73,0.3287671232876712
+FL,all-surveys,"Leon County Jail, FL",Republican,24,95,0.25263157894736843
+FL,all-surveys,"Okaloosa County Department of Corrections, FL",Republican,24,59,0.4067796610169492
+FL,all-surveys,"Sarasota County, FL",Independent,24,64,0.375
+GA,all-surveys,"Bibb County Jail, GA",Independent,24,48,0.5
+IA,all-surveys,"Polk County, IA ",Independent,24,46,0.5217391304347826
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Republican,24,93,0.25806451612903225
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Democrat,24,108,0.2222222222222222
+CA,all-surveys,"Madera County, CA",Independent,23,95,0.24210526315789474
+CA,all-surveys,"San Joaquin County Jail, CA",Republican,23,93,0.24731182795698925
+CO,all-surveys,"Douglas Detention Center, CO",Independent,23,41,0.5609756097560976
+FL,all-surveys,"Escambia County Jail, FL",Independent,23,53,0.4339622641509434
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Republican,23,110,0.20909090909090908
+IL,all-surveys,"Cook County, IL","Democrat, Independent",23,572,0.04020979020979021
+MO,all-surveys,"St. Louis County Jail, MO",Republican,23,95,0.24210526315789474
+NY,all-surveys,"New York City Department of Correction, NY (NYC DOC)",Independent,23,67,0.34328358208955223
+PA,all-surveys,"Dauphin County Jail, PA",Democrat,23,117,0.19658119658119658
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Democrat,23,93,0.24731182795698925
+TN,all-surveys,"Davidson County Detention Center, TN",Republican,23,119,0.19327731092436976
+TN,all-surveys,"Sullivan County Jail, TN",Republican,23,88,0.26136363636363635
+TX,all-surveys,"MTC: Giles Dalby, TX",Republican,23,130,0.17692307692307693
+TX,all-surveys,"Potter County Detention, TX",Independent,23,77,0.2987012987012987
+WV,all-surveys,WV DCR Southwestern Regional Jail,Independent,23,47,0.48936170212765956
+CA,all-surveys,"Stanislaus County, CA",Democrat,22,171,0.1286549707602339
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Democrat,22,98,0.22448979591836735
+CO,all-surveys,"Mesa County, CO",Republican,22,92,0.2391304347826087
+DC,all-surveys,DC DOC: Central Detention Facility,Democrat,22,81,0.2716049382716049
+FL,all-surveys,Santa Rosa County FL,Republican,22,60,0.36666666666666664
+GA,all-surveys,"Athens Clarke County Jail, GA",Independent,22,66,0.3333333333333333
+GA,all-surveys,"Cobb County, GA",Independent,22,59,0.3728813559322034
+MI,all-surveys,"Kent County, MI ",Democrat,22,97,0.2268041237113402
+NC,all-surveys,"Cumberland County, NC",Republican,22,84,0.2619047619047619
+WA,all-surveys,"Whatcom County, WA - Main Jail",Independent,22,48,0.4583333333333333
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Republican,22,59,0.3728813559322034
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Independent, Other",21,872,0.02408256880733945
+AZ,all-surveys,"Pinal County Jail, AZ",Independent,21,50,0.42
+CO,all-surveys,"Jefferson County Detention Facility, CO",Republican,21,75,0.28
+CO,all-surveys,"Larimer County, CO",Independent,21,46,0.45652173913043476
+FL,all-surveys,"Lee County, FL",Independent,21,57,0.3684210526315789
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Democrat,21,110,0.19090909090909092
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Other,21,110,0.19090909090909092
+IL,all-surveys,"Winnebago County, IL",Republican,21,156,0.1346153846153846
+IN,all-surveys,"Hamilton County Main Jail, IN",Republican,21,97,0.21649484536082475
+MA,all-surveys,"Bristol County House of Correction, MA",Independent,21,56,0.375
+NY,all-surveys,"Suffolk County, NY ",Democrat,21,71,0.29577464788732394
+PA,all-surveys,"Allegheny County Jail, PA",Independent,21,52,0.40384615384615385
+PA,all-surveys,"Berks County Jail, PA",Independent,21,58,0.3620689655172414
+PA,all-surveys,"Washington County, PA ",Independent,21,61,0.3442622950819672
+TN,all-surveys,"Sullivan County Jail, TN",Other,21,88,0.23863636363636365
+TX,all-surveys,"McLennan County, TX",Republican,21,80,0.2625
+VA,all-surveys,"Pamunkey Regional Jail, VA",Independent,21,58,0.3620689655172414
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Independent,21,63,0.3333333333333333
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Republican,21,108,0.19444444444444445
+VA,all-surveys,"Western Regional, VA",Independent,21,53,0.39622641509433965
+WA,all-surveys,"Yakima County, WA",Republican,21,110,0.19090909090909092
+CA,all-surveys,"Butte County, CA",Independent,20,56,0.35714285714285715
+CA,all-surveys,"San Joaquin County Jail, CA",Independent,20,93,0.21505376344086022
+CO,all-surveys,"Pueblo County, CO",Other,20,95,0.21052631578947367
+FL,all-surveys,"Leon County Jail, FL",Democrat,20,95,0.21052631578947367
+FL,all-surveys,"Pinellas County Jail, FL",Other,20,90,0.2222222222222222
+FL,all-surveys,Santa Rosa County FL,Independent,20,60,0.3333333333333333
+MA,all-surveys,"Suffolk County Jail, MA",Democrat,20,70,0.2857142857142857
+NY,all-surveys,"New York City Department of Correction, NY (NYC DOC)",Democrat,20,67,0.29850746268656714
+TX,all-surveys,"Potter County Detention, TX",Republican,20,77,0.2597402597402597
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Other,20,108,0.18518518518518517
+WA,all-surveys,"King County Adult Detention, WA",Other,20,62,0.3225806451612903
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Independent,20,59,0.3389830508474576
+AL,all-surveys,"Etowah County Jail, AL",Republican,19,54,0.35185185185185186
+CA,all-surveys,"Madera County, CA",Democrat,19,95,0.2
+CO,all-surveys,"Weld County, CO",Other,19,130,0.14615384615384616
+MO,all-surveys,"Cape Girardeau County Jail, MO",Independent,19,68,0.27941176470588236
+MO,all-surveys,"Cape Girardeau County Jail, MO",Republican,19,68,0.27941176470588236
+NJ,all-surveys,"Bergen County, NJ",Independent,19,50,0.38
+NJ,all-surveys,"Essex County Correctional Facility, NJ",Democrat,19,65,0.2923076923076923
+NY,all-surveys,"Erie County, NY",Independent,19,57,0.3333333333333333
+PA,all-surveys,"Lancaster County Prison, PA",Independent,19,59,0.3220338983050847
+PA,all-surveys,"Lebanon County, PA",Democrat,19,65,0.2923076923076923
+TN,all-surveys,"Hamilton County, TN",Independent,19,46,0.41304347826086957
+TX,all-surveys,"Johnson County, TX",Independent,19,50,0.38
+TX,all-surveys,"MTC: Giles Dalby, TX",Other,19,130,0.14615384615384616
+VA,all-surveys,"Rappahannock Regional Jail, VA",Democrat,19,75,0.25333333333333335
+WA,all-surveys,"Yakima County, WA",Other,19,110,0.17272727272727273
+CA,all-surveys,"San Joaquin County Jail, CA",Democrat,18,93,0.1935483870967742
+CA,all-surveys,"San Joaquin County Jail, CA",Other,18,93,0.1935483870967742
+CA,all-surveys,"Santa Barbara County, CA",Democrat,18,73,0.2465753424657534
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Republican,18,98,0.1836734693877551
+FL,all-surveys,"Okaloosa County Department of Corrections, FL",Independent,18,59,0.3050847457627119
+MA,all-surveys,"Bristol County House of Correction, MA",Republican,18,56,0.32142857142857145
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Democrat,18,91,0.1978021978021978
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Republican,18,91,0.1978021978021978
+NY,all-surveys,"Niagara County Correctional Facility, NY",Independent,18,48,0.375
+OH,all-surveys,"Summit County, OH",Independent,18,49,0.3673469387755102
+PA,all-surveys,"Dauphin County Jail, PA",Other,18,117,0.15384615384615385
+PA,all-surveys,"Lackawana County, PA",Democrat,18,111,0.16216216216216217
+PA,all-surveys,"Lancaster County Prison, PA",Republican,18,59,0.3050847457627119
+PA,all-surveys,"Lehigh County, PA",Republican,18,77,0.23376623376623376
+TX,all-surveys,"Potter County Detention, TX",Other,18,77,0.23376623376623376
+VA,all-surveys,"Arlington County Detention Center, VA",Independent,18,32,0.5625
+VA,all-surveys,"Chesapeake Correctional Center, VA",Republican,18,72,0.25
+WA,all-surveys,"King County Adult Detention, WA",Independent,18,62,0.2903225806451613
+AZ,all-surveys,"Yavapai County Jail, AZ",Independent,17,35,0.4857142857142857
+CA,all-surveys,"Madera County, CA",Other,17,95,0.17894736842105263
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Democrat,17,102,0.16666666666666666
+CO,all-surveys,"Weld County, CO",Democrat,17,130,0.13076923076923078
+FL,all-surveys,"Lee County, FL",Republican,17,57,0.2982456140350877
+NE,all-surveys,"Lancaster County, NE",Other,17,76,0.2236842105263158
+NY,all-surveys,"Albany County Correctional Facility, NY",Other,17,87,0.19540229885057472
+NY,all-surveys,"Erie County, NY",Democrat,17,57,0.2982456140350877
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Democrat,17,86,0.19767441860465115
+OH,all-surveys,"Mahoning County Justice Center, OH",Republican,17,81,0.20987654320987653
+OH,all-surveys,"Summit County, OH",Democrat,17,49,0.3469387755102041
+PA,all-surveys,"Cambria County Prison, PA",Independent,17,42,0.40476190476190477
+PA,all-surveys,"Lebanon County, PA",Independent,17,65,0.26153846153846155
+PA,all-surveys,"Westmoreland County, PA",Republican,17,90,0.18888888888888888
+TX,all-surveys,"Collin County, TX ",Republican,17,69,0.2463768115942029
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Republican,17,63,0.2698412698412698
+WA,all-surveys,"Spokane County Jail, WA",Republican,17,80,0.2125
+WI,all-surveys,"Brown County Jail, WI",Democrat,17,71,0.23943661971830985
+CA,all-surveys,"Alameda County-Santa Rita, CA",Independent,16,41,0.3902439024390244
+GA,all-surveys,"Athens Clarke County Jail, GA",Republican,16,66,0.24242424242424243
+GA,all-surveys,"Dekalb County Jail, GA",Independent,16,36,0.4444444444444444
+IL,all-surveys,"Cook County, IL","Independent, Republican",16,572,0.027972027972027972
+IL,all-surveys,"Winnebago County, IL",Other,16,156,0.10256410256410256
+IN,all-surveys,"Hamilton County Main Jail, IN",Democrat,16,97,0.16494845360824742
+IN,all-surveys,"La Port County Jail, IN",Independent,16,37,0.43243243243243246
+KS,all-surveys,"Douglas County, KS",Independent,16,32,0.5
+KS,all-surveys,"Shawnee County Detention Center, KS",Independent,16,38,0.42105263157894735
+MA,all-surveys,"Middlesex County House of Corrections, MA",Republican,16,66,0.24242424242424243
+MI,all-surveys,"Kent County, MI ",Republican,16,97,0.16494845360824742
+MO,all-surveys,"St. Louis County Jail, MO",Democrat,16,95,0.16842105263157894
+MO,all-surveys,"St. Louis County Jail, MO",Other,16,95,0.16842105263157894
+NC,all-surveys,"Cumberland County, NC",Other,16,84,0.19047619047619047
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",Independent,16,31,0.5161290322580645
+NJ,all-surveys,"Hudson County Corrections Center, NJ",Independent,16,32,0.5
+OH,all-surveys,"Lorain County, OH ",Independent,16,46,0.34782608695652173
+OH,all-surveys,"Mahoning County Justice Center, OH",Democrat,16,81,0.19753086419753085
+PA,all-surveys,"Lebanon County, PA",Republican,16,65,0.24615384615384617
+WV,all-surveys,WV DCR Central Regional Jail,Independent,16,41,0.3902439024390244
+AL,all-surveys,"Etowah County Jail, AL",Independent,15,54,0.2777777777777778
+CA,all-surveys,"Butte County, CA",Other,15,56,0.26785714285714285
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Other,15,102,0.14705882352941177
+CA,all-surveys,"Orange County, CA - Theo Lacy",Other,15,135,0.1111111111111111
+FL,all-surveys,"Sarasota County, FL",Democrat,15,64,0.234375
+NE,all-surveys,"Lancaster County, NE",Republican,15,76,0.19736842105263158
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Independent,15,44,0.3409090909090909
+NM,all-surveys,"Lea County Sheriff's Office, NM",Independent,15,35,0.42857142857142855
+NM,all-surveys,"Santa Fe County Adult Correctional Facility, NM",Independent,15,35,0.42857142857142855
+OH,all-surveys,Corrections Center of NW Ohio,Republican,15,44,0.3409090909090909
+PA,all-surveys,"Washington County, PA ",Republican,15,61,0.2459016393442623
+PA,all-surveys,"Westmoreland County, PA",Other,15,90,0.16666666666666666
+TX,all-surveys,"Johnson County, TX",Republican,15,50,0.3
+VA,all-surveys,"Rappahannock Regional Jail, VA",Other,15,75,0.2
+VA,all-surveys,"Western Regional, VA",Republican,15,53,0.2830188679245283
+WA,all-surveys,"Yakima County, WA",Democrat,15,110,0.13636363636363635
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Democrat, Independent",14,872,0.016055045871559634
+DC,all-surveys,DC DOC: Central Detention Facility,Republican,14,81,0.1728395061728395
+FL,all-surveys,"Escambia County Jail, FL",Republican,14,53,0.2641509433962264
+GA,all-surveys,"Cobb County, GA",Other,14,59,0.23728813559322035
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Independent,14,27,0.5185185185185185
+MA,all-surveys,"Essex County Middleton HOC, MA",Other,14,68,0.20588235294117646
+NC,all-surveys,"Craven County Jail, NC",Independent,14,33,0.42424242424242425
+NY,all-surveys,"Albany County Correctional Facility, NY",Republican,14,87,0.16091954022988506
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Republican,14,86,0.16279069767441862
+NY,all-surveys,"New York City Department of Correction, NY (NYC DOC)",Other,14,67,0.208955223880597
+PA,all-surveys,"Allegheny County Jail, PA",Republican,14,52,0.2692307692307692
+PA,all-surveys,"Chester County Prison, PA",Independent,14,31,0.45161290322580644
+PA,all-surveys,"Lehigh County, PA",Democrat,14,77,0.18181818181818182
+TN,all-surveys,"Hamilton County, TN",Republican,14,46,0.30434782608695654
+WA,all-surveys,"King County Adult Detention, WA",Democrat,14,62,0.22580645161290322
+WI,all-surveys,"Brown County Jail, WI",Republican,14,71,0.19718309859154928
+WV,all-surveys,WV DCR South Central Regional Jail,Independent,14,35,0.4
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Independent, Republican",13,872,0.014908256880733946
+CA,all-surveys,"Butte County, CA",Republican,13,56,0.23214285714285715
+CA,all-surveys,"Santa Barbara County, CA",Other,13,73,0.1780821917808219
+CA,all-surveys,"Santa Barbara County, CA",Republican,13,73,0.1780821917808219
+CA,all-surveys,"Sonoma County, CA",Democrat,13,41,0.3170731707317073
+CO,all-surveys,"Jefferson County Detention Facility, CO",Democrat,13,75,0.17333333333333334
+FL,all-surveys,"Bay County, FL",Republican,13,35,0.37142857142857144
+FL,all-surveys,"Leon County Jail, FL",Other,13,95,0.1368421052631579
+IL,all-surveys,"Cook County, IL","Independent, Other",13,572,0.022727272727272728
+IN,all-surveys,"Hamilton County Main Jail, IN",Other,13,97,0.13402061855670103
+MI,all-surveys,"Kent County, MI ",Other,13,97,0.13402061855670103
+MO,all-surveys,"Cape Girardeau County Jail, MO",Democrat,13,68,0.19117647058823528
+NM,all-surveys,"Eddy County Detention Center, NM",Independent,13,29,0.4482758620689655
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Other,13,86,0.1511627906976744
+NY,all-surveys,"Pasco County Corrections, FL",Democrat,13,147,0.08843537414965986
+NY,all-surveys,"Suffolk County, NY ",Republican,13,71,0.18309859154929578
+PA,all-surveys,"Franklin County, PA",Independent,13,33,0.3939393939393939
+PA,all-surveys,"Lehigh County, PA",Other,13,77,0.16883116883116883
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Other,13,93,0.13978494623655913
+SC,all-surveys,"Pickens County Detention Facility, SC",Republican,13,28,0.4642857142857143
+TN,all-surveys,"Sullivan County Jail, TN",Democrat,13,88,0.14772727272727273
+TX,all-surveys,"Collin County, TX ",Democrat,13,69,0.18840579710144928
+TX,all-surveys,"Wichita County, TX ",Republican,13,34,0.38235294117647056
+UT,all-surveys,"Salt Lake City County, UT",Republican,13,66,0.19696969696969696
+WV,all-surveys,WV DCR North Central Regional Jail,Democrat,13,115,0.11304347826086956
+AL,all-surveys,"Montgomery County, AL",Independent,12,27,0.4444444444444444
+CA,all-surveys,"Sonoma County, CA",Other,12,41,0.2926829268292683
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Other,12,98,0.12244897959183673
+CO,all-surveys,"La Plata County, CO ",Independent,12,18,0.6666666666666666
+CO,all-surveys,"Larimer County, CO",Other,12,46,0.2608695652173913
+CO,all-surveys,"Mesa County, CO",Democrat,12,92,0.13043478260869565
+CO,all-surveys,"Mesa County, CO",Other,12,92,0.13043478260869565
+FL,all-surveys,"Citrus County Detention Facility, FL",Independent,12,29,0.41379310344827586
+FL,all-surveys,"Nassau County, FL",Independent,12,30,0.4
+FL,all-surveys,"Okaloosa County Department of Corrections, FL",Other,12,59,0.2033898305084746
+FL,all-surveys,"Sarasota County, FL",Other,12,64,0.1875
+GA,all-surveys,"Athens Clarke County Jail, GA",Democrat,12,66,0.18181818181818182
+GA,all-surveys,"Cobb County, GA",Democrat,12,59,0.2033898305084746
+IL,all-surveys,Edovo Go - General,Independent,12,15,0.8
+IL,all-surveys,"Kane County, IL",Democrat,12,68,0.17647058823529413
+IN,all-surveys,"Elkhart County Jail, IN",Republican,12,55,0.21818181818181817
+KY,all-surveys,"Madison County, KY",Republican,12,27,0.4444444444444444
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Independent,12,29,0.41379310344827586
+MA,all-surveys,"Essex County Middleton HOC, MA",Democrat,12,68,0.17647058823529413
+MA,all-surveys,"Essex County Middleton HOC, MA",Republican,12,68,0.17647058823529413
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Independent,12,39,0.3076923076923077
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Republican,12,39,0.3076923076923077
+MI,all-surveys,"Genesee County, MI",Other,12,35,0.34285714285714286
+MO,all-surveys,"Cape Girardeau County Jail, MO",Other,12,68,0.17647058823529413
+NE,all-surveys,"Lancaster County, NE",Democrat,12,76,0.15789473684210525
+NH,all-surveys,"Hillsborough County House of Corrections, NH",Independent,12,23,0.5217391304347826
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Democrat,12,44,0.2727272727272727
+NJ,all-surveys,"Essex County Correctional Facility, NJ",Other,12,65,0.18461538461538463
+NY,all-surveys,"Chautauqua County, NY",Independent,12,38,0.3157894736842105
+NY,all-surveys,"Onondaga County-Justice Center, NY",Independent,12,39,0.3076923076923077
+OH,all-surveys,Corrections Center of NW Ohio,Independent,12,44,0.2727272727272727
+OH,all-surveys,"Greene County, OH: Adult Detention",Independent,12,26,0.46153846153846156
+OH,all-surveys,"Mahoning County Justice Center, OH",Other,12,81,0.14814814814814814
+OR,all-surveys,"Lincoln County, OR",Independent,12,38,0.3157894736842105
+PA,all-surveys,"Allegheny County Jail, PA",Democrat,12,52,0.23076923076923078
+PA,all-surveys,"Berks County Jail, PA",Republican,12,58,0.20689655172413793
+PA,all-surveys,"Lackawana County, PA",Other,12,111,0.10810810810810811
+PA,all-surveys,"Lancaster County Prison, PA",Democrat,12,59,0.2033898305084746
+PA,all-surveys,"Westmoreland County, PA",Democrat,12,90,0.13333333333333333
+UT,all-surveys,"Beaver County, UT",Independent,12,40,0.3
+UT,all-surveys,"Salt Lake City County, UT",Other,12,66,0.18181818181818182
+VA,all-surveys,"Pamunkey Regional Jail, VA",Republican,12,58,0.20689655172413793
+WI,all-surveys,"Dodge County, WI",Independent,12,34,0.35294117647058826
+WV,all-surveys,WV DCR Southwestern Regional Jail,Republican,12,47,0.2553191489361702
+WV,all-surveys,WV DCR Western Regional Jail,Independent,12,40,0.3
+WV,all-surveys,WV DCR Western Regional Jail,Republican,12,40,0.3
+AL,all-surveys,"Riverside Regional, VA",Independent,11,36,0.3055555555555556
+CA,all-surveys,"Alameda County-Santa Rita, CA",Democrat,11,41,0.2682926829268293
+FL,all-surveys,"Pinellas County Jail, FL",Democrat,11,90,0.12222222222222222
+FL,all-surveys,"Sarasota County, FL",Republican,11,64,0.171875
+FL,all-surveys,"St. Lucie County Jail, FL",Independent,11,27,0.4074074074074074
+IL,all-surveys,"Cook County, IL","Democrat, Other",11,572,0.019230769230769232
+IL,all-surveys,"Winnebago County, IL","Independent, Other",11,156,0.07051282051282051
+IN,all-surveys,"Boone County, IN",Republican,11,29,0.3793103448275862
+MA,all-surveys,"Norfolk County Jail, MA",Independent,11,29,0.3793103448275862
+MA,all-surveys,"Suffolk County Jail, MA",Other,11,70,0.15714285714285714
+MT,all-surveys,"Missoula County, MT",Republican,11,22,0.5
+NC,all-surveys,"Onslow County Jail, NC",Independent,11,34,0.3235294117647059
+NJ,all-surveys,"Bergen County, NJ",Democrat,11,50,0.22
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Independent,11,33,0.3333333333333333
+NM,all-surveys,"Luna County Detention Center, NM",Republican,11,37,0.2972972972972973
+NY,all-surveys,"Albany County Correctional Facility, NY",Democrat,11,87,0.12643678160919541
+NY,all-surveys,"Erie County, NY",Republican,11,57,0.19298245614035087
+OH,all-surveys,Corrections Center of NW Ohio,Democrat,11,44,0.25
+OH,all-surveys,"Lorain County, OH ",Democrat,11,46,0.2391304347826087
+PA,all-surveys,"Cumberland County Prison, PA",Independent,11,25,0.44
+PA,all-surveys,"Delaware County, PA",Democrat,11,37,0.2972972972972973
+PA,all-surveys,"Fayette County, PA",Independent,11,36,0.3055555555555556
+TN,all-surveys,"Davidson County Detention Center, TN",Other,11,119,0.09243697478991597
+TX,all-surveys,"Guadalupe County, TX",Democrat,11,76,0.14473684210526316
+TX,all-surveys,"McLennan County, TX",Democrat,11,80,0.1375
+VA,all-surveys,"Chesapeake Correctional Center, VA",Other,11,72,0.1527777777777778
+VA,all-surveys,"Henrico County Sheriff's Office, VA",Independent,11,23,0.4782608695652174
+WA,all-surveys,"Spokane County Jail, WA",Other,11,80,0.1375
+WI,all-surveys,"Brown County Jail, WI",Other,11,71,0.15492957746478872
+WV,all-surveys,WV DCR North Central Regional Jail,Other,11,115,0.09565217391304348
+AL,all-surveys,"Tuscaloosa County Jail, AL",Republican,10,36,0.2777777777777778
+AZ,all-surveys,"Apache County Jail, AZ",Independent,10,24,0.4166666666666667
+AZ,all-surveys,"Pinal County Jail, AZ",Democrat,10,50,0.2
+CA,all-surveys,"Sacramento County Sheriff's Office, CA","Independent, Other",10,297,0.03367003367003367
+CA,all-surveys,"Sonoma County, CA",Independent,10,41,0.24390243902439024
+CO,all-surveys,"Pueblo County, CO",Republican,10,95,0.10526315789473684
+DC,all-surveys,DC DOC: Central Detention Facility,Other,10,81,0.12345679012345678
+FL,all-surveys,"Escambia County Jail, FL",Other,10,53,0.18867924528301888
+FL,all-surveys,"Monroe County-Key West, FL",Republican,10,26,0.38461538461538464
+GA,all-surveys,"Bibb County Jail, GA",Republican,10,48,0.20833333333333334
+IL,all-surveys,"DuPage County Jail, IL",Democrat,10,30,0.3333333333333333
+IL,all-surveys,"Kane County, IL",Republican,10,68,0.14705882352941177
+KY,all-surveys,"Madison County, KY",Independent,10,27,0.37037037037037035
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Democrat,10,39,0.2564102564102564
+MA,all-surveys,"Worcester County Jail, MA",Other,10,57,0.17543859649122806
+MA,all-surveys,"Worcester County Jail, MA",Republican,10,57,0.17543859649122806
+MD,all-surveys,"Washington County Detention Center, MD",Independent,10,36,0.2777777777777778
+MI,all-surveys,"Kalamazoo County, MI",Independent,10,25,0.4
+MI,all-surveys,"Livingston County, MI",Independent,10,32,0.3125
+MI,all-surveys,"Macomb County, MI",Republican,10,55,0.18181818181818182
+NC,all-surveys,"Cumberland County, NC",Democrat,10,84,0.11904761904761904
+NC,all-surveys,Durham County NC - Detention Facility,Independent,10,25,0.4
+NJ,all-surveys,"Cumberland County Jail, NJ",Independent,10,23,0.43478260869565216
+NM,all-surveys,"Luna County Detention Center, NM",Independent,10,37,0.2702702702702703
+NY,all-surveys,"Niagara County Correctional Facility, NY",Other,10,48,0.20833333333333334
+NY,all-surveys,"Onondaga County-Justice Center, NY",Democrat,10,39,0.2564102564102564
+OH,all-surveys,"Muskingum County, OH",Other,10,29,0.3448275862068966
+OH,all-surveys,"Portage County, OH",Republican,10,31,0.3225806451612903
+OR,all-surveys,"Lincoln County, OR",Other,10,38,0.2631578947368421
+PA,all-surveys,"Berks County Jail, PA",Democrat,10,58,0.1724137931034483
+PA,all-surveys,"Cambria County Prison, PA",Republican,10,42,0.23809523809523808
+PA,all-surveys,"Delaware County, PA",Independent,10,37,0.2702702702702703
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Republican,10,56,0.17857142857142858
+TN,all-surveys,"Hamilton County, TN",Democrat,10,46,0.21739130434782608
+TX,all-surveys,"Johnson County, TX",Other,10,50,0.2
+TX,all-surveys,"Wichita County, TX ",Independent,10,34,0.29411764705882354
+UT,all-surveys,"Beaver County, UT",Other,10,40,0.25
+UT,all-surveys,"Beaver County, UT",Republican,10,40,0.25
+UT,all-surveys,"Salt Lake City County, UT",Democrat,10,66,0.15151515151515152
+VA,all-surveys,"Blue Ridge Regional Jail Authority, VA",Independent,10,26,0.38461538461538464
+VA,all-surveys,"Chesapeake Correctional Center, VA",Democrat,10,72,0.1388888888888889
+VA,all-surveys,"Pamunkey Regional Jail, VA",Other,10,58,0.1724137931034483
+WI,all-surveys,"Rock County, WI",Independent,10,37,0.2702702702702703
+WI,all-surveys,"Rock County, WI",Other,10,37,0.2702702702702703
+WV,all-surveys,WV DCR Central Regional Jail,Republican,10,41,0.24390243902439024
+WV,all-surveys,WV DCR Southern Regional Jail,Independent,10,27,0.37037037037037035
+WV,all-surveys,WV DCR Western Regional Jail,Other,10,40,0.25
+AL,all-surveys,"Riverside Regional, VA",Other,9,36,0.25
+AL,all-surveys,"Riverside Regional, VA",Republican,9,36,0.25
+AL,all-surveys,"Tuscaloosa County Jail, AL",Independent,9,36,0.25
+AL,all-surveys,"Tuscaloosa County Jail, AL",Other,9,36,0.25
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Other, Republican",9,872,0.010321100917431193
+AZ,all-surveys,"Pinal County Jail, AZ",Republican,9,50,0.18
+CA,all-surveys,"Lassen County, CA",Republican,9,17,0.5294117647058824
+CO,all-surveys,"Larimer County, CO",Republican,9,46,0.1956521739130435
+FL,all-surveys,"Lee County, FL",Democrat,9,57,0.15789473684210525
+FL,all-surveys,"St. Lucie County Jail, FL",Republican,9,27,0.3333333333333333
+IA,all-surveys,"Polk County, IA ",Democrat,9,46,0.1956521739130435
+IL,all-surveys,"DuPage County Jail, IL",Independent,9,30,0.3
+IN,all-surveys,"Elkhart County Jail, IN",Democrat,9,55,0.16363636363636364
+IN,all-surveys,"Kosciusko County, IN",Republican,9,18,0.5
+MA,all-surveys,"Berkshire County House of Corrections, MA",Independent,9,24,0.375
+MA,all-surveys,"Bristol County House of Correction, MA",Other,9,56,0.16071428571428573
+MA,all-surveys,"Hampshire County, MA",Independent,9,27,0.3333333333333333
+MA,all-surveys,"Norfolk County Jail, MA",Republican,9,29,0.3103448275862069
+MD,all-surveys,"Washington County Detention Center, MD",Other,9,36,0.25
+MD,all-surveys,"Washington County Detention Center, MD",Republican,9,36,0.25
+ME,all-surveys,"Cumberland County Jail, ME",Independent,9,15,0.6
+MI,all-surveys,"Livingston County, MI",Republican,9,32,0.28125
+MI,all-surveys,"Macomb County, MI",Democrat,9,55,0.16363636363636364
+MI,all-surveys,"Washtenaw County Jail, MI",Independent,9,23,0.391304347826087
+NC,all-surveys,"New Hanover County Detention Center, NC",Democrat,9,22,0.4090909090909091
+NC,all-surveys,"Onslow County Jail, NC",Republican,9,34,0.2647058823529412
+NJ,all-surveys,"Bergen County, NJ",Republican,9,50,0.18
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Other,9,44,0.20454545454545456
+NJ,all-surveys,"Camden County Department of Corrections, NJ",Independent,9,24,0.375
+NJ,all-surveys,"Ocean County, NJ",Republican,9,23,0.391304347826087
+NM,all-surveys,"Lea County Sheriff's Office, NM",Republican,9,35,0.2571428571428571
+NM,all-surveys,"Santa Fe County Adult Correctional Facility, NM",Democrat,9,35,0.2571428571428571
+NY,all-surveys,"Ulster County Jail, NY",Independent,9,19,0.47368421052631576
+OH,all-surveys,"Ashland County, OH ",Independent,9,17,0.5294117647058824
+OH,all-surveys,"Fairfield County, OH",Independent,9,15,0.6
+OH,all-surveys,"Lorain County, OH ",Other,9,46,0.1956521739130435
+OH,all-surveys,"Lorain County, OH ",Republican,9,46,0.1956521739130435
+OR,all-surveys,"Lincoln County, OR",Republican,9,38,0.23684210526315788
+PA,all-surveys,"Fayette County, PA",Republican,9,36,0.25
+PA,all-surveys,"Lebanon County, PA",Other,9,65,0.13846153846153847
+PA,all-surveys,"Washington County, PA ",Democrat,9,61,0.14754098360655737
+PA,all-surveys,"Washington County, PA ",Other,9,61,0.14754098360655737
+SC,all-surveys,"Pickens County Detention Facility, SC",Independent,9,28,0.32142857142857145
+TX,all-surveys,"Hunt County, TX",Independent,9,24,0.375
+TX,all-surveys,"McLennan County, TX",Other,9,80,0.1125
+TX,all-surveys,"Potter County Detention, TX",Democrat,9,77,0.11688311688311688
+VA,all-surveys,"Rappahannock Regional Jail, VA",Republican,9,75,0.12
+WA,all-surveys,"King County Adult Detention, WA",Republican,9,62,0.14516129032258066
+WA,all-surveys,"Spokane County Jail, WA",Democrat,9,80,0.1125
+WA,all-surveys,"Whatcom County, WA - Main Jail",Republican,9,48,0.1875
+WI,all-surveys,"Rock County, WI",Democrat,9,37,0.24324324324324326
+WI,all-surveys,"Sheboygan County Jail, WI",Republican,9,30,0.3
+WV,all-surveys,WV DCR South Central Regional Jail,Republican,9,35,0.2571428571428571
+AL,all-surveys,"Etowah County Jail, AL",Democrat,8,54,0.14814814814814814
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Democrat, Republican",8,872,0.009174311926605505
+CA,all-surveys,"Alameda County-Santa Rita, CA",Other,8,41,0.1951219512195122
+CA,all-surveys,"Stanislaus County, CA","Independent, Other",8,171,0.04678362573099415
+CA,all-surveys,"Yuba County, CA ",Independent,8,18,0.4444444444444444
+CO,all-surveys,"Jefferson County Detention Facility, CO",Other,8,75,0.10666666666666667
+FL,all-surveys,"Bay County, FL",Democrat,8,35,0.22857142857142856
+FL,all-surveys,"Bay County, FL",Independent,8,35,0.22857142857142856
+FL,all-surveys,"Lake County Detention Center, FL",Democrat,8,29,0.27586206896551724
+FL,all-surveys,"Lake County Detention Center, FL",Republican,8,29,0.27586206896551724
+FL,all-surveys,Santa Rosa County FL,Other,8,60,0.13333333333333333
+GA,all-surveys,"Athens Clarke County Jail, GA",Other,8,66,0.12121212121212122
+GA,all-surveys,"Catoosa County Jail, GA",Independent,8,21,0.38095238095238093
+GA,all-surveys,"Cobb County, GA",Republican,8,59,0.13559322033898305
+GA,all-surveys,"Columbia County Detention Center, GA",Independent,8,29,0.27586206896551724
+GA,all-surveys,"Forsyth County Detention Center, GA",Republican,8,21,0.38095238095238093
+ID,all-surveys,"Bonneville County, ID",Independent,8,19,0.42105263157894735
+IL,all-surveys,"Kane County, IL",Other,8,68,0.11764705882352941
+IL,all-surveys,"Vermilion County Jail, IL",Independent,8,18,0.4444444444444444
+IN,all-surveys,"Boone County, IN",Democrat,8,29,0.27586206896551724
+IN,all-surveys,"Floyd County Jail, IN",Republican,8,25,0.32
+IN,all-surveys,"La Port County Jail, IN",Republican,8,37,0.21621621621621623
+KS,all-surveys,"Shawnee County Detention Center, KS",Other,8,38,0.21052631578947367
+MA,all-surveys,"Middlesex County House of Corrections, MA",Democrat,8,66,0.12121212121212122
+MA,all-surveys,"Middlesex County House of Corrections, MA",Other,8,66,0.12121212121212122
+ME,all-surveys,"Two Bridges Regional, ME",Independent,8,24,0.3333333333333333
+MI,all-surveys,"Washtenaw County Jail, MI",Democrat,8,23,0.34782608695652173
+MT,all-surveys,"Missoula County, MT",Independent,8,22,0.36363636363636365
+NC,all-surveys,"Craven County Jail, NC",Democrat,8,33,0.24242424242424243
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Other,8,91,0.08791208791208792
+NJ,all-surveys,"Hudson County Corrections Center, NJ",Republican,8,32,0.25
+NJ,all-surveys,"Mercer County Correction Center, NJ",Independent,8,16,0.5
+NJ,all-surveys,"Ocean County, NJ",Independent,8,23,0.34782608695652173
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Other,8,33,0.24242424242424243
+NM,all-surveys,"Curry County Detention Center, NM",Independent,8,27,0.2962962962962963
+NM,all-surveys,"Curry County Detention Center, NM",Other,8,27,0.2962962962962963
+NY,all-surveys,"Erie County, NY",Other,8,57,0.14035087719298245
+NY,all-surveys,"New York City Department of Correction, NY (NYC DOC)",Republican,8,67,0.11940298507462686
+NY,all-surveys,"Oneida County Correctional Facility, NY",Independent,8,21,0.38095238095238093
+NY,all-surveys,"Onondaga County, NY",Independent,8,21,0.38095238095238093
+NY,all-surveys,"Onondaga County-Justice Center, NY",Republican,8,39,0.20512820512820512
+NY,all-surveys,"Suffolk County, NY ",Other,8,71,0.11267605633802817
+OH,all-surveys,"Columbiana County Jail, OH",Independent,8,18,0.4444444444444444
+OH,all-surveys,"Medina County Jail, OH",Independent,8,21,0.38095238095238093
+OH,all-surveys,"Muskingum County, OH",Independent,8,29,0.27586206896551724
+OH,all-surveys,"Portage County, OH",Independent,8,31,0.25806451612903225
+OH,all-surveys,"Summit County, OH",Other,8,49,0.16326530612244897
+PA,all-surveys,"Indiana County, PA",Republican,8,19,0.42105263157894735
+PA,all-surveys,"Lancaster County Prison, PA",Other,8,59,0.13559322033898305
+PA,all-surveys,"Northampton County Prison, PA",Independent,8,20,0.4
+SC,all-surveys,"Clarendon County, SC",Independent,8,21,0.38095238095238093
+SC,all-surveys,"Sumter County Detention Center, SC",Independent,8,13,0.6153846153846154
+TN,all-surveys,"McMinn County Justice Center, TN",Democrat,8,23,0.34782608695652173
+TN,all-surveys,"Warren County Jail, TN",Independent,8,27,0.2962962962962963
+TX,all-surveys,"GEO Group-Kinney County, TX",Republican,8,23,0.34782608695652173
+TX,all-surveys,"Guadalupe County, TX",Other,8,76,0.10526315789473684
+UT,all-surveys,"Weber County Correctional Facility, UT",Independent,8,21,0.38095238095238093
+VA,all-surveys,"Norfolk City Jail, VA",Independent,8,17,0.47058823529411764
+VA,all-surveys,"Pamunkey Regional Jail, VA",Democrat,8,58,0.13793103448275862
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Other,8,63,0.12698412698412698
+WA,all-surveys,"Yakima County, WA","Independent, Other",8,110,0.07272727272727272
+WI,all-surveys,"Sheboygan County Jail, WI",Independent,8,30,0.26666666666666666
+WI,all-surveys,"Sheboygan County Jail, WI",Other,8,30,0.26666666666666666
+CA,all-surveys,"Fresno County, CA","Democrat, Independent",7,224,0.03125
+CA,all-surveys,"Tehama County, CA",Republican,7,21,0.3333333333333333
+FL,all-surveys,"Lake County Detention Center, FL",Independent,7,29,0.2413793103448276
+FL,all-surveys,"Lee County, FL",Other,7,57,0.12280701754385964
+FL,all-surveys,"Monroe County-Key West, FL",Independent,7,26,0.2692307692307692
+FL,all-surveys,"Nassau County, FL",Republican,7,30,0.23333333333333334
+FL,all-surveys,Santa Rosa County FL,Democrat,7,60,0.11666666666666667
+GA,all-surveys,"Columbia County Detention Center, GA",Republican,7,29,0.2413793103448276
+GA,all-surveys,"Dekalb County Jail, GA",Democrat,7,36,0.19444444444444445
+GA,all-surveys,"Forsyth County Detention Center, GA",Independent,7,21,0.3333333333333333
+IN,all-surveys,"Floyd County Jail, IN",Independent,7,25,0.28
+IN,all-surveys,"La Port County Jail, IN",Other,7,37,0.1891891891891892
+KS,all-surveys,"Butler County Corrections, KS",Independent,7,15,0.4666666666666667
+KS,all-surveys,"Douglas County, KS",Republican,7,32,0.21875
+KS,all-surveys,"Shawnee County Detention Center, KS",Democrat,7,38,0.18421052631578946
+KS,all-surveys,"Wyandotte County Detention Facility, KS",Independent,7,14,0.5
+MA,all-surveys,"Hampshire County, MA",Democrat,7,27,0.25925925925925924
+MA,all-surveys,"Worcester County Jail, MA",Democrat,7,57,0.12280701754385964
+MD,all-surveys,"Anne Arundel County, MD",Democrat,7,19,0.3684210526315789
+MI,all-surveys,"Genesee County, MI",Independent,7,35,0.2
+MT,all-surveys,"Cascade County, MT",Independent,7,13,0.5384615384615384
+NC,all-surveys,Durham County NC - Detention Facility,Republican,7,25,0.28
+NC,all-surveys,"New Hanover County Detention Center, NC",Independent,7,22,0.3181818181818182
+NC,all-surveys,"Onslow County Jail, NC",Democrat,7,34,0.20588235294117646
+NC,all-surveys,"Onslow County Jail, NC",Other,7,34,0.20588235294117646
+NJ,all-surveys,"Bergen County, NJ",Other,7,50,0.14
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Republican,7,44,0.1590909090909091
+NJ,all-surveys,"Essex County Correctional Facility, NJ",Republican,7,65,0.1076923076923077
+NM,all-surveys,"Sandoval County Detention Center, NM",Independent,7,15,0.4666666666666667
+NM,all-surveys,"Santa Fe County Adult Correctional Facility, NM",Republican,7,35,0.2
+NY,all-surveys,"Broome County Public Safety Facility, NY",Republican,7,19,0.3684210526315789
+NY,all-surveys,"Chautauqua County, NY",Other,7,38,0.18421052631578946
+NY,all-surveys,"Niagara County Correctional Facility, NY",Democrat,7,48,0.14583333333333334
+NY,all-surveys,"Oneida County Correctional Facility, NY",Republican,7,21,0.3333333333333333
+OH,all-surveys,"Muskingum County, OH",Republican,7,29,0.2413793103448276
+PA,all-surveys,"Bucks County Correctional Facility, PA",Democrat,7,23,0.30434782608695654
+PA,all-surveys,"Bucks County Correctional Facility, PA",Independent,7,23,0.30434782608695654
+PA,all-surveys,"Cambria County Prison, PA",Other,7,42,0.16666666666666666
+PA,all-surveys,"Chester County Prison, PA",Republican,7,31,0.22580645161290322
+PA,all-surveys,"Columbia County, PA",Republican,7,23,0.30434782608695654
+PA,all-surveys,"Delaware County, PA",Other,7,37,0.1891891891891892
+PA,all-surveys,"Delaware County, PA",Republican,7,37,0.1891891891891892
+PA,all-surveys,"Fayette County, PA",Other,7,36,0.19444444444444445
+PA,all-surveys,"Venango County Prison, PA",Republican,7,16,0.4375
+PA,all-surveys,"York County, PA",Independent,7,18,0.3888888888888889
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Democrat,7,56,0.125
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Other,7,56,0.125
+TN,all-surveys,"McMinn County Justice Center, TN",Republican,7,23,0.30434782608695654
+TN,all-surveys,"Warren County Jail, TN",Republican,7,27,0.25925925925925924
+TX,all-surveys,"GEO Group-Kinney County, TX",Independent,7,23,0.30434782608695654
+TX,all-surveys,"Wichita County, TX ",Democrat,7,34,0.20588235294117646
+UT,all-surveys,"Weber County Correctional Facility, UT",Republican,7,21,0.3333333333333333
+VA,all-surveys,"Botetourt Craig Public Safety Facility, VA",Independent,7,16,0.4375
+VA,all-surveys,"Meherrin River Alberta, VA",Democrat,7,24,0.2916666666666667
+VA,all-surveys,"Meherrin River Alberta, VA",Independent,7,24,0.2916666666666667
+VA,all-surveys,"Middle Peninsula Regional Jail, VA",Republican,7,16,0.4375
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Democrat,7,63,0.1111111111111111
+VA,all-surveys,"Western Regional, VA",Democrat,7,53,0.1320754716981132
+WA,all-surveys,"Whatcom County, WA - Main Jail",Other,7,48,0.14583333333333334
+WI,all-surveys,"Dodge County, WI",Democrat,7,34,0.20588235294117646
+WI,all-surveys,"La Crosse County Jail, WI",Other,7,12,0.5833333333333334
+WV,all-surveys,WV DCR Central Regional Jail,Other,7,41,0.17073170731707318
+WV,all-surveys,WV DCR Eastern Regional Jail,Independent,7,20,0.35
+WV,all-surveys,WV DCR Potomac Highlands Regional Jail,Independent,7,18,0.3888888888888889
+WV,all-surveys,WV DCR Southern Regional Jail,Republican,7,27,0.25925925925925924
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Other,7,59,0.11864406779661017
+AL,all-surveys,"Etowah County Jail, AL",Other,6,54,0.1111111111111111
+AL,all-surveys,"Montgomery County, AL",Democrat,6,27,0.2222222222222222
+AZ,all-surveys,"Yavapai County Jail, AZ",Republican,6,35,0.17142857142857143
+CA,all-surveys,"Fresno County, CA","Independent, Other",6,224,0.026785714285714284
+CA,all-surveys,"Fresno County, CA","Independent, Republican",6,224,0.026785714285714284
+CA,all-surveys,"Tulare County, CA-Bob Wiley Detention ",Independent,6,12,0.5
+CA,all-surveys,"Tuolumne-Dambacher Detention Center, CA",Independent,6,17,0.35294117647058826
+CA,all-surveys,"Tuolumne-Dambacher Detention Center, CA",Republican,6,17,0.35294117647058826
+CO,all-surveys,"Douglas Detention Center, CO",Democrat,6,41,0.14634146341463414
+CO,all-surveys,"Douglas Detention Center, CO",Other,6,41,0.14634146341463414
+FL,all-surveys,"Bay County, FL",Other,6,35,0.17142857142857143
+FL,all-surveys,"Citrus County Detention Facility, FL",Republican,6,29,0.20689655172413793
+FL,all-surveys,"Escambia County Jail, FL",Democrat,6,53,0.11320754716981132
+FL,all-surveys,"Lake County Detention Center, FL",Other,6,29,0.20689655172413793
+FL,all-surveys,"St. Lucie County Jail, FL",Other,6,27,0.2222222222222222
+FL,all-surveys,"Walton County Jail, FL",Republican,6,13,0.46153846153846156
+GA,all-surveys,"Catoosa County Jail, GA",Republican,6,21,0.2857142857142857
+GA,all-surveys,"Columbia County Detention Center, GA",Democrat,6,29,0.20689655172413793
+GA,all-surveys,"Columbia County Detention Center, GA",Other,6,29,0.20689655172413793
+IL,all-surveys,"Cook County, IL","Democrat, Republican",6,572,0.01048951048951049
+IL,all-surveys,"Cook County, IL","Other, Republican",6,572,0.01048951048951049
+IL,all-surveys,"DuPage County Jail, IL",Other,6,30,0.2
+IL,all-surveys,"Madison County, IL",Independent,6,19,0.3157894736842105
+IL,all-surveys,"Vermilion County Jail, IL",Republican,6,18,0.3333333333333333
+IN,all-surveys,"Elkhart County Jail, IN",Other,6,55,0.10909090909090909
+IN,all-surveys,"La Port County Jail, IN",Democrat,6,37,0.16216216216216217
+KS,all-surveys,"Butler County Corrections, KS",Republican,6,15,0.4
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Democrat,6,29,0.20689655172413793
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Republican,6,29,0.20689655172413793
+MA,all-surveys,"Berkshire County House of Corrections, MA",Other,6,24,0.25
+MA,all-surveys,"Hampshire County, MA",Republican,6,27,0.2222222222222222
+MA,all-surveys,"Suffolk County Jail, MA",Republican,6,70,0.08571428571428572
+MD,all-surveys,"Anne Arundel County, MD",Republican,6,19,0.3157894736842105
+MD,all-surveys,"Prince Georges County DOC, MD",Independent,6,16,0.375
+ME,all-surveys,"Two Bridges Regional, ME",Republican,6,24,0.25
+MI,all-surveys,"Genesee County, MI",Democrat,6,35,0.17142857142857143
+MI,all-surveys,"Genesee County, MI",Republican,6,35,0.17142857142857143
+MI,all-surveys,"Kalamazoo County, MI",Other,6,25,0.24
+MS,all-surveys,"Madison County Detention Center, MS",Democrat,6,17,0.35294117647058826
+NC,all-surveys,"Brunswick County Jail, NC",Independent,6,12,0.5
+NC,all-surveys,"Craven County Jail, NC",Other,6,33,0.18181818181818182
+NE,all-surveys,"Sarpy County Jail, NE",Independent,6,13,0.46153846153846156
+NJ,all-surveys,"Hudson County Corrections Center, NJ",Democrat,6,32,0.1875
+NJ,all-surveys,Middlesex County NJ: Adult Correctional,Other,6,15,0.4
+NV,all-surveys,"Elko County, NV",Independent,6,11,0.5454545454545454
+NY,all-surveys,"Broome County Public Safety Facility, NY",Democrat,6,19,0.3157894736842105
+NY,all-surveys,"Chautauqua County, NY",Democrat,6,38,0.15789473684210525
+NY,all-surveys,"Chautauqua County, NY",Republican,6,38,0.15789473684210525
+NY,all-surveys,"Delaware County Correctional Facility, NY",Independent,6,19,0.3157894736842105
+NY,all-surveys,"Onondaga County, NY",Democrat,6,21,0.2857142857142857
+OH,all-surveys,"Cuyahoga County Justice Center, OH","Independent, Republican",6,236,0.025423728813559324
+PA,all-surveys,"Adam County, PA - Adult Correctional Complex",Independent,6,16,0.375
+PA,all-surveys,"Berks County Jail, PA",Other,6,58,0.10344827586206896
+PA,all-surveys,"Cambria County Prison, PA",Democrat,6,42,0.14285714285714285
+PA,all-surveys,"Chester County Prison, PA",Democrat,6,31,0.1935483870967742
+PA,all-surveys,"Columbia County, PA",Independent,6,23,0.2608695652173913
+PA,all-surveys,"Fayette County, PA",Democrat,6,36,0.16666666666666666
+PA,all-surveys,"Franklin County, PA",Republican,6,33,0.18181818181818182
+PA,all-surveys,"Huntingdon County Prison, PA",Republican,6,7,0.8571428571428571
+PA,all-surveys,"Venango County Prison, PA",Independent,6,16,0.375
+SC,all-surveys,"Aiken County, SC",Republican,6,19,0.3157894736842105
+SC,all-surveys,"Chester County, SC",Independent,6,12,0.5
+SC,all-surveys,"Clarendon County, SC",Democrat,6,21,0.2857142857142857
+TN,all-surveys,"Warren County Jail, TN",Democrat,6,27,0.2222222222222222
+TX,all-surveys,"Collin County, TX ",Other,6,69,0.08695652173913043
+TX,all-surveys,"Fannin County Jail, TX",Independent,6,12,0.5
+UT,all-surveys,"Iron County, UT",Independent,6,19,0.3157894736842105
+UT,all-surveys,"Iron County, UT",Other,6,19,0.3157894736842105
+UT,all-surveys,"Iron County, UT",Republican,6,19,0.3157894736842105
+VA,all-surveys,"Arlington County Detention Center, VA",Republican,6,32,0.1875
+VA,all-surveys,"Henrico County Sheriff's Office, VA",Republican,6,23,0.2608695652173913
+VA,all-surveys,"Middle Peninsula Regional Jail, VA",Independent,6,16,0.375
+WA,all-surveys,"Whatcom County, WA - Main Jail",Democrat,6,48,0.125
+WI,all-surveys,"Dodge County, WI",Republican,6,34,0.17647058823529413
+WI,all-surveys,"Ozaukee County, WI",Independent,6,13,0.46153846153846156
+WI,all-surveys,"Rock County, WI",Republican,6,37,0.16216216216216217
+WV,all-surveys,WV DCR Eastern Regional Jail,Republican,6,20,0.3
+WV,all-surveys,WV DCR Southwestern Regional Jail,Other,6,47,0.1276595744680851

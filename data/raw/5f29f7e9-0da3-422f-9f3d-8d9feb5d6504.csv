@@ -1,0 +1,429 @@
+state,answer_set,facility_name,likely_to_vote_in_november_election,count,n_respondents,pct_of_respondents
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Definitely will not vote,190,501,0.37924151696606784
+IL,all-surveys,"Cook County, IL",Definitely will vote,173,418,0.4138755980861244
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Probably will not vote,132,501,0.2634730538922156
+CA,all-surveys,"Santa Clara County, CA",Definitely will vote,129,344,0.375
+IL,all-surveys,"Cook County, IL",Probably will vote,113,418,0.2703349282296651
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Definitely will vote,99,501,0.19760479041916168
+CA,all-surveys,"Santa Clara County, CA",Probably will vote,88,344,0.2558139534883721
+CA,all-surveys,"Santa Clara County, CA",Probably will not vote,77,344,0.2238372093023256
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Probably will vote,74,501,0.14770459081836326
+AZ,all-surveys,"Pima County Jail, AZ",Definitely will not vote,67,145,0.46206896551724136
+IL,all-surveys,"Cook County, IL",Probably will not vote,65,418,0.15550239234449761
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Probably will not vote,64,226,0.2831858407079646
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Definitely will vote,62,226,0.2743362831858407
+IL,all-surveys,"Cook County, IL",Definitely will not vote,58,418,0.13875598086124402
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Probably will vote,54,226,0.23893805309734514
+CA,all-surveys,"Fresno County, CA",Probably will not vote,51,165,0.3090909090909091
+CA,all-surveys,"Santa Clara County, CA",Definitely will not vote,49,344,0.14244186046511628
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Probably will not vote,46,151,0.304635761589404
+CA,all-surveys,"Fresno County, CA",Definitely will vote,45,165,0.2727272727272727
+TX,all-surveys,"Travis County Jail, TX",Definitely will vote,43,163,0.26380368098159507
+TX,all-surveys,"Travis County Jail, TX",Probably will not vote,43,163,0.26380368098159507
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Definitely will vote,42,151,0.2781456953642384
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Probably will vote,42,151,0.2781456953642384
+TX,all-surveys,"Travis County Jail, TX",Definitely will not vote,42,163,0.25766871165644173
+AZ,all-surveys,"Pima County Jail, AZ",Probably will not vote,40,145,0.27586206896551724
+CA,all-surveys,"Fresno County, CA",Definitely will not vote,39,165,0.23636363636363636
+CA,all-surveys,"Stanislaus County, CA",Definitely will vote,39,140,0.2785714285714286
+CO,all-surveys,"Denver County Jail, CO",Definitely will vote,39,102,0.38235294117647056
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Definitely will not vote,38,226,0.168141592920354
+IL,all-surveys,"Winnebago County, IL",Probably will not vote,38,108,0.35185185185185186
+CA,all-surveys,"Stanislaus County, CA",Probably will not vote,37,140,0.2642857142857143
+CA,all-surveys,"Stanislaus County, CA",Probably will vote,37,140,0.2642857142857143
+CA,all-surveys,"Orange County, CA - Theo Lacy",Probably will not vote,36,93,0.3870967741935484
+MI,all-surveys,"Kent County, MI ",Definitely will vote,33,72,0.4583333333333333
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Definitely will not vote,33,81,0.4074074074074074
+TX,all-surveys,"Travis County Jail, TX",Probably will vote,32,163,0.19631901840490798
+WA,all-surveys,"Yakima County, WA",Probably will not vote,32,86,0.37209302325581395
+CO,all-surveys,"Denver County Jail, CO",Probably will vote,30,102,0.29411764705882354
+CA,all-surveys,"San Joaquin County Jail, CA",Probably will not vote,29,74,0.3918918918918919
+CO,all-surveys,"Mesa County, CO",Definitely will vote,29,60,0.48333333333333334
+CO,all-surveys,"Weld County, CO",Probably will vote,29,89,0.3258426966292135
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Probably will not vote,29,77,0.37662337662337664
+IL,all-surveys,"Winnebago County, IL",Definitely will vote,28,108,0.25925925925925924
+PA,all-surveys,"Dauphin County Jail, PA",Definitely will vote,27,84,0.32142857142857145
+PA,all-surveys,"Dauphin County Jail, PA",Probably will not vote,27,84,0.32142857142857145
+CA,all-surveys,"Fresno County, CA",Probably will vote,26,165,0.15757575757575756
+CO,all-surveys,"Weld County, CO",Definitely will vote,26,89,0.29213483146067415
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Definitely will not vote,26,77,0.33766233766233766
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Definitely will vote,25,69,0.36231884057971014
+CA,all-surveys,"Orange County, CA - Theo Lacy",Probably will vote,25,93,0.26881720430107525
+PA,all-surveys,"Lackawana County, PA",Probably will not vote,25,82,0.3048780487804878
+TX,all-surveys,"Guadalupe County, TX",Probably will not vote,25,50,0.5
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Probably will not vote,24,69,0.34782608695652173
+CO,all-surveys,"Pueblo County, CO",Probably will not vote,24,63,0.38095238095238093
+IL,all-surveys,"Winnebago County, IL",Probably will vote,24,108,0.2222222222222222
+WA,all-surveys,"Spokane County Jail, WA",Probably will not vote,24,73,0.3287671232876712
+CA,all-surveys,"Stanislaus County, CA",Definitely will not vote,23,140,0.16428571428571428
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Probably will not vote,23,71,0.323943661971831
+IN,all-surveys,"Hamilton County Main Jail, IN",Probably will not vote,23,61,0.3770491803278688
+MA,all-surveys,"Essex County Middleton HOC, MA",Probably will not vote,23,60,0.38333333333333336
+NC,all-surveys,"Cumberland County, NC",Probably will not vote,23,71,0.323943661971831
+PA,all-surveys,"Lackawana County, PA",Definitely will vote,23,82,0.2804878048780488
+VA,all-surveys,"Chesapeake Correctional Center, VA",Definitely will not vote,23,60,0.38333333333333336
+PA,all-surveys,"Lehigh County, PA",Probably will vote,22,57,0.38596491228070173
+AZ,all-surveys,"Pima County Jail, AZ",Definitely will vote,21,145,0.14482758620689656
+CA,all-surveys,"Santa Barbara County, CA",Probably will not vote,21,51,0.4117647058823529
+MO,all-surveys,"St. Louis County Jail, MO",Probably will vote,21,72,0.2916666666666667
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Probably will not vote,21,67,0.31343283582089554
+NY,all-surveys,"Albany County Correctional Facility, NY",Definitely will not vote,21,72,0.2916666666666667
+NY,all-surveys,"Albany County Correctional Facility, NY",Probably will not vote,21,72,0.2916666666666667
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Probably will vote,21,62,0.3387096774193548
+OH,all-surveys,"Mahoning County Justice Center, OH",Probably will vote,21,74,0.28378378378378377
+WA,all-surveys,"Spokane County Jail, WA",Definitely will vote,21,73,0.2876712328767123
+CA,all-surveys,"San Joaquin County Jail, CA",Definitely will vote,20,74,0.2702702702702703
+IL,all-surveys,"Kane County, IL",Probably will vote,20,40,0.5
+MA,all-surveys,"Suffolk County Jail, MA",Definitely will vote,20,63,0.31746031746031744
+WA,all-surveys,"Yakima County, WA",Definitely will vote,20,86,0.23255813953488372
+CA,all-surveys,"Orange County, CA - Theo Lacy",Definitely will vote,19,93,0.20430107526881722
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Definitely will vote,19,71,0.2676056338028169
+CO,all-surveys,"Jefferson County Detention Facility, CO",Definitely will vote,19,46,0.41304347826086957
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Definitely will not vote,19,151,0.12582781456953643
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Definitely will vote,19,56,0.3392857142857143
+PA,all-surveys,"Washington County, PA ",Probably will not vote,19,43,0.4418604651162791
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Definitely will not vote,19,42,0.4523809523809524
+CO,all-surveys,"Weld County, CO",Definitely will not vote,18,89,0.20224719101123595
+MA,all-surveys,"Middlesex County House of Corrections, MA",Definitely will vote,18,53,0.33962264150943394
+MA,all-surveys,"Suffolk County Jail, MA",Definitely will not vote,18,63,0.2857142857142857
+MI,all-surveys,"Kent County, MI ",Probably will vote,18,72,0.25
+MO,all-surveys,"St. Louis County Jail, MO",Definitely will not vote,18,72,0.25
+NC,all-surveys,"Cumberland County, NC",Probably will vote,18,71,0.2535211267605634
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Probably will vote,18,67,0.26865671641791045
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Probably will not vote,18,62,0.2903225806451613
+OH,all-surveys,"Mahoning County Justice Center, OH",Definitely will not vote,18,74,0.24324324324324326
+TX,all-surveys,"Potter County Detention, TX",Definitely will not vote,18,52,0.34615384615384615
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Probably will not vote,18,81,0.2222222222222222
+AZ,all-surveys,"Pinal County Jail, AZ",Definitely will not vote,17,36,0.4722222222222222
+FL,all-surveys,"Sarasota County, FL",Definitely will not vote,17,46,0.3695652173913043
+MA,all-surveys,"Worcester County Jail, MA",Definitely will not vote,17,51,0.3333333333333333
+MO,all-surveys,"St. Louis County Jail, MO",Definitely will vote,17,72,0.2361111111111111
+NC,all-surveys,"Cumberland County, NC",Definitely will not vote,17,71,0.23943661971830985
+OH,all-surveys,"Mahoning County Justice Center, OH",Probably will not vote,17,74,0.22972972972972974
+PA,all-surveys,"Lackawana County, PA",Definitely will not vote,17,82,0.2073170731707317
+PA,all-surveys,"Lackawana County, PA",Probably will vote,17,82,0.2073170731707317
+TX,all-surveys,"Collin County, TX ",Definitely will not vote,17,52,0.3269230769230769
+TX,all-surveys,"McLennan County, TX",Probably will not vote,17,56,0.30357142857142855
+TX,all-surveys,"Potter County Detention, TX",Probably will not vote,17,52,0.3269230769230769
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Definitely will vote,17,81,0.20987654320987653
+WA,all-surveys,"Yakima County, WA",Definitely will not vote,17,86,0.19767441860465115
+AZ,all-surveys,"Pima County Jail, AZ",Probably will vote,16,145,0.1103448275862069
+CA,all-surveys,"Madera County, CA",Probably will not vote,16,44,0.36363636363636365
+CO,all-surveys,"Denver County Jail, CO",Definitely will not vote,16,102,0.1568627450980392
+CO,all-surveys,"Denver County Jail, CO",Probably will not vote,16,102,0.1568627450980392
+MO,all-surveys,"Cape Girardeau County Jail, MO",Definitely will not vote,16,48,0.3333333333333333
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Definitely will vote,16,67,0.23880597014925373
+NY,all-surveys,"Albany County Correctional Facility, NY",Definitely will vote,16,72,0.2222222222222222
+NY,all-surveys,"Erie County, NY",Definitely will vote,16,46,0.34782608695652173
+PA,all-surveys,"Berks County Jail, PA",Probably will not vote,16,49,0.32653061224489793
+PA,all-surveys,"Dauphin County Jail, PA",Probably will vote,16,84,0.19047619047619047
+PA,all-surveys,"Westmoreland County, PA",Probably will not vote,16,57,0.2807017543859649
+PA,all-surveys,"Westmoreland County, PA",Probably will vote,16,57,0.2807017543859649
+TX,all-surveys,"McLennan County, TX",Definitely will not vote,16,56,0.2857142857142857
+CA,all-surveys,"Butte County, CA",Probably will not vote,15,45,0.3333333333333333
+CA,all-surveys,"San Joaquin County Jail, CA",Probably will vote,15,74,0.20270270270270271
+CA,all-surveys,"Santa Barbara County, CA",Definitely will vote,15,51,0.29411764705882354
+CO,all-surveys,"Mesa County, CO",Probably will vote,15,60,0.25
+CO,all-surveys,"Pueblo County, CO",Definitely will vote,15,63,0.23809523809523808
+CO,all-surveys,"Pueblo County, CO",Probably will vote,15,63,0.23809523809523808
+CO,all-surveys,"Weld County, CO",Probably will not vote,15,89,0.16853932584269662
+MI,all-surveys,"Macomb County, MI",Probably will vote,15,54,0.2777777777777778
+OH,all-surveys,"Mahoning County Justice Center, OH",Definitely will vote,15,74,0.20270270270270271
+PA,all-surveys,"Lebanon County, PA",Definitely will vote,15,46,0.32608695652173914
+PA,all-surveys,"Lehigh County, PA",Definitely will not vote,15,57,0.2631578947368421
+VA,all-surveys,"Pamunkey Regional Jail, VA",Definitely will not vote,15,38,0.39473684210526316
+WA,all-surveys,"Spokane County Jail, WA",Definitely will not vote,15,73,0.2054794520547945
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Definitely will not vote,14,71,0.19718309859154928
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Probably will vote,14,71,0.19718309859154928
+FL,all-surveys,Santa Rosa County FL,Definitely will not vote,14,41,0.34146341463414637
+IN,all-surveys,"Hamilton County Main Jail, IN",Probably will vote,14,61,0.22950819672131148
+MA,all-surveys,"Bristol County House of Correction, MA",Probably will not vote,14,47,0.2978723404255319
+MA,all-surveys,"Bristol County House of Correction, MA",Probably will vote,14,47,0.2978723404255319
+MA,all-surveys,"Essex County Middleton HOC, MA",Definitely will not vote,14,60,0.23333333333333334
+MA,all-surveys,"Essex County Middleton HOC, MA",Definitely will vote,14,60,0.23333333333333334
+MA,all-surveys,"Middlesex County House of Corrections, MA",Definitely will not vote,14,53,0.2641509433962264
+MA,all-surveys,"Suffolk County Jail, MA",Probably will vote,14,63,0.2222222222222222
+MI,all-surveys,"Macomb County, MI",Probably will not vote,14,54,0.25925925925925924
+MO,all-surveys,"Cape Girardeau County Jail, MO",Probably will not vote,14,48,0.2916666666666667
+MO,all-surveys,"St. Louis County Jail, MO",Probably will not vote,14,72,0.19444444444444445
+NY,all-surveys,"Niagara County Correctional Facility, NY",Probably will not vote,14,41,0.34146341463414637
+NY,all-surveys,"Suffolk County, NY ",Definitely will vote,14,50,0.28
+OR,all-surveys,"Lincoln County, OR",Probably will vote,14,34,0.4117647058823529
+PA,all-surveys,"Dauphin County Jail, PA",Definitely will not vote,14,84,0.16666666666666666
+PA,all-surveys,"Lebanon County, PA",Probably will not vote,14,46,0.30434782608695654
+TX,all-surveys,"Johnson County, TX",Definitely will not vote,14,37,0.3783783783783784
+VA,all-surveys,"Chesapeake Correctional Center, VA",Probably will vote,14,60,0.23333333333333334
+AL,all-surveys,"Etowah County Jail, AL",Probably will not vote,13,32,0.40625
+CA,all-surveys,"Madera County, CA",Definitely will vote,13,44,0.29545454545454547
+CA,all-surveys,"Orange County, CA - Theo Lacy",Definitely will not vote,13,93,0.13978494623655913
+CO,all-surveys,"Jefferson County Detention Facility, CO",Probably will vote,13,46,0.2826086956521739
+FL,all-surveys,"Lee County, FL",Definitely will vote,13,36,0.3611111111111111
+FL,all-surveys,"Sarasota County, FL",Probably will vote,13,46,0.2826086956521739
+GA,all-surveys,"Athens Clarke County Jail, GA",Probably will not vote,13,50,0.26
+GA,all-surveys,"Athens Clarke County Jail, GA",Probably will vote,13,50,0.26
+IL,all-surveys,"Winnebago County, IL",Definitely will not vote,13,108,0.12037037037037036
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Definitely will not vote,13,27,0.48148148148148145
+MA,all-surveys,"Worcester County Jail, MA",Probably will not vote,13,51,0.2549019607843137
+MI,all-surveys,"Kent County, MI ",Probably will not vote,13,72,0.18055555555555555
+MI,all-surveys,"Macomb County, MI",Definitely will not vote,13,54,0.24074074074074073
+NE,all-surveys,"Lancaster County, NE",Probably will not vote,13,38,0.34210526315789475
+PA,all-surveys,"Berks County Jail, PA",Definitely will not vote,13,49,0.2653061224489796
+PA,all-surveys,"Berks County Jail, PA",Definitely will vote,13,49,0.2653061224489796
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Probably will not vote,13,56,0.23214285714285715
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Probably will vote,13,56,0.23214285714285715
+PA,all-surveys,"Westmoreland County, PA",Definitely will not vote,13,57,0.22807017543859648
+TX,all-surveys,"Collin County, TX ",Definitely will vote,13,52,0.25
+TX,all-surveys,"Collin County, TX ",Probably will not vote,13,52,0.25
+UT,all-surveys,"Salt Lake City County, UT",Definitely will vote,13,49,0.2653061224489796
+UT,all-surveys,"Salt Lake City County, UT",Probably will vote,13,49,0.2653061224489796
+VA,all-surveys,"Arlington County Detention Center, VA",Probably will vote,13,30,0.43333333333333335
+VA,all-surveys,"Chesapeake Correctional Center, VA",Probably will not vote,13,60,0.21666666666666667
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Probably will not vote,13,42,0.30952380952380953
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Probably will vote,13,81,0.16049382716049382
+VA,all-surveys,"Western Regional, VA",Definitely will not vote,13,36,0.3611111111111111
+WA,all-surveys,"Yakima County, WA",Probably will vote,13,86,0.1511627906976744
+AL,all-surveys,"Riverside Regional, VA",Definitely will not vote,12,24,0.5
+AZ,all-surveys,"Yavapai County Jail, AZ",Definitely will not vote,12,23,0.5217391304347826
+CA,all-surveys,"Butte County, CA",Definitely will vote,12,45,0.26666666666666666
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Probably will vote,12,77,0.15584415584415584
+IA,all-surveys,"Polk County, IA ",Probably will not vote,12,30,0.4
+IN,all-surveys,"Hamilton County Main Jail, IN",Definitely will vote,12,61,0.19672131147540983
+MA,all-surveys,"Middlesex County House of Corrections, MA",Probably will vote,12,53,0.22641509433962265
+MA,all-surveys,"Worcester County Jail, MA",Definitely will vote,12,51,0.23529411764705882
+MI,all-surveys,"Macomb County, MI",Definitely will vote,12,54,0.2222222222222222
+NY,all-surveys,"Albany County Correctional Facility, NY",Probably will vote,12,72,0.16666666666666666
+NY,all-surveys,"Erie County, NY",Probably will not vote,12,46,0.2608695652173913
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Definitely will not vote,12,62,0.1935483870967742
+NY,all-surveys,"Suffolk County, NY ",Definitely will not vote,12,50,0.24
+NY,all-surveys,"Suffolk County, NY ",Probably will vote,12,50,0.24
+PA,all-surveys,"Lehigh County, PA",Probably will not vote,12,57,0.21052631578947367
+TX,all-surveys,"McLennan County, TX",Definitely will vote,12,56,0.21428571428571427
+UT,all-surveys,"Salt Lake City County, UT",Definitely will not vote,12,49,0.24489795918367346
+VA,all-surveys,"Pamunkey Regional Jail, VA",Probably will not vote,12,38,0.3157894736842105
+WI,all-surveys,"Dodge County, WI",Definitely will not vote,12,26,0.46153846153846156
+CA,all-surveys,"Butte County, CA",Definitely will not vote,11,45,0.24444444444444444
+FL,all-surveys,Santa Rosa County FL,Probably will not vote,11,41,0.2682926829268293
+GA,all-surveys,"Athens Clarke County Jail, GA",Definitely will not vote,11,50,0.22
+GA,all-surveys,"Dekalb County Jail, GA",Probably will not vote,11,33,0.3333333333333333
+IL,all-surveys,"Kane County, IL",Definitely will vote,11,40,0.275
+IN,all-surveys,"Hamilton County Main Jail, IN",Definitely will not vote,11,61,0.18032786885245902
+MO,all-surveys,"Cape Girardeau County Jail, MO",Probably will vote,11,48,0.22916666666666666
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Definitely will not vote,11,67,0.16417910447761194
+NE,all-surveys,"Lancaster County, NE",Definitely will not vote,11,38,0.2894736842105263
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",Definitely will not vote,11,27,0.4074074074074074
+NJ,all-surveys,"Bergen County, NJ",Definitely will not vote,11,34,0.3235294117647059
+NJ,all-surveys,"Bergen County, NJ",Probably will vote,11,34,0.3235294117647059
+NM,all-surveys,"Luna County Detention Center, NM",Definitely will not vote,11,25,0.44
+NY,all-surveys,"Niagara County Correctional Facility, NY",Definitely will not vote,11,41,0.2682926829268293
+NY,all-surveys,"Suffolk County, NY ",Probably will not vote,11,50,0.22
+OH,all-surveys,"Muskingum County, OH",Probably will not vote,11,22,0.5
+OH,all-surveys,"Summit County, OH",Probably will not vote,11,29,0.3793103448275862
+PA,all-surveys,"Delaware County, PA",Probably will vote,11,25,0.44
+PA,all-surveys,"Westmoreland County, PA",Definitely will vote,11,57,0.19298245614035087
+TX,all-surveys,"Guadalupe County, TX",Definitely will not vote,11,50,0.22
+UT,all-surveys,"Beaver County, UT",Probably will not vote,11,28,0.39285714285714285
+VA,all-surveys,"Western Regional, VA",Probably will not vote,11,36,0.3055555555555556
+WA,all-surveys,"Spokane County Jail, WA",Probably will vote,11,73,0.1506849315068493
+AL,all-surveys,"Etowah County Jail, AL",Definitely will not vote,10,32,0.3125
+AZ,all-surveys,"Apache County Jail, AZ",Definitely will not vote,10,19,0.5263157894736842
+CA,all-surveys,"Alameda County-Santa Rita, CA",Probably will vote,10,34,0.29411764705882354
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Definitely will not vote,10,69,0.14492753623188406
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Probably will vote,10,69,0.14492753623188406
+CA,all-surveys,"Sonoma County, CA",Probably will not vote,10,19,0.5263157894736842
+FL,all-surveys,"Escambia County Jail, FL",Probably will not vote,10,33,0.30303030303030304
+FL,all-surveys,"Lee County, FL",Definitely will not vote,10,36,0.2777777777777778
+GA,all-surveys,"Athens Clarke County Jail, GA",Definitely will vote,10,50,0.2
+GA,all-surveys,"Bibb County Jail, GA",Definitely will vote,10,40,0.25
+GA,all-surveys,"Bibb County Jail, GA",Probably will not vote,10,40,0.25
+GA,all-surveys,"Bibb County Jail, GA",Probably will vote,10,40,0.25
+GA,all-surveys,"Cobb County, GA",Definitely will not vote,10,33,0.30303030303030304
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Definitely will vote,10,77,0.12987012987012986
+MA,all-surveys,"Bristol County House of Correction, MA",Definitely will not vote,10,47,0.2127659574468085
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Probably will not vote,10,32,0.3125
+ME,all-surveys,"Two Bridges Regional, ME",Definitely will vote,10,18,0.5555555555555556
+MI,all-surveys,"Livingston County, MI",Definitely will vote,10,25,0.4
+NC,all-surveys,"Cumberland County, NC",Definitely will vote,10,71,0.14084507042253522
+NH,all-surveys,"Hillsborough County House of Corrections, NH",Probably will not vote,10,17,0.5882352941176471
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Probably will not vote,10,26,0.38461538461538464
+OR,all-surveys,"Lincoln County, OR",Definitely will vote,10,34,0.29411764705882354
+PA,all-surveys,"Columbia County, PA",Probably will not vote,10,17,0.5882352941176471
+TX,all-surveys,"Johnson County, TX",Definitely will vote,10,37,0.2702702702702703
+TX,all-surveys,"McLennan County, TX",Probably will vote,10,56,0.17857142857142858
+TX,all-surveys,"Wichita County, TX ",Definitely will vote,10,28,0.35714285714285715
+UT,all-surveys,"Salt Lake City County, UT",Probably will not vote,10,49,0.20408163265306123
+VA,all-surveys,"Chesapeake Correctional Center, VA",Definitely will vote,10,60,0.16666666666666666
+AZ,all-surveys,"Pinal County Jail, AZ",Probably will not vote,9,36,0.25
+CA,all-surveys,"Alameda County-Santa Rita, CA",Definitely will vote,9,34,0.2647058823529412
+CA,all-surveys,"Alameda County-Santa Rita, CA",Probably will not vote,9,34,0.2647058823529412
+CA,all-surveys,"San Joaquin County Jail, CA",Definitely will not vote,9,74,0.12162162162162163
+CO,all-surveys,"Douglas Detention Center, CO",Definitely will vote,9,33,0.2727272727272727
+CO,all-surveys,"Douglas Detention Center, CO",Probably will not vote,9,33,0.2727272727272727
+CO,all-surveys,"Jefferson County Detention Facility, CO",Probably will not vote,9,46,0.1956521739130435
+CO,all-surveys,"Larimer County, CO",Definitely will not vote,9,27,0.3333333333333333
+CO,all-surveys,"Mesa County, CO",Definitely will not vote,9,60,0.15
+FL,all-surveys,"Monroe County-Key West, FL",Definitely will not vote,9,17,0.5294117647058824
+FL,all-surveys,"Nassau County, FL",Definitely will not vote,9,18,0.5
+FL,all-surveys,"Sarasota County, FL",Probably will not vote,9,46,0.1956521739130435
+GA,all-surveys,"Bibb County Jail, GA",Definitely will not vote,9,40,0.225
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Definitely will vote,9,23,0.391304347826087
+MA,all-surveys,"Bristol County House of Correction, MA",Definitely will vote,9,47,0.19148936170212766
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Definitely will not vote,9,32,0.28125
+MA,all-surveys,"Suffolk County Jail, MA",Probably will not vote,9,63,0.14285714285714285
+MA,all-surveys,"Worcester County Jail, MA",Probably will vote,9,51,0.17647058823529413
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",Probably will not vote,9,27,0.3333333333333333
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Probably will not vote,9,25,0.36
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Definitely will not vote,9,26,0.34615384615384615
+NM,all-surveys,"Eddy County Detention Center, NM",Probably will not vote,9,20,0.45
+NY,all-surveys,"Chautauqua County, NY",Probably will not vote,9,29,0.3103448275862069
+NY,all-surveys,"Erie County, NY",Definitely will not vote,9,46,0.1956521739130435
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Definitely will vote,9,62,0.14516129032258066
+NY,all-surveys,"Niagara County Correctional Facility, NY",Probably will vote,9,41,0.21951219512195122
+NY,all-surveys,"Onondaga County-Justice Center, NY",Definitely will vote,9,25,0.36
+OH,all-surveys,"Lorain County, OH ",Probably will not vote,9,28,0.32142857142857145
+OH,all-surveys,"Lorain County, OH ",Probably will vote,9,28,0.32142857142857145
+PA,all-surveys,"Fayette County, PA",Probably will not vote,9,27,0.3333333333333333
+PA,all-surveys,"Franklin County, PA",Probably will not vote,9,25,0.36
+PA,all-surveys,"Lebanon County, PA",Probably will vote,9,46,0.1956521739130435
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Definitely will not vote,9,56,0.16071428571428573
+TX,all-surveys,"Guadalupe County, TX",Definitely will vote,9,50,0.18
+TX,all-surveys,"Hunt County, TX",Probably will not vote,9,22,0.4090909090909091
+TX,all-surveys,"Potter County Detention, TX",Probably will vote,9,52,0.17307692307692307
+TX,all-surveys,"Wichita County, TX ",Definitely will not vote,9,28,0.32142857142857145
+VA,all-surveys,"Arlington County Detention Center, VA",Definitely will not vote,9,30,0.3
+VA,all-surveys,"Botetourt Craig Public Safety Facility, VA",Definitely will not vote,9,16,0.5625
+WI,all-surveys,"Dodge County, WI",Probably will not vote,9,26,0.34615384615384615
+CA,all-surveys,"Madera County, CA",Probably will vote,8,44,0.18181818181818182
+CA,all-surveys,"Santa Barbara County, CA",Probably will vote,8,51,0.1568627450980392
+CO,all-surveys,"Douglas Detention Center, CO",Probably will vote,8,33,0.24242424242424243
+CO,all-surveys,"Pueblo County, CO",Definitely will not vote,8,63,0.12698412698412698
+FL,all-surveys,"Escambia County Jail, FL",Definitely will not vote,8,33,0.24242424242424243
+FL,all-surveys,"Escambia County Jail, FL",Definitely will vote,8,33,0.24242424242424243
+FL,all-surveys,Santa Rosa County FL,Definitely will vote,8,41,0.1951219512195122
+GA,all-surveys,"Cobb County, GA",Probably will not vote,8,33,0.24242424242424243
+GA,all-surveys,"Dekalb County Jail, GA",Definitely will not vote,8,33,0.24242424242424243
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Probably will not vote,8,27,0.2962962962962963
+MA,all-surveys,"Essex County Middleton HOC, MA",Probably will vote,8,60,0.13333333333333333
+MA,all-surveys,"Middlesex County House of Corrections, MA",Probably will not vote,8,53,0.1509433962264151
+MA,all-surveys,"Norfolk County Jail, MA",Probably will not vote,8,22,0.36363636363636365
+MI,all-surveys,"Genesee County, MI",Definitely will vote,8,21,0.38095238095238093
+MI,all-surveys,"Kalamazoo County, MI",Probably will vote,8,20,0.4
+MT,all-surveys,"Missoula County, MT",Definitely will not vote,8,21,0.38095238095238093
+NM,all-surveys,"Lea County Sheriff's Office, NM",Definitely will not vote,8,19,0.42105263157894735
+NM,all-surveys,"Lea County Sheriff's Office, NM",Probably will not vote,8,19,0.42105263157894735
+NY,all-surveys,"Chautauqua County, NY",Definitely will not vote,8,29,0.27586206896551724
+NY,all-surveys,"Ulster County Jail, NY",Definitely will vote,8,17,0.47058823529411764
+PA,all-surveys,"Lebanon County, PA",Definitely will not vote,8,46,0.17391304347826086
+PA,all-surveys,"Washington County, PA ",Definitely will vote,8,43,0.18604651162790697
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Definitely will vote,8,24,0.3333333333333333
+TX,all-surveys,"Collin County, TX ",Probably will vote,8,52,0.15384615384615385
+TX,all-surveys,"Wichita County, TX ",Probably will not vote,8,28,0.2857142857142857
+WI,all-surveys,"Rock County, WI",Definitely will not vote,8,25,0.32
+AL,all-surveys,"Etowah County Jail, AL",Definitely will vote,7,32,0.21875
+CA,all-surveys,"Santa Barbara County, CA",Definitely will not vote,7,51,0.13725490196078433
+CO,all-surveys,"Larimer County, CO",Probably will not vote,7,27,0.25925925925925924
+CO,all-surveys,"Larimer County, CO",Probably will vote,7,27,0.25925925925925924
+CO,all-surveys,"Mesa County, CO",Probably will not vote,7,60,0.11666666666666667
+FL,all-surveys,"Lee County, FL",Probably will vote,7,36,0.19444444444444445
+FL,all-surveys,Santa Rosa County FL,Probably will vote,7,41,0.17073170731707318
+FL,all-surveys,"Sarasota County, FL",Definitely will vote,7,46,0.15217391304347827
+GA,all-surveys,"Catoosa County Jail, GA",Definitely will not vote,7,15,0.4666666666666667
+GA,all-surveys,"Cobb County, GA",Definitely will vote,7,33,0.21212121212121213
+GA,all-surveys,"Cobb County, GA",Probably will vote,7,33,0.21212121212121213
+GA,all-surveys,"Columbia County Detention Center, GA",Probably will vote,7,21,0.3333333333333333
+GA,all-surveys,"Thomas County Detention, GA",Probably will not vote,7,17,0.4117647058823529
+IL,all-surveys,Edovo Go - General,Probably will not vote,7,13,0.5384615384615384
+IN,all-surveys,"Boone County, IN",Definitely will vote,7,23,0.30434782608695654
+IN,all-surveys,"Boone County, IN",Probably will vote,7,23,0.30434782608695654
+KY,all-surveys,"Madison County, KY",Probably will not vote,7,18,0.3888888888888889
+KY,all-surveys,"Pulaski County, KY",Definitely will not vote,7,11,0.6363636363636364
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Probably will not vote,7,23,0.30434782608695654
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Probably will vote,7,32,0.21875
+MI,all-surveys,"Kalamazoo County, MI",Probably will not vote,7,20,0.35
+MI,all-surveys,"Kent County, MI ",Definitely will not vote,7,72,0.09722222222222222
+MO,all-surveys,"Cape Girardeau County Jail, MO",Definitely will vote,7,48,0.14583333333333334
+NE,all-surveys,"Lancaster County, NE",Definitely will vote,7,38,0.18421052631578946
+NJ,all-surveys,"Bergen County, NJ",Definitely will vote,7,34,0.20588235294117646
+NY,all-surveys,"Erie County, NY",Probably will vote,7,46,0.15217391304347827
+NY,all-surveys,"Niagara County Correctional Facility, NY",Definitely will vote,7,41,0.17073170731707318
+NY,all-surveys,"Onondaga County-Justice Center, NY",Probably will not vote,7,25,0.28
+OH,all-surveys,"Lorain County, OH ",Definitely will vote,7,28,0.25
+OH,all-surveys,"Portage County, OH",Definitely will vote,7,17,0.4117647058823529
+PA,all-surveys,"Lehigh County, PA",Definitely will vote,7,57,0.12280701754385964
+PA,all-surveys,"Washington County, PA ",Definitely will not vote,7,43,0.16279069767441862
+TX,all-surveys,"Johnson County, TX",Probably will not vote,7,37,0.1891891891891892
+TX,all-surveys,"Potter County Detention, TX",Definitely will vote,7,52,0.1346153846153846
+UT,all-surveys,"Beaver County, UT",Definitely will vote,7,28,0.25
+VA,all-surveys,"Western Regional, VA",Definitely will vote,7,36,0.19444444444444445
+WA,all-surveys,"Whatcom County, WA - Main Jail",Definitely will vote,7,23,0.30434782608695654
+WA,all-surveys,"Whatcom County, WA - Main Jail",Probably will vote,7,23,0.30434782608695654
+WI,all-surveys,"Rock County, WI",Probably will not vote,7,25,0.28
+AL,all-surveys,"Riverside Regional, VA",Probably will not vote,6,24,0.25
+AL,all-surveys,"Tuscaloosa County Jail, AL",Definitely will not vote,6,10,0.6
+CA,all-surveys,"Alameda County-Santa Rita, CA",Definitely will not vote,6,34,0.17647058823529413
+CA,all-surveys,"Butte County, CA",Probably will vote,6,45,0.13333333333333333
+CA,all-surveys,"Madera County, CA",Definitely will not vote,6,44,0.13636363636363635
+CA,all-surveys,"Yuba County, CA ",Definitely will vote,6,12,0.5
+CO,all-surveys,"Douglas Detention Center, CO",Definitely will not vote,6,33,0.18181818181818182
+FL,all-surveys,"Escambia County Jail, FL",Probably will vote,6,33,0.18181818181818182
+FL,all-surveys,"Lee County, FL",Probably will not vote,6,36,0.16666666666666666
+FL,all-surveys,"Nassau County, FL",Probably will vote,6,18,0.3333333333333333
+GA,all-surveys,"Catoosa County Jail, GA",Probably will not vote,6,15,0.4
+GA,all-surveys,"Columbia County Detention Center, GA",Probably will not vote,6,21,0.2857142857142857
+GA,all-surveys,"Dekalb County Jail, GA",Definitely will vote,6,33,0.18181818181818182
+GA,all-surveys,"Dekalb County Jail, GA",Probably will vote,6,33,0.18181818181818182
+IA,all-surveys,"Polk County, IA ",Definitely will not vote,6,30,0.2
+IA,all-surveys,"Polk County, IA ",Definitely will vote,6,30,0.2
+IL,all-surveys,"Madison County, IL",Probably will not vote,6,16,0.375
+IN,all-surveys,"Boone County, IN",Probably will not vote,6,23,0.2608695652173913
+KS,all-surveys,"Douglas County, KS",Definitely will not vote,6,21,0.2857142857142857
+KS,all-surveys,"Douglas County, KS",Probably will not vote,6,21,0.2857142857142857
+KS,all-surveys,"Douglas County, KS",Probably will vote,6,21,0.2857142857142857
+KY,all-surveys,"Clay County Detention Center, KY",Definitely will not vote,6,12,0.5
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Probably will vote,6,27,0.2222222222222222
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Probably will vote,6,23,0.2608695652173913
+MA,all-surveys,"Berkshire County House of Corrections, MA",Definitely will not vote,6,20,0.3
+MA,all-surveys,"Berkshire County House of Corrections, MA",Probably will not vote,6,20,0.3
+MA,all-surveys,"Berkshire County House of Corrections, MA",Probably will vote,6,20,0.3
+MI,all-surveys,"Genesee County, MI",Probably will not vote,6,21,0.2857142857142857
+MT,all-surveys,"Missoula County, MT",Definitely will vote,6,21,0.2857142857142857
+NE,all-surveys,"Lancaster County, NE",Probably will vote,6,38,0.15789473684210525
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Definitely will not vote,6,25,0.24
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Definitely will vote,6,25,0.24
+NJ,all-surveys,"Camden County Department of Corrections, NJ",Definitely will vote,6,18,0.3333333333333333
+NJ,all-surveys,"Camden County Department of Corrections, NJ",Probably will vote,6,18,0.3333333333333333
+NJ,all-surveys,"Cumberland County Jail, NJ",Probably will not vote,6,15,0.4
+NJ,all-surveys,"Ocean County, NJ",Definitely will vote,6,16,0.375
+NJ,all-surveys,"Ocean County, NJ",Probably will vote,6,16,0.375
+NM,all-surveys,"Curry County Detention Center, NM",Probably will not vote,6,12,0.5
+NM,all-surveys,"Luna County Detention Center, NM",Probably will not vote,6,25,0.24
+NY,all-surveys,"Onondaga County, NY",Probably will not vote,6,15,0.4
+NY,all-surveys,"Onondaga County-Justice Center, NY",Probably will vote,6,25,0.24
+NY,all-surveys,"Saratoga County Correctional Facility, NY",Probably will vote,6,11,0.5454545454545454
+OH,all-surveys,"Columbiana County Jail, OH",Definitely will not vote,6,16,0.375
+OH,all-surveys,"Columbiana County Jail, OH",Probably will not vote,6,16,0.375
+OH,all-surveys,"Greene County, OH: Adult Detention",Probably will not vote,6,19,0.3157894736842105
+OH,all-surveys,"Greene County, OH: Adult Detention",Probably will vote,6,19,0.3157894736842105
+OH,all-surveys,"Summit County, OH",Definitely will vote,6,29,0.20689655172413793
+OH,all-surveys,"Summit County, OH",Probably will vote,6,29,0.20689655172413793
+PA,all-surveys,"Adam County, PA - Adult Correctional Complex",Probably will not vote,6,15,0.4
+PA,all-surveys,"Allegheny County Jail, PA",Definitely will vote,6,16,0.375
+PA,all-surveys,"Berks County Jail, PA",Probably will vote,6,49,0.12244897959183673
+PA,all-surveys,"Cambria County Prison, PA",Definitely will vote,6,17,0.35294117647058826
+PA,all-surveys,"Columbia County, PA",Definitely will not vote,6,17,0.35294117647058826
+PA,all-surveys,"Cumberland County Prison, PA",Probably will not vote,6,13,0.46153846153846156
+PA,all-surveys,"Delaware County, PA",Definitely will vote,6,25,0.24
+PA,all-surveys,"Delaware County, PA",Probably will not vote,6,25,0.24
+PA,all-surveys,"Fayette County, PA",Definitely will vote,6,27,0.2222222222222222
+PA,all-surveys,"Fayette County, PA",Probably will vote,6,27,0.2222222222222222
+PA,all-surveys,"Franklin County, PA",Probably will vote,6,25,0.24
+PA,all-surveys,"Indiana County, PA",Definitely will not vote,6,15,0.4
+SC,all-surveys,"Clarendon County, SC",Definitely will vote,6,12,0.5
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Probably will vote,6,24,0.25
+TX,all-surveys,"Johnson County, TX",Probably will vote,6,37,0.16216216216216217
+UT,all-surveys,"Beaver County, UT",Definitely will not vote,6,28,0.21428571428571427
+UT,all-surveys,"Iron County, UT",Probably will not vote,6,15,0.4
+VA,all-surveys,"Middle Peninsula Regional Jail, VA",Definitely will not vote,6,13,0.46153846153846156
+VA,all-surveys,"Pamunkey Regional Jail, VA",Probably will vote,6,38,0.15789473684210525
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Definitely will vote,6,42,0.14285714285714285
+WI,all-surveys,"Rock County, WI",Probably will vote,6,25,0.24
+WI,all-surveys,"Winnebago County, WI",Definitely will not vote,6,11,0.5454545454545454

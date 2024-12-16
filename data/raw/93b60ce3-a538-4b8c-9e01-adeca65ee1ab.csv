@@ -1,0 +1,386 @@
+state,answer_set,facility_name,vote_impact_government_level,count,n_respondents,pct_of_respondents
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",State,164,476,0.3445378151260504
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",City / Town,146,476,0.3067226890756303
+IL,all-surveys,"Cook County, IL",State,127,405,0.3135802469135803
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Federal,118,476,0.24789915966386555
+CA,all-surveys,"Santa Clara County, CA",State,117,339,0.34513274336283184
+IL,all-surveys,"Cook County, IL",Federal,108,405,0.26666666666666666
+IL,all-surveys,"Cook County, IL",City / Town,97,405,0.23950617283950618
+CA,all-surveys,"Santa Clara County, CA",City / Town,91,339,0.26843657817109146
+CA,all-surveys,"Santa Clara County, CA",Federal,79,339,0.23303834808259588
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",State,77,216,0.35648148148148145
+OH,all-surveys,"Cuyahoga County Justice Center, OH",State,66,146,0.4520547945205479
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",City / Town,64,216,0.2962962962962963
+IL,all-surveys,"Cook County, IL",County,59,405,0.145679012345679
+AZ,all-surveys,"Pima County Jail, AZ",Federal,50,144,0.3472222222222222
+CA,all-surveys,"Santa Clara County, CA",County,50,339,0.14749262536873156
+TX,all-surveys,"Travis County Jail, TX",State,49,152,0.3223684210526316
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",County,47,476,0.09873949579831932
+AZ,all-surveys,"Pima County Jail, AZ",City / Town,47,144,0.3263888888888889
+CA,all-surveys,"Fresno County, CA",State,47,153,0.30718954248366015
+CA,all-surveys,"Fresno County, CA",Federal,44,153,0.2875816993464052
+CA,all-surveys,"Fresno County, CA",City / Town,42,153,0.27450980392156865
+TX,all-surveys,"Travis County Jail, TX",City / Town,42,152,0.27631578947368424
+CA,all-surveys,"Stanislaus County, CA",City / Town,40,139,0.28776978417266186
+CA,all-surveys,"Stanislaus County, CA",State,40,139,0.28776978417266186
+OH,all-surveys,"Cuyahoga County Justice Center, OH",City / Town,40,146,0.273972602739726
+TX,all-surveys,"Travis County Jail, TX",Federal,40,152,0.2631578947368421
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Federal,36,216,0.16666666666666666
+CA,all-surveys,"Stanislaus County, CA",Federal,36,139,0.2589928057553957
+AZ,all-surveys,"Pima County Jail, AZ",State,33,144,0.22916666666666666
+IL,all-surveys,"Winnebago County, IL",State,33,104,0.3173076923076923
+IL,all-surveys,"Winnebago County, IL",City / Town,32,104,0.3076923076923077
+NY,all-surveys,"Albany County Correctional Facility, NY",City / Town,31,67,0.4626865671641791
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",County,30,216,0.1388888888888889
+CO,all-surveys,"Denver County Jail, CO",State,30,90,0.3333333333333333
+MO,all-surveys,"St. Louis County Jail, MO",State,29,68,0.4264705882352941
+WA,all-surveys,"Yakima County, WA",Federal,29,80,0.3625
+CO,all-surveys,"Denver County Jail, CO",Federal,28,90,0.3111111111111111
+CO,all-surveys,"Weld County, CO",State,28,86,0.32558139534883723
+PA,all-surveys,"Dauphin County Jail, PA",Federal,28,81,0.345679012345679
+IL,all-surveys,"Winnebago County, IL",Federal,27,104,0.25961538461538464
+MA,all-surveys,"Suffolk County Jail, MA",State,27,61,0.4426229508196721
+NC,all-surveys,"Cumberland County, NC",City / Town,27,70,0.38571428571428573
+CA,all-surveys,"Orange County, CA - Theo Lacy",State,26,83,0.3132530120481928
+CA,all-surveys,"Ventura County Sheriff's Office, CA",State,26,69,0.37681159420289856
+PA,all-surveys,"Dauphin County Jail, PA",City / Town,26,81,0.32098765432098764
+PA,all-surveys,"Lackawana County, PA",Federal,26,79,0.3291139240506329
+VA,all-surveys,"Chesapeake Correctional Center, VA",State,26,57,0.45614035087719296
+CA,all-surveys,"San Joaquin County Jail, CA",State,25,73,0.3424657534246575
+MA,all-surveys,"Essex County Middleton HOC, MA",State,25,58,0.43103448275862066
+OH,all-surveys,"Mahoning County Justice Center, OH",City / Town,25,71,0.352112676056338
+CA,all-surveys,"San Joaquin County Jail, CA",City / Town,24,73,0.3287671232876712
+CO,all-surveys,"Denver County Jail, CO",City / Town,24,90,0.26666666666666666
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Federal,24,146,0.1643835616438356
+WA,all-surveys,"Spokane County Jail, WA",City / Town,24,70,0.34285714285714286
+CA,all-surveys,"Orange County, CA - Theo Lacy",City / Town,23,83,0.27710843373493976
+CO,all-surveys,"Weld County, CO",Federal,23,86,0.26744186046511625
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Federal,23,73,0.3150684931506849
+IN,all-surveys,"Hamilton County Main Jail, IN",City / Town,23,60,0.38333333333333336
+MI,all-surveys,"Kent County, MI ",State,23,70,0.32857142857142857
+PA,all-surveys,"Lackawana County, PA",City / Town,23,79,0.2911392405063291
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",City / Town,23,74,0.3108108108108108
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",State,23,74,0.3108108108108108
+CA,all-surveys,"Orange County, CA - Theo Lacy",County,22,83,0.26506024096385544
+CO,all-surveys,"Weld County, CO",City / Town,22,86,0.2558139534883721
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",State,22,73,0.3013698630136986
+PA,all-surveys,"Westmoreland County, PA",City / Town,22,57,0.38596491228070173
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Federal,22,74,0.2972972972972973
+WA,all-surveys,"Yakima County, WA",State,22,80,0.275
+CO,all-surveys,"Pueblo County, CO",City / Town,21,59,0.3559322033898305
+MA,all-surveys,"Essex County Middleton HOC, MA",City / Town,21,58,0.3620689655172414
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",City / Town,21,65,0.3230769230769231
+NY,all-surveys,"Monroe County Sheriff's Department, NY",State,21,60,0.35
+OH,all-surveys,"Mahoning County Justice Center, OH",State,21,71,0.29577464788732394
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",City / Town,20,73,0.273972602739726
+MI,all-surveys,"Kent County, MI ",City / Town,20,70,0.2857142857142857
+PA,all-surveys,"Lehigh County, PA",State,20,58,0.3448275862068966
+TX,all-surveys,"Guadalupe County, TX",City / Town,20,51,0.39215686274509803
+WA,all-surveys,"Spokane County Jail, WA",Federal,20,70,0.2857142857142857
+CA,all-surveys,"San Joaquin County Jail, CA",Federal,19,73,0.2602739726027397
+NY,all-surveys,"Monroe County Sheriff's Department, NY",City / Town,19,60,0.31666666666666665
+TX,all-surveys,"McLennan County, TX",City / Town,19,53,0.3584905660377358
+CA,all-surveys,"Orange County, CA - Central Jail Complex",County,18,65,0.27692307692307694
+CA,all-surveys,"Stanislaus County, CA",County,18,139,0.12949640287769784
+FL,all-surveys,"Lee County, FL",Federal,18,35,0.5142857142857142
+MA,all-surveys,"Middlesex County House of Corrections, MA",City / Town,18,51,0.35294117647058826
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Federal,18,65,0.27692307692307694
+NY,all-surveys,"Albany County Correctional Facility, NY",Federal,18,67,0.26865671641791045
+PA,all-surveys,"Berks County Jail, PA",State,18,47,0.3829787234042553
+PA,all-surveys,"Lehigh County, PA",City / Town,18,58,0.3103448275862069
+PA,all-surveys,"Washington County, PA ",City / Town,18,42,0.42857142857142855
+TX,all-surveys,"Potter County Detention, TX",City / Town,18,48,0.375
+WA,all-surveys,"Yakima County, WA",City / Town,18,80,0.225
+CA,all-surveys,"Orange County, CA - Central Jail Complex",State,17,65,0.26153846153846155
+CA,all-surveys,"Santa Barbara County, CA",State,17,50,0.34
+CA,all-surveys,"Ventura County Sheriff's Office, CA",City / Town,17,69,0.2463768115942029
+CO,all-surveys,"Mesa County, CO",Federal,17,57,0.2982456140350877
+CO,all-surveys,"Pueblo County, CO",State,17,59,0.288135593220339
+IN,all-surveys,"Hamilton County Main Jail, IN",State,17,60,0.2833333333333333
+MA,all-surveys,"Bristol County House of Correction, MA",City / Town,17,45,0.37777777777777777
+MA,all-surveys,"Worcester County Jail, MA",City / Town,17,48,0.3541666666666667
+MI,all-surveys,"Kent County, MI ",Federal,17,70,0.24285714285714285
+MI,all-surveys,"Macomb County, MI",State,17,53,0.32075471698113206
+MO,all-surveys,"Cape Girardeau County Jail, MO",Federal,17,46,0.3695652173913043
+NC,all-surveys,"Cumberland County, NC",State,17,70,0.24285714285714285
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",State,17,65,0.26153846153846155
+OH,all-surveys,"Mahoning County Justice Center, OH",Federal,17,71,0.23943661971830985
+PA,all-surveys,"Lackawana County, PA",State,17,79,0.21518987341772153
+PA,all-surveys,"Montgomery County Correctional Facility, PA",State,17,51,0.3333333333333333
+TX,all-surveys,"Collin County, TX ",City / Town,17,50,0.34
+TX,all-surveys,"Travis County Jail, TX",County,17,152,0.1118421052631579
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",City / Town,17,39,0.4358974358974359
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Federal,16,65,0.24615384615384617
+CO,all-surveys,"Mesa County, CO",City / Town,16,57,0.2807017543859649
+GA,all-surveys,"Bibb County Jail, GA",State,16,42,0.38095238095238093
+MA,all-surveys,"Bristol County House of Correction, MA",State,16,45,0.35555555555555557
+MA,all-surveys,"Suffolk County Jail, MA",City / Town,16,61,0.26229508196721313
+MI,all-surveys,"Macomb County, MI",City / Town,16,53,0.3018867924528302
+NY,all-surveys,"Suffolk County, NY ",State,16,47,0.3404255319148936
+PA,all-surveys,"Berks County Jail, PA",City / Town,16,47,0.3404255319148936
+PA,all-surveys,"Montgomery County Correctional Facility, PA",City / Town,16,51,0.3137254901960784
+VA,all-surveys,"Chesapeake Correctional Center, VA",City / Town,16,57,0.2807017543859649
+WA,all-surveys,"Spokane County Jail, WA",State,16,70,0.22857142857142856
+CA,all-surveys,"Butte County, CA",City / Town,15,46,0.32608695652173914
+CA,all-surveys,"Butte County, CA",State,15,46,0.32608695652173914
+CA,all-surveys,"Madera County, CA",City / Town,15,43,0.3488372093023256
+CO,all-surveys,"Jefferson County Detention Facility, CO",State,15,43,0.3488372093023256
+GA,all-surveys,"Dekalb County Jail, GA",State,15,33,0.45454545454545453
+MA,all-surveys,"Worcester County Jail, MA",State,15,48,0.3125
+MI,all-surveys,"Macomb County, MI",Federal,15,53,0.2830188679245283
+MO,all-surveys,"St. Louis County Jail, MO",City / Town,15,68,0.22058823529411764
+NC,all-surveys,"Cumberland County, NC",Federal,15,70,0.21428571428571427
+NY,all-surveys,"Suffolk County, NY ",City / Town,15,47,0.3191489361702128
+OH,all-surveys,"Cuyahoga County Justice Center, OH",County,15,146,0.10273972602739725
+PA,all-surveys,"Lebanon County, PA",State,15,45,0.3333333333333333
+PA,all-surveys,"Lehigh County, PA",Federal,15,58,0.25862068965517243
+CA,all-surveys,"Fresno County, CA",County,14,153,0.0915032679738562
+CA,all-surveys,"Orange County, CA - Central Jail Complex",City / Town,14,65,0.2153846153846154
+CA,all-surveys,"Santa Barbara County, CA",City / Town,14,50,0.28
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Federal,14,69,0.2028985507246377
+CO,all-surveys,"Pueblo County, CO",Federal,14,59,0.23728813559322035
+FL,all-surveys,"Sarasota County, FL",Federal,14,43,0.32558139534883723
+GA,all-surveys,"Athens Clarke County Jail, GA",Federal,14,51,0.27450980392156865
+GA,all-surveys,"Athens Clarke County Jail, GA",State,14,51,0.27450980392156865
+MA,all-surveys,"Middlesex County House of Corrections, MA",Federal,14,51,0.27450980392156865
+MO,all-surveys,"St. Louis County Jail, MO",Federal,14,68,0.20588235294117646
+NE,all-surveys,"Lancaster County, NE",State,14,39,0.358974358974359
+NY,all-surveys,"Erie County, NY",City / Town,14,41,0.34146341463414637
+NY,all-surveys,"Erie County, NY",State,14,41,0.34146341463414637
+PA,all-surveys,"Dauphin County Jail, PA",State,14,81,0.1728395061728395
+PA,all-surveys,"Lebanon County, PA",City / Town,14,45,0.3111111111111111
+TX,all-surveys,"Collin County, TX ",Federal,14,50,0.28
+TX,all-surveys,"Guadalupe County, TX",Federal,14,51,0.27450980392156865
+TX,all-surveys,"Guadalupe County, TX",State,14,51,0.27450980392156865
+TX,all-surveys,"Johnson County, TX",Federal,14,36,0.3888888888888889
+UT,all-surveys,"Salt Lake City County, UT",Federal,14,46,0.30434782608695654
+VA,all-surveys,"Western Regional, VA",State,14,34,0.4117647058823529
+AL,all-surveys,"Etowah County Jail, AL",State,13,30,0.43333333333333335
+CA,all-surveys,"Madera County, CA",Federal,13,43,0.3023255813953488
+CA,all-surveys,"Santa Barbara County, CA",Federal,13,50,0.26
+CO,all-surveys,"Douglas Detention Center, CO",State,13,29,0.4482758620689655
+CO,all-surveys,"Jefferson County Detention Facility, CO",Federal,13,43,0.3023255813953488
+CO,all-surveys,"Mesa County, CO",County,13,57,0.22807017543859648
+FL,all-surveys,Santa Rosa County FL,City / Town,13,37,0.35135135135135137
+MA,all-surveys,"Plymouth County Correctional Facility, MA",State,13,32,0.40625
+PA,all-surveys,"Dauphin County Jail, PA",County,13,81,0.16049382716049382
+TX,all-surveys,"Collin County, TX ",State,13,50,0.26
+TX,all-surveys,"Potter County Detention, TX",State,13,48,0.2708333333333333
+UT,all-surveys,"Salt Lake City County, UT",City / Town,13,46,0.2826086956521739
+UT,all-surveys,"Salt Lake City County, UT",State,13,46,0.2826086956521739
+VA,all-surveys,"Chesapeake Correctional Center, VA",Federal,13,57,0.22807017543859648
+VA,all-surveys,"Pamunkey Regional Jail, VA",State,13,35,0.37142857142857144
+CO,all-surveys,"Weld County, CO",County,12,86,0.13953488372093023
+FL,all-surveys,Santa Rosa County FL,Federal,12,37,0.32432432432432434
+GA,all-surveys,"Athens Clarke County Jail, GA",City / Town,12,51,0.23529411764705882
+IL,all-surveys,"Kane County, IL",State,12,36,0.3333333333333333
+MO,all-surveys,"Cape Girardeau County Jail, MO",City / Town,12,46,0.2608695652173913
+NY,all-surveys,"Niagara County Correctional Facility, NY",Federal,12,35,0.34285714285714286
+OH,all-surveys,"Summit County, OH",State,12,30,0.4
+PA,all-surveys,"Lackawana County, PA",County,12,79,0.1518987341772152
+PA,all-surveys,"Westmoreland County, PA",Federal,12,57,0.21052631578947367
+PA,all-surveys,"Westmoreland County, PA",State,12,57,0.21052631578947367
+TX,all-surveys,"McLennan County, TX",Federal,12,53,0.22641509433962265
+AZ,all-surveys,"Pima County Jail, AZ",County,11,144,0.0763888888888889
+AZ,all-surveys,"Pinal County Jail, AZ",City / Town,11,32,0.34375
+CO,all-surveys,"Mesa County, CO",State,11,57,0.19298245614035087
+FL,all-surveys,"Escambia County Jail, FL",Federal,11,33,0.3333333333333333
+FL,all-surveys,"Sarasota County, FL",State,11,43,0.2558139534883721
+GA,all-surveys,"Bibb County Jail, GA",Federal,11,42,0.2619047619047619
+IN,all-surveys,"Hamilton County Main Jail, IN",County,11,60,0.18333333333333332
+MA,all-surveys,"Essex County Middleton HOC, MA",Federal,11,58,0.1896551724137931
+MA,all-surveys,"Middlesex County House of Corrections, MA",State,11,51,0.21568627450980393
+NJ,all-surveys,"Bergen County, NJ",City / Town,11,30,0.36666666666666664
+NJ,all-surveys,"Bergen County, NJ",State,11,30,0.36666666666666664
+NM,all-surveys,"Chaves County Adult Detention Center, NM",City / Town,11,21,0.5238095238095238
+NM,all-surveys,"Luna County Detention Center, NM",City / Town,11,27,0.4074074074074074
+NY,all-surveys,"Suffolk County, NY ",Federal,11,47,0.23404255319148937
+OR,all-surveys,"Lincoln County, OR",Federal,11,34,0.3235294117647059
+TX,all-surveys,"Johnson County, TX",State,11,36,0.3055555555555556
+TX,all-surveys,"McLennan County, TX",State,11,53,0.20754716981132076
+TX,all-surveys,"Potter County Detention, TX",Federal,11,48,0.22916666666666666
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",State,11,39,0.28205128205128205
+VA,all-surveys,"Western Regional, VA",Federal,11,34,0.3235294117647059
+CA,all-surveys,"Alameda County-Santa Rita, CA",City / Town,10,33,0.30303030303030304
+CA,all-surveys,"Alameda County-Santa Rita, CA",State,10,33,0.30303030303030304
+CA,all-surveys,"Orange County, CA - Theo Lacy",Federal,10,83,0.12048192771084337
+CA,all-surveys,"Ventura County Sheriff's Office, CA",County,10,69,0.14492753623188406
+CO,all-surveys,"Douglas Detention Center, CO",Federal,10,29,0.3448275862068966
+CO,all-surveys,"Larimer County, CO",City / Town,10,27,0.37037037037037035
+FL,all-surveys,"Sarasota County, FL",City / Town,10,43,0.23255813953488372
+GA,all-surveys,"Dekalb County Jail, GA",City / Town,10,33,0.30303030303030304
+IA,all-surveys,"Polk County, IA ",State,10,27,0.37037037037037035
+MA,all-surveys,"Berkshire County House of Corrections, MA",City / Town,10,19,0.5263157894736842
+MA,all-surveys,"Norfolk County Jail, MA",City / Town,10,20,0.5
+MA,all-surveys,"Suffolk County Jail, MA",Federal,10,61,0.16393442622950818
+MI,all-surveys,"Kent County, MI ",County,10,70,0.14285714285714285
+NE,all-surveys,"Lancaster County, NE",City / Town,10,39,0.2564102564102564
+NY,all-surveys,"Albany County Correctional Facility, NY",State,10,67,0.14925373134328357
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Federal,10,60,0.16666666666666666
+NY,all-surveys,"Niagara County Correctional Facility, NY",State,10,35,0.2857142857142857
+OH,all-surveys,"Lorain County, OH ",City / Town,10,27,0.37037037037037035
+PA,all-surveys,"Washington County, PA ",State,10,42,0.23809523809523808
+UT,all-surveys,"Beaver County, UT",State,10,28,0.35714285714285715
+VA,all-surveys,"Arlington County Detention Center, VA",City / Town,10,29,0.3448275862068966
+VA,all-surveys,"Pamunkey Regional Jail, VA",Federal,10,35,0.2857142857142857
+WI,all-surveys,"Dodge County, WI",Federal,10,23,0.43478260869565216
+AL,all-surveys,"Etowah County Jail, AL",City / Town,9,30,0.3
+AZ,all-surveys,"Apache County Jail, AZ",City / Town,9,21,0.42857142857142855
+CA,all-surveys,"Madera County, CA",State,9,43,0.20930232558139536
+CO,all-surveys,"Larimer County, CO",State,9,27,0.3333333333333333
+FL,all-surveys,"Lee County, FL",State,9,35,0.2571428571428571
+FL,all-surveys,Santa Rosa County FL,State,9,37,0.24324324324324326
+IA,all-surveys,"Polk County, IA ",Federal,9,27,0.3333333333333333
+IL,all-surveys,"Kane County, IL",City / Town,9,36,0.25
+IL,all-surveys,"Madison County, IL",City / Town,9,16,0.5625
+IL,all-surveys,"Winnebago County, IL",County,9,104,0.08653846153846154
+IN,all-surveys,"Hamilton County Main Jail, IN",Federal,9,60,0.15
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Federal,9,25,0.36
+MA,all-surveys,"Barnstable County Correctional Facility, MA",City / Town,9,23,0.391304347826087
+MA,all-surveys,"Plymouth County Correctional Facility, MA",City / Town,9,32,0.28125
+MO,all-surveys,"Cape Girardeau County Jail, MO",State,9,46,0.1956521739130435
+MO,all-surveys,"St. Louis County Jail, MO",County,9,68,0.1323529411764706
+MT,all-surveys,"Missoula County, MT",City / Town,9,20,0.45
+NC,all-surveys,"Cumberland County, NC",County,9,70,0.12857142857142856
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",City / Town,9,25,0.36
+NJ,all-surveys,"Cumberland County Jail, NJ",City / Town,9,14,0.6428571428571429
+NY,all-surveys,"Chautauqua County, NY",City / Town,9,28,0.32142857142857145
+NY,all-surveys,"Erie County, NY",Federal,9,41,0.21951219512195122
+NY,all-surveys,"Niagara County Correctional Facility, NY",City / Town,9,35,0.2571428571428571
+OR,all-surveys,"Lincoln County, OR",State,9,34,0.2647058823529412
+PA,all-surveys,"Fayette County, PA",Federal,9,25,0.36
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Federal,9,51,0.17647058823529413
+PA,all-surveys,"Westmoreland County, PA",County,9,57,0.15789473684210525
+SC,all-surveys,"Richland County Glenn Detention Center, SC",State,9,23,0.391304347826087
+TX,all-surveys,"McLennan County, TX",County,9,53,0.16981132075471697
+UT,all-surveys,"Beaver County, UT",Federal,9,28,0.32142857142857145
+AZ,all-surveys,"Pinal County Jail, AZ",State,8,32,0.25
+CO,all-surveys,"Jefferson County Detention Facility, CO",City / Town,8,43,0.18604651162790697
+CO,all-surveys,"La Plata County, CO ",City / Town,8,12,0.6666666666666666
+FL,all-surveys,"Escambia County Jail, FL",State,8,33,0.24242424242424243
+GA,all-surveys,"Bibb County Jail, GA",City / Town,8,42,0.19047619047619047
+GA,all-surveys,"Cobb County, GA",State,8,30,0.26666666666666666
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",County,8,73,0.1095890410958904
+IL,all-surveys,"Kane County, IL",Federal,8,36,0.2222222222222222
+IN,all-surveys,"Boone County, IN",State,8,21,0.38095238095238093
+KS,all-surveys,"Douglas County, KS",Federal,8,20,0.4
+MA,all-surveys,"Middlesex County House of Corrections, MA",County,8,51,0.1568627450980392
+MA,all-surveys,"Worcester County Jail, MA",County,8,48,0.16666666666666666
+MA,all-surveys,"Worcester County Jail, MA",Federal,8,48,0.16666666666666666
+MI,all-surveys,"Kalamazoo County, MI",City / Town,8,20,0.4
+MI,all-surveys,"Livingston County, MI",City / Town,8,24,0.3333333333333333
+MO,all-surveys,"Cape Girardeau County Jail, MO",County,8,46,0.17391304347826086
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",County,8,65,0.12307692307692308
+NE,all-surveys,"Lancaster County, NE",Federal,8,39,0.20512820512820512
+NH,all-surveys,"Hillsborough County House of Corrections, NH",City / Town,8,16,0.5
+NM,all-surveys,"Lea County Sheriff's Office, NM",Federal,8,18,0.4444444444444444
+NY,all-surveys,"Monroe County Sheriff's Department, NY",County,8,60,0.13333333333333333
+NY,all-surveys,"Onondaga County-Justice Center, NY",City / Town,8,23,0.34782608695652173
+NY,all-surveys,"Onondaga County-Justice Center, NY",Federal,8,23,0.34782608695652173
+OH,all-surveys,"Lorain County, OH ",State,8,27,0.2962962962962963
+OR,all-surveys,"Lincoln County, OR",City / Town,8,34,0.23529411764705882
+PA,all-surveys,"Columbia County, PA",City / Town,8,16,0.5
+PA,all-surveys,"Fayette County, PA",State,8,25,0.32
+PA,all-surveys,"Franklin County, PA",Federal,8,23,0.34782608695652173
+PA,all-surveys,"Lebanon County, PA",County,8,45,0.17777777777777778
+PA,all-surveys,"Washington County, PA ",Federal,8,42,0.19047619047619047
+SC,all-surveys,"Richland County Glenn Detention Center, SC",City / Town,8,23,0.34782608695652173
+TX,all-surveys,"Hunt County, TX",State,8,20,0.4
+TX,all-surveys,"Johnson County, TX",City / Town,8,36,0.2222222222222222
+TX,all-surveys,"Wichita County, TX ",City / Town,8,27,0.2962962962962963
+TX,all-surveys,"Wichita County, TX ",Federal,8,27,0.2962962962962963
+VA,all-surveys,"Arlington County Detention Center, VA",State,8,29,0.27586206896551724
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Federal,8,39,0.20512820512820512
+WI,all-surveys,"Rock County, WI",State,8,25,0.32
+AL,all-surveys,"Riverside Regional, VA",State,7,21,0.3333333333333333
+AZ,all-surveys,"Apache County Jail, AZ",State,7,21,0.3333333333333333
+AZ,all-surveys,"Yavapai County Jail, AZ",State,7,20,0.35
+CA,all-surveys,"Alameda County-Santa Rita, CA",County,7,33,0.21212121212121213
+CA,all-surveys,"Butte County, CA",Federal,7,46,0.15217391304347827
+CA,all-surveys,"Sonoma County, CA",State,7,18,0.3888888888888889
+CA,all-surveys,"Tuolumne-Dambacher Detention Center, CA",Federal,7,12,0.5833333333333334
+CO,all-surveys,"Denver County Jail, CO",County,7,90,0.07777777777777778
+FL,all-surveys,"Nassau County, FL",City / Town,7,16,0.4375
+FL,all-surveys,"Sarasota County, FL",County,7,43,0.16279069767441862
+GA,all-surveys,"Athens Clarke County Jail, GA",County,7,51,0.13725490196078433
+GA,all-surveys,"Cobb County, GA",City / Town,7,30,0.23333333333333334
+GA,all-surveys,"Cobb County, GA",Federal,7,30,0.23333333333333334
+GA,all-surveys,"Columbia County Detention Center, GA",State,7,20,0.35
+IA,all-surveys,"Polk County, IA ",City / Town,7,27,0.25925925925925924
+IL,all-surveys,"Kane County, IL",County,7,36,0.19444444444444445
+IN,all-surveys,"Boone County, IN",City / Town,7,21,0.3333333333333333
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",City / Town,7,25,0.28
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",State,7,25,0.28
+KY,all-surveys,"Madison County, KY",State,7,15,0.4666666666666667
+MA,all-surveys,"Norfolk County Jail, MA",Federal,7,20,0.35
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Federal,7,32,0.21875
+ME,all-surveys,"Two Bridges Regional, ME",City / Town,7,17,0.4117647058823529
+MI,all-surveys,"Genesee County, MI",State,7,22,0.3181818181818182
+MT,all-surveys,"Missoula County, MT",Federal,7,20,0.35
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",Federal,7,25,0.28
+NJ,all-surveys,"Bergen County, NJ",Federal,7,30,0.23333333333333334
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Federal,7,22,0.3181818181818182
+NM,all-surveys,"Eddy County Detention Center, NM",State,7,19,0.3684210526315789
+NY,all-surveys,"Albany County Correctional Facility, NY",County,7,67,0.1044776119402985
+NY,all-surveys,"Chautauqua County, NY",Federal,7,28,0.25
+OH,all-surveys,"Muskingum County, OH",City / Town,7,21,0.3333333333333333
+OH,all-surveys,"Muskingum County, OH",State,7,21,0.3333333333333333
+OH,all-surveys,"Summit County, OH",Federal,7,30,0.23333333333333334
+PA,all-surveys,"Berks County Jail, PA",Federal,7,47,0.14893617021276595
+PA,all-surveys,"Delaware County, PA",City / Town,7,22,0.3181818181818182
+PA,all-surveys,"Fayette County, PA",City / Town,7,25,0.28
+PA,all-surveys,"Lebanon County, PA",Federal,7,45,0.15555555555555556
+PA,all-surveys,"Montgomery County Correctional Facility, PA",County,7,51,0.13725490196078433
+TX,all-surveys,"Hunt County, TX",City / Town,7,20,0.35
+UT,all-surveys,"Beaver County, UT",City / Town,7,28,0.25
+VA,all-surveys,"Arlington County Detention Center, VA",Federal,7,29,0.2413793103448276
+VA,all-surveys,"Pamunkey Regional Jail, VA",City / Town,7,35,0.2
+WA,all-surveys,"Whatcom County, WA - Main Jail",City / Town,7,21,0.3333333333333333
+WA,all-surveys,"Yakima County, WA",County,7,80,0.0875
+WI,all-surveys,"Rock County, WI",City / Town,7,25,0.28
+WI,all-surveys,"Rock County, WI",Federal,7,25,0.28
+AL,all-surveys,"Montgomery County, AL",City / Town,6,15,0.4
+AL,all-surveys,"Riverside Regional, VA",Federal,6,21,0.2857142857142857
+CA,all-surveys,"Alameda County-Santa Rita, CA",Federal,6,33,0.18181818181818182
+CA,all-surveys,"Butte County, CA",County,6,46,0.13043478260869565
+CA,all-surveys,"Santa Barbara County, CA",County,6,50,0.12
+CO,all-surveys,"Jefferson County Detention Facility, CO",County,6,43,0.13953488372093023
+CO,all-surveys,"Pueblo County, CO",County,6,59,0.1016949152542373
+FL,all-surveys,"Escambia County Jail, FL",City / Town,6,33,0.18181818181818182
+FL,all-surveys,"Escambia County Jail, FL",County,6,33,0.18181818181818182
+FL,all-surveys,"Monroe County-Key West, FL",State,6,15,0.4
+GA,all-surveys,"Bibb County Jail, GA",County,6,42,0.14285714285714285
+GA,all-surveys,"Cobb County, GA",County,6,30,0.2
+GA,all-surveys,"Forsyth County Detention Center, GA",State,6,15,0.4
+GA,all-surveys,"Thomas County Detention, GA",State,6,16,0.375
+KS,all-surveys,"Douglas County, KS",State,6,20,0.3
+MA,all-surveys,"Barnstable County Correctional Facility, MA",State,6,23,0.2608695652173913
+MA,all-surveys,"Bristol County House of Correction, MA",Federal,6,45,0.13333333333333333
+MA,all-surveys,"Hampshire County, MA",City / Town,6,16,0.375
+MA,all-surveys,"Suffolk County Jail, MA",County,6,61,0.09836065573770492
+ME,all-surveys,"Two Bridges Regional, ME",Federal,6,17,0.35294117647058826
+MI,all-surveys,"Genesee County, MI",City / Town,6,22,0.2727272727272727
+MI,all-surveys,"Genesee County, MI",Federal,6,22,0.2727272727272727
+MI,all-surveys,"Kalamazoo County, MI",State,6,20,0.3
+MI,all-surveys,"Livingston County, MI",Federal,6,24,0.25
+MI,all-surveys,"Livingston County, MI",State,6,24,0.25
+NC,all-surveys,Durham County NC - Detention Facility,Federal,6,18,0.3333333333333333
+NC,all-surveys,Durham County NC - Detention Facility,State,6,18,0.3333333333333333
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",State,6,22,0.2727272727272727
+NJ,all-surveys,"Camden County Department of Corrections, NJ",Federal,6,18,0.3333333333333333
+NJ,all-surveys,"Hudson County Corrections Center, NJ",Federal,6,17,0.35294117647058826
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Federal,6,21,0.2857142857142857
+NM,all-surveys,"Curry County Detention Center, NM",City / Town,6,11,0.5454545454545454
+NM,all-surveys,"Eddy County Detention Center, NM",City / Town,6,19,0.3157894736842105
+NM,all-surveys,"Luna County Detention Center, NM",State,6,27,0.2222222222222222
+NY,all-surveys,"Chautauqua County, NY",State,6,28,0.21428571428571427
+NY,all-surveys,"Delaware County Correctional Facility, NY",Federal,6,12,0.5
+NY,all-surveys,"Onondaga County-Justice Center, NY",State,6,23,0.2608695652173913
+OR,all-surveys,"Lincoln County, OR",County,6,34,0.17647058823529413
+PA,all-surveys,"Berks County Jail, PA",County,6,47,0.1276595744680851
+PA,all-surveys,"Delaware County, PA",State,6,22,0.2727272727272727
+PA,all-surveys,"Franklin County, PA",State,6,23,0.2608695652173913
+TX,all-surveys,"Collin County, TX ",County,6,50,0.12
+UT,all-surveys,"Iron County, UT",Federal,6,15,0.4
+VA,all-surveys,"Meherrin River Alberta, VA",City / Town,6,15,0.4
+WA,all-surveys,"King County Adult Detention, WA",State,6,11,0.5454545454545454

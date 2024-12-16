@@ -1,0 +1,413 @@
+state,answer_set,facility_name,trump_dictator_first_day_opinion,count,n_respondents,pct_of_respondents
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Probably good,157,461,0.3405639913232104
+IL,all-surveys,"Cook County, IL",Probably good,138,384,0.359375
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Definitely bad,110,461,0.2386117136659436
+CA,all-surveys,"Santa Clara County, CA",Definitely bad,110,330,0.3333333333333333
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Definitely good,100,461,0.21691973969631237
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Probably bad,93,461,0.2017353579175705
+IL,all-surveys,"Cook County, IL",Definitely good,91,384,0.23697916666666666
+IL,all-surveys,"Cook County, IL",Definitely bad,77,384,0.20052083333333334
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Probably good,76,223,0.34080717488789236
+CA,all-surveys,"Santa Clara County, CA",Probably good,73,330,0.22121212121212122
+CA,all-surveys,"Santa Clara County, CA",Probably bad,71,330,0.21515151515151515
+CA,all-surveys,"Santa Clara County, CA",Definitely good,70,330,0.21212121212121213
+IL,all-surveys,"Cook County, IL",Probably bad,69,384,0.1796875
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Probably good,59,141,0.41843971631205673
+TX,all-surveys,"Travis County Jail, TX",Probably good,55,154,0.35714285714285715
+CA,all-surveys,"Fresno County, CA",Definitely bad,52,151,0.3443708609271523
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Definitely bad,49,223,0.21973094170403587
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Probably bad,48,223,0.21524663677130046
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Definitely good,46,223,0.2062780269058296
+AZ,all-surveys,"Pima County Jail, AZ",Probably good,44,140,0.3142857142857143
+CA,all-surveys,"Stanislaus County, CA",Probably good,40,133,0.3007518796992481
+CA,all-surveys,"Fresno County, CA",Probably good,37,151,0.24503311258278146
+AZ,all-surveys,"Pima County Jail, AZ",Definitely bad,36,140,0.2571428571428571
+MO,all-surveys,"St. Louis County Jail, MO",Probably good,35,65,0.5384615384615384
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Probably bad,35,141,0.24822695035460993
+TX,all-surveys,"Travis County Jail, TX",Definitely good,35,154,0.22727272727272727
+AZ,all-surveys,"Pima County Jail, AZ",Probably bad,34,140,0.24285714285714285
+CA,all-surveys,"Fresno County, CA",Definitely good,32,151,0.2119205298013245
+CA,all-surveys,"Stanislaus County, CA",Definitely good,32,133,0.24060150375939848
+TX,all-surveys,"Travis County Jail, TX",Definitely bad,32,154,0.2077922077922078
+NY,all-surveys,"Albany County Correctional Facility, NY",Probably good,31,70,0.44285714285714284
+IL,all-surveys,"Winnebago County, IL",Probably good,30,92,0.32608695652173914
+CA,all-surveys,"Stanislaus County, CA",Definitely bad,28,133,0.21052631578947367
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Probably good,28,69,0.4057971014492754
+NC,all-surveys,"Cumberland County, NC",Probably good,28,67,0.417910447761194
+PA,all-surveys,"Dauphin County Jail, PA",Probably good,28,80,0.35
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Probably good,28,77,0.36363636363636365
+CA,all-surveys,"Orange County, CA - Theo Lacy",Definitely bad,27,88,0.3068181818181818
+CO,all-surveys,"Denver County Jail, CO",Probably good,27,88,0.3068181818181818
+WA,all-surveys,"Yakima County, WA",Probably good,27,79,0.34177215189873417
+OH,all-surveys,"Mahoning County Justice Center, OH",Probably good,26,74,0.35135135135135137
+TX,all-surveys,"Travis County Jail, TX",Probably bad,26,154,0.16883116883116883
+CA,all-surveys,"San Joaquin County Jail, CA",Probably good,25,71,0.352112676056338
+CA,all-surveys,"Stanislaus County, CA",Probably bad,25,133,0.18796992481203006
+PA,all-surveys,"Lackawana County, PA",Probably good,25,80,0.3125
+TX,all-surveys,"MTC: Giles Dalby, TX",Probably good,25,87,0.28735632183908044
+WV,all-surveys,WV DCR North Central Regional Jail,Probably good,25,69,0.36231884057971014
+CA,all-surveys,"Orange County, CA - Theo Lacy",Probably good,24,88,0.2727272727272727
+IL,all-surveys,"Winnebago County, IL",Probably bad,24,92,0.2608695652173913
+AZ,all-surveys,"Pima County Jail, AZ",Definitely good,23,140,0.16428571428571428
+CA,all-surveys,"Orange County, CA - Theo Lacy",Probably bad,23,88,0.26136363636363635
+CO,all-surveys,"Denver County Jail, CO",Definitely bad,23,88,0.26136363636363635
+IN,all-surveys,"Hamilton County Main Jail, IN",Probably good,23,56,0.4107142857142857
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Probably good,23,58,0.39655172413793105
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Definitely good,23,141,0.16312056737588654
+WA,all-surveys,"Spokane County Jail, WA",Definitely good,23,67,0.34328358208955223
+CA,all-surveys,"Fresno County, CA",Probably bad,22,151,0.1456953642384106
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Probably good,22,64,0.34375
+CO,all-surveys,"Denver County Jail, CO",Definitely good,22,88,0.25
+CO,all-surveys,"Mesa County, CO",Definitely good,22,55,0.4
+CO,all-surveys,"Weld County, CO",Definitely bad,22,85,0.25882352941176473
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Definitely bad,22,141,0.15602836879432624
+CO,all-surveys,"Weld County, CO",Probably good,21,85,0.24705882352941178
+PA,all-surveys,"Lackawana County, PA",Definitely bad,21,80,0.2625
+PA,all-surveys,"Westmoreland County, PA",Probably good,21,55,0.38181818181818183
+TX,all-surveys,"MTC: Giles Dalby, TX",Definitely bad,21,87,0.2413793103448276
+TX,all-surveys,"MTC: Giles Dalby, TX",Probably bad,21,87,0.2413793103448276
+CA,all-surveys,"San Joaquin County Jail, CA",Definitely bad,20,71,0.28169014084507044
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Probably good,20,68,0.29411764705882354
+CO,all-surveys,"Pueblo County, CO",Probably bad,20,60,0.3333333333333333
+CO,all-surveys,"Weld County, CO",Probably bad,20,85,0.23529411764705882
+IL,all-surveys,"Winnebago County, IL",Definitely good,20,92,0.21739130434782608
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Definitely good,20,77,0.2597402597402597
+CA,all-surveys,"Alameda County-Santa Rita, CA",Definitely bad,19,32,0.59375
+FL,all-surveys,"Sarasota County, FL",Probably good,19,45,0.4222222222222222
+MA,all-surveys,"Suffolk County Jail, MA",Definitely bad,19,60,0.31666666666666665
+MI,all-surveys,"Kent County, MI ",Probably good,19,64,0.296875
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Probably good,19,62,0.3064516129032258
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Probably good,19,52,0.36538461538461536
+CO,all-surveys,"Mesa County, CO",Probably good,18,55,0.32727272727272727
+CO,all-surveys,"Weld County, CO",Definitely good,18,85,0.21176470588235294
+OH,all-surveys,"Mahoning County Justice Center, OH",Definitely bad,18,74,0.24324324324324326
+PA,all-surveys,"Dauphin County Jail, PA",Definitely bad,18,80,0.225
+PA,all-surveys,"Lebanon County, PA",Definitely bad,18,44,0.4090909090909091
+PA,all-surveys,"Lehigh County, PA",Probably good,18,53,0.33962264150943394
+TX,all-surveys,"Guadalupe County, TX",Definitely good,18,46,0.391304347826087
+TX,all-surveys,"Johnson County, TX",Probably good,18,36,0.5
+TX,all-surveys,"MTC: Giles Dalby, TX",Definitely good,18,87,0.20689655172413793
+TX,all-surveys,"McLennan County, TX",Probably good,18,50,0.36
+WA,all-surveys,"Yakima County, WA",Definitely good,18,79,0.22784810126582278
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Definitely bad,17,64,0.265625
+CO,all-surveys,"Pueblo County, CO",Probably good,17,60,0.2833333333333333
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Probably bad,17,69,0.2463768115942029
+MA,all-surveys,"Bristol County House of Correction, MA",Probably good,17,46,0.3695652173913043
+MA,all-surveys,"Essex County Middleton HOC, MA",Probably bad,17,56,0.30357142857142855
+MA,all-surveys,"Essex County Middleton HOC, MA",Probably good,17,56,0.30357142857142855
+MA,all-surveys,"Middlesex County House of Corrections, MA",Probably good,17,50,0.34
+MA,all-surveys,"Suffolk County Jail, MA",Probably good,17,60,0.2833333333333333
+MI,all-surveys,"Kent County, MI ",Definitely good,17,64,0.265625
+PA,all-surveys,"Dauphin County Jail, PA",Definitely good,17,80,0.2125
+PA,all-surveys,"Lackawana County, PA",Definitely good,17,80,0.2125
+VA,all-surveys,"Chesapeake Correctional Center, VA",Definitely good,17,61,0.2786885245901639
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Probably good,17,40,0.425
+WA,all-surveys,"Spokane County Jail, WA",Probably good,17,67,0.2537313432835821
+CA,all-surveys,"Madera County, CA",Probably good,16,42,0.38095238095238093
+CA,all-surveys,"Santa Barbara County, CA",Definitely bad,16,50,0.32
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Definitely bad,16,68,0.23529411764705882
+CO,all-surveys,"Denver County Jail, CO",Probably bad,16,88,0.18181818181818182
+CO,all-surveys,"Jefferson County Detention Facility, CO",Definitely good,16,42,0.38095238095238093
+GA,all-surveys,"Athens Clarke County Jail, GA",Probably good,16,46,0.34782608695652173
+MA,all-surveys,"Worcester County Jail, MA",Probably good,16,47,0.3404255319148936
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Probably bad,16,62,0.25806451612903225
+OH,all-surveys,"Mahoning County Justice Center, OH",Probably bad,16,74,0.21621621621621623
+PA,all-surveys,"Dauphin County Jail, PA",Probably bad,16,80,0.2
+PA,all-surveys,"Lackawana County, PA",Probably bad,16,80,0.2
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Probably bad,16,52,0.3076923076923077
+VA,all-surveys,"Chesapeake Correctional Center, VA",Probably good,16,61,0.26229508196721313
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Probably bad,16,77,0.2077922077922078
+WV,all-surveys,WV DCR North Central Regional Jail,Definitely good,16,69,0.2318840579710145
+WV,all-surveys,WV DCR North Central Regional Jail,Probably bad,16,69,0.2318840579710145
+CA,all-surveys,"San Joaquin County Jail, CA",Definitely good,15,71,0.2112676056338028
+CA,all-surveys,"Santa Barbara County, CA",Probably good,15,50,0.3
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Definitely good,15,68,0.22058823529411764
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Probably bad,15,68,0.22058823529411764
+CO,all-surveys,"Pueblo County, CO",Definitely bad,15,60,0.25
+GA,all-surveys,"Bibb County Jail, GA",Probably good,15,38,0.39473684210526316
+IL,all-surveys,"Winnebago County, IL",Definitely bad,15,92,0.16304347826086957
+MI,all-surveys,"Kent County, MI ",Probably bad,15,64,0.234375
+MI,all-surveys,"Macomb County, MI",Probably bad,15,50,0.3
+MI,all-surveys,"Macomb County, MI",Probably good,15,50,0.3
+MO,all-surveys,"Cape Girardeau County Jail, MO",Probably bad,15,44,0.3409090909090909
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Definitely bad,15,62,0.24193548387096775
+NY,all-surveys,"Niagara County Correctional Facility, NY",Probably good,15,37,0.40540540540540543
+OH,all-surveys,"Muskingum County, OH",Probably good,15,22,0.6818181818181818
+PA,all-surveys,"Berks County Jail, PA",Definitely bad,15,47,0.3191489361702128
+PA,all-surveys,"Lehigh County, PA",Probably bad,15,53,0.2830188679245283
+TX,all-surveys,"Collin County, TX ",Probably good,15,49,0.30612244897959184
+TX,all-surveys,"Guadalupe County, TX",Probably good,15,46,0.32608695652173914
+UT,all-surveys,"Salt Lake City County, UT",Definitely bad,15,47,0.3191489361702128
+WA,all-surveys,"Yakima County, WA",Probably bad,15,79,0.189873417721519
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Probably good,15,36,0.4166666666666667
+CA,all-surveys,"Orange County, CA - Theo Lacy",Definitely good,14,88,0.1590909090909091
+CO,all-surveys,"Douglas Detention Center, CO",Probably good,14,32,0.4375
+CO,all-surveys,"Jefferson County Detention Facility, CO",Probably good,14,42,0.3333333333333333
+GA,all-surveys,"Athens Clarke County Jail, GA",Definitely good,14,46,0.30434782608695654
+MI,all-surveys,"Livingston County, MI",Probably good,14,24,0.5833333333333334
+MO,all-surveys,"Cape Girardeau County Jail, MO",Probably good,14,44,0.3181818181818182
+MO,all-surveys,"St. Louis County Jail, MO",Definitely bad,14,65,0.2153846153846154
+NJ,all-surveys,"Bergen County, NJ",Probably good,14,31,0.45161290322580644
+NY,all-surveys,"Albany County Correctional Facility, NY",Definitely bad,14,70,0.2
+NY,all-surveys,"Suffolk County, NY ",Definitely bad,14,44,0.3181818181818182
+NY,all-surveys,"Suffolk County, NY ",Probably good,14,44,0.3181818181818182
+PA,all-surveys,"Washington County, PA ",Definitely good,14,44,0.3181818181818182
+PA,all-surveys,"Westmoreland County, PA",Definitely good,14,55,0.2545454545454545
+TX,all-surveys,"Potter County Detention, TX",Probably good,14,47,0.2978723404255319
+VA,all-surveys,"Chesapeake Correctional Center, VA",Probably bad,14,61,0.22950819672131148
+WA,all-surveys,"Spokane County Jail, WA",Definitely bad,14,67,0.208955223880597
+WA,all-surveys,"Yakima County, WA",Definitely bad,14,79,0.17721518987341772
+CA,all-surveys,"Butte County, CA",Probably bad,13,45,0.28888888888888886
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Definitely good,13,64,0.203125
+FL,all-surveys,Santa Rosa County FL,Probably good,13,37,0.35135135135135137
+FL,all-surveys,"Sarasota County, FL",Definitely bad,13,45,0.28888888888888886
+IN,all-surveys,"Hamilton County Main Jail, IN",Definitely good,13,56,0.23214285714285715
+MA,all-surveys,"Suffolk County Jail, MA",Probably bad,13,60,0.21666666666666667
+NY,all-surveys,"Albany County Correctional Facility, NY",Probably bad,13,70,0.18571428571428572
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Definitely good,13,58,0.22413793103448276
+OR,all-surveys,"Lincoln County, OR",Definitely bad,13,33,0.3939393939393939
+PA,all-surveys,"Berks County Jail, PA",Probably bad,13,47,0.2765957446808511
+UT,all-surveys,"Salt Lake City County, UT",Probably good,13,47,0.2765957446808511
+VA,all-surveys,"Chesapeake Correctional Center, VA",Definitely bad,13,61,0.21311475409836064
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Definitely bad,13,77,0.16883116883116883
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Definitely good,13,36,0.3611111111111111
+CA,all-surveys,"Butte County, CA",Definitely bad,12,45,0.26666666666666666
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Probably bad,12,64,0.1875
+CO,all-surveys,"Mesa County, CO",Definitely bad,12,55,0.21818181818181817
+FL,all-surveys,Santa Rosa County FL,Definitely good,12,37,0.32432432432432434
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Definitely bad,12,69,0.17391304347826086
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Definitely good,12,69,0.17391304347826086
+IL,all-surveys,"Kane County, IL",Probably good,12,34,0.35294117647058826
+IN,all-surveys,"Hamilton County Main Jail, IN",Probably bad,12,56,0.21428571428571427
+MA,all-surveys,"Middlesex County House of Corrections, MA",Definitely good,12,50,0.24
+MA,all-surveys,"Middlesex County House of Corrections, MA",Probably bad,12,50,0.24
+MA,all-surveys,"Worcester County Jail, MA",Definitely good,12,47,0.2553191489361702
+MI,all-surveys,"Kent County, MI ",Definitely bad,12,64,0.1875
+NC,all-surveys,"Cumberland County, NC",Definitely bad,12,67,0.1791044776119403
+NC,all-surveys,"Cumberland County, NC",Definitely good,12,67,0.1791044776119403
+NC,all-surveys,"Cumberland County, NC",Probably bad,12,67,0.1791044776119403
+NE,all-surveys,"Lancaster County, NE",Definitely bad,12,37,0.32432432432432434
+NY,all-surveys,"Onondaga County-Justice Center, NY",Probably good,12,23,0.5217391304347826
+OH,all-surveys,"Mahoning County Justice Center, OH",Definitely good,12,74,0.16216216216216217
+PA,all-surveys,"Fayette County, PA",Probably good,12,26,0.46153846153846156
+TX,all-surveys,"Collin County, TX ",Probably bad,12,49,0.24489795918367346
+TX,all-surveys,"Potter County Detention, TX",Definitely bad,12,47,0.2553191489361702
+TX,all-surveys,"Potter County Detention, TX",Probably bad,12,47,0.2553191489361702
+VA,all-surveys,"Pamunkey Regional Jail, VA",Probably good,12,33,0.36363636363636365
+WV,all-surveys,WV DCR Southwestern Regional Jail,Probably good,12,31,0.3870967741935484
+CA,all-surveys,"Santa Barbara County, CA",Probably bad,11,50,0.22
+FL,all-surveys,"Escambia County Jail, FL",Probably good,11,30,0.36666666666666664
+FL,all-surveys,"Lee County, FL",Definitely bad,11,38,0.2894736842105263
+FL,all-surveys,"Lee County, FL",Probably good,11,38,0.2894736842105263
+GA,all-surveys,"Bibb County Jail, GA",Definitely good,11,38,0.2894736842105263
+GA,all-surveys,"Cobb County, GA",Probably good,11,29,0.3793103448275862
+IL,all-surveys,"Kane County, IL",Definitely bad,11,34,0.3235294117647059
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Definitely bad,11,23,0.4782608695652174
+MA,all-surveys,"Essex County Middleton HOC, MA",Definitely good,11,56,0.19642857142857142
+MA,all-surveys,"Norfolk County Jail, MA",Probably bad,11,22,0.5
+MA,all-surveys,"Worcester County Jail, MA",Probably bad,11,47,0.23404255319148937
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Definitely good,11,62,0.1774193548387097
+NE,all-surveys,"Lancaster County, NE",Probably good,11,37,0.2972972972972973
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Probably bad,11,26,0.4230769230769231
+NY,all-surveys,"Erie County, NY",Definitely bad,11,40,0.275
+NY,all-surveys,"Erie County, NY",Probably bad,11,40,0.275
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Probably bad,11,58,0.1896551724137931
+NY,all-surveys,"Niagara County Correctional Facility, NY",Definitely bad,11,37,0.2972972972972973
+OR,all-surveys,"Lincoln County, OR",Probably good,11,33,0.3333333333333333
+PA,all-surveys,"Lebanon County, PA",Probably good,11,44,0.25
+PA,all-surveys,"Lehigh County, PA",Definitely good,11,53,0.20754716981132076
+PA,all-surveys,"Washington County, PA ",Probably good,11,44,0.25
+PA,all-surveys,"Westmoreland County, PA",Definitely bad,11,55,0.2
+TX,all-surveys,"Collin County, TX ",Definitely good,11,49,0.22448979591836735
+TX,all-surveys,"Hunt County, TX",Probably good,11,21,0.5238095238095238
+UT,all-surveys,"Salt Lake City County, UT",Definitely good,11,47,0.23404255319148937
+VA,all-surveys,"Arlington County Detention Center, VA",Probably bad,11,27,0.4074074074074074
+VA,all-surveys,"Western Regional, VA",Probably good,11,34,0.3235294117647059
+WA,all-surveys,"Spokane County Jail, WA",Probably bad,11,67,0.16417910447761194
+WV,all-surveys,WV DCR Central Regional Jail,Probably good,11,23,0.4782608695652174
+WV,all-surveys,WV DCR North Central Regional Jail,Definitely bad,11,69,0.15942028985507245
+WV,all-surveys,WV DCR Southwestern Regional Jail,Definitely good,11,31,0.3548387096774194
+WV,all-surveys,WV DCR Western Regional Jail,Probably good,11,28,0.39285714285714285
+AL,all-surveys,"Etowah County Jail, AL",Probably good,10,26,0.38461538461538464
+CA,all-surveys,"Butte County, CA",Definitely good,10,45,0.2222222222222222
+CA,all-surveys,"Madera County, CA",Definitely bad,10,42,0.23809523809523808
+CA,all-surveys,"Madera County, CA",Definitely good,10,42,0.23809523809523808
+CA,all-surveys,"San Joaquin County Jail, CA",Probably bad,10,71,0.14084507042253522
+GA,all-surveys,"Dekalb County Jail, GA",Probably good,10,31,0.3225806451612903
+MA,all-surveys,"Bristol County House of Correction, MA",Definitely good,10,46,0.21739130434782608
+MA,all-surveys,"Bristol County House of Correction, MA",Probably bad,10,46,0.21739130434782608
+MA,all-surveys,"Essex County Middleton HOC, MA",Definitely bad,10,56,0.17857142857142858
+MA,all-surveys,"Suffolk County Jail, MA",Definitely good,10,60,0.16666666666666666
+MI,all-surveys,"Macomb County, MI",Definitely bad,10,50,0.2
+NY,all-surveys,"Albany County Correctional Facility, NY",Definitely good,10,70,0.14285714285714285
+NY,all-surveys,"Erie County, NY",Probably good,10,40,0.25
+PA,all-surveys,"Berks County Jail, PA",Definitely good,10,47,0.2127659574468085
+PA,all-surveys,"Delaware County, PA",Probably bad,10,23,0.43478260869565216
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Definitely bad,10,52,0.19230769230769232
+TX,all-surveys,"Collin County, TX ",Definitely bad,10,49,0.20408163265306123
+TX,all-surveys,"McLennan County, TX",Definitely bad,10,50,0.2
+TX,all-surveys,"McLennan County, TX",Definitely good,10,50,0.2
+TX,all-surveys,"McLennan County, TX",Probably bad,10,50,0.2
+UT,all-surveys,"Beaver County, UT",Definitely good,10,28,0.35714285714285715
+VA,all-surveys,"Western Regional, VA",Probably bad,10,34,0.29411764705882354
+AZ,all-surveys,"Yavapai County Jail, AZ",Definitely good,9,21,0.42857142857142855
+CO,all-surveys,"Douglas Detention Center, CO",Probably bad,9,32,0.28125
+CO,all-surveys,"Larimer County, CO",Definitely bad,9,26,0.34615384615384615
+GA,all-surveys,"Athens Clarke County Jail, GA",Probably bad,9,46,0.1956521739130435
+GA,all-surveys,"Thomas County Detention, GA",Probably good,9,18,0.5
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Probably good,9,28,0.32142857142857145
+MI,all-surveys,"Kalamazoo County, MI",Probably good,9,19,0.47368421052631576
+MI,all-surveys,"Macomb County, MI",Definitely good,9,50,0.18
+MT,all-surveys,"Missoula County, MT",Definitely good,9,19,0.47368421052631576
+NM,all-surveys,"Luna County Detention Center, NM",Definitely bad,9,24,0.375
+OH,all-surveys,"Summit County, OH",Probably bad,9,29,0.3103448275862069
+OH,all-surveys,"Summit County, OH",Probably good,9,29,0.3103448275862069
+PA,all-surveys,"Berks County Jail, PA",Probably good,9,47,0.19148936170212766
+PA,all-surveys,"Lehigh County, PA",Definitely bad,9,53,0.16981132075471697
+PA,all-surveys,"Washington County, PA ",Definitely bad,9,44,0.20454545454545456
+PA,all-surveys,"Washington County, PA ",Probably bad,9,44,0.20454545454545456
+PA,all-surveys,"Westmoreland County, PA",Probably bad,9,55,0.16363636363636364
+TX,all-surveys,"GEO Group-Kinney County, TX",Probably good,9,15,0.6
+TX,all-surveys,"Johnson County, TX",Definitely good,9,36,0.25
+UT,all-surveys,"Beaver County, UT",Definitely bad,9,28,0.32142857142857145
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Definitely bad,9,40,0.225
+VA,all-surveys,"Western Regional, VA",Definitely good,9,34,0.2647058823529412
+WI,all-surveys,"Rock County, WI",Probably good,9,26,0.34615384615384615
+WV,all-surveys,WV DCR South Central Regional Jail,Probably good,9,24,0.375
+AZ,all-surveys,"Apache County Jail, AZ",Definitely bad,8,19,0.42105263157894735
+AZ,all-surveys,"Pinal County Jail, AZ",Definitely good,8,31,0.25806451612903225
+AZ,all-surveys,"Pinal County Jail, AZ",Probably bad,8,31,0.25806451612903225
+CA,all-surveys,"Butte County, CA",Probably good,8,45,0.17777777777777778
+CA,all-surveys,"Santa Barbara County, CA",Definitely good,8,50,0.16
+CO,all-surveys,"Larimer County, CO",Probably good,8,26,0.3076923076923077
+CO,all-surveys,"Pueblo County, CO",Definitely good,8,60,0.13333333333333333
+FL,all-surveys,"Lee County, FL",Definitely good,8,38,0.21052631578947367
+FL,all-surveys,"Lee County, FL",Probably bad,8,38,0.21052631578947367
+GA,all-surveys,"Columbia County Detention Center, GA",Probably good,8,20,0.4
+IA,all-surveys,"Polk County, IA ",Definitely bad,8,29,0.27586206896551724
+IA,all-surveys,"Polk County, IA ",Probably good,8,29,0.27586206896551724
+IL,all-surveys,"Madison County, IL",Probably bad,8,17,0.47058823529411764
+IN,all-surveys,"Boone County, IN",Probably good,8,21,0.38095238095238093
+IN,all-surveys,"Hamilton County Main Jail, IN",Definitely bad,8,56,0.14285714285714285
+MA,all-surveys,"Bristol County House of Correction, MA",Definitely bad,8,46,0.17391304347826086
+MA,all-surveys,"Middlesex County House of Corrections, MA",Definitely bad,8,50,0.16
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Definitely good,8,28,0.2857142857142857
+MA,all-surveys,"Worcester County Jail, MA",Definitely bad,8,47,0.1702127659574468
+MO,all-surveys,"Cape Girardeau County Jail, MO",Definitely bad,8,44,0.18181818181818182
+MO,all-surveys,"St. Louis County Jail, MO",Definitely good,8,65,0.12307692307692308
+NE,all-surveys,"Lancaster County, NE",Probably bad,8,37,0.21621621621621623
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",Probably good,8,23,0.34782608695652173
+NM,all-surveys,"Luna County Detention Center, NM",Probably good,8,24,0.3333333333333333
+NY,all-surveys,"Chautauqua County, NY",Probably bad,8,24,0.3333333333333333
+NY,all-surveys,"Erie County, NY",Definitely good,8,40,0.2
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Definitely bad,8,58,0.13793103448275862
+NY,all-surveys,"Suffolk County, NY ",Definitely good,8,44,0.18181818181818182
+NY,all-surveys,"Suffolk County, NY ",Probably bad,8,44,0.18181818181818182
+OH,all-surveys,"Medina County Jail, OH",Probably good,8,12,0.6666666666666666
+PA,all-surveys,"Fayette County, PA",Definitely good,8,26,0.3076923076923077
+PA,all-surveys,"Franklin County, PA",Probably bad,8,24,0.3333333333333333
+PA,all-surveys,"Lebanon County, PA",Definitely good,8,44,0.18181818181818182
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Probably good,8,22,0.36363636363636365
+TX,all-surveys,"Wichita County, TX ",Probably good,8,26,0.3076923076923077
+UT,all-surveys,"Salt Lake City County, UT",Probably bad,8,47,0.1702127659574468
+VA,all-surveys,"Pamunkey Regional Jail, VA",Probably bad,8,33,0.24242424242424243
+WI,all-surveys,"Dodge County, WI",Probably good,8,25,0.32
+WI,all-surveys,"Rock County, WI",Definitely bad,8,26,0.3076923076923077
+AL,all-surveys,"Etowah County Jail, AL",Definitely good,7,26,0.2692307692307692
+AL,all-surveys,"Riverside Regional, VA",Probably bad,7,23,0.30434782608695654
+CA,all-surveys,"Sonoma County, CA",Probably bad,7,16,0.4375
+CA,all-surveys,"Tehama County, CA",Definitely good,7,11,0.6363636363636364
+CA,all-surveys,"Yuba County, CA ",Definitely good,7,12,0.5833333333333334
+CO,all-surveys,"Jefferson County Detention Facility, CO",Definitely bad,7,42,0.16666666666666666
+FL,all-surveys,"Monroe County-Key West, FL",Definitely bad,7,16,0.4375
+FL,all-surveys,"Nassau County, FL",Definitely good,7,13,0.5384615384615384
+FL,all-surveys,Santa Rosa County FL,Probably bad,7,37,0.1891891891891892
+FL,all-surveys,"Sarasota County, FL",Definitely good,7,45,0.15555555555555556
+GA,all-surveys,"Bibb County Jail, GA",Probably bad,7,38,0.18421052631578946
+GA,all-surveys,"Cobb County, GA",Definitely good,7,29,0.2413793103448276
+GA,all-surveys,"Dekalb County Jail, GA",Definitely bad,7,31,0.22580645161290322
+GA,all-surveys,"Dekalb County Jail, GA",Definitely good,7,31,0.22580645161290322
+IA,all-surveys,"Polk County, IA ",Probably bad,7,29,0.2413793103448276
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Definitely bad,7,23,0.30434782608695654
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Probably good,7,23,0.30434782608695654
+KY,all-surveys,"Madison County, KY",Probably good,7,18,0.3888888888888889
+ME,all-surveys,"Two Bridges Regional, ME",Probably good,7,17,0.4117647058823529
+MO,all-surveys,"Cape Girardeau County Jail, MO",Definitely good,7,44,0.1590909090909091
+MO,all-surveys,"St. Louis County Jail, MO",Probably bad,7,65,0.1076923076923077
+NC,all-surveys,Durham County NC - Detention Facility,Probably good,7,18,0.3888888888888889
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",Definitely good,7,23,0.30434782608695654
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Definitely bad,7,20,0.35
+NJ,all-surveys,"Hudson County Corrections Center, NJ",Definitely bad,7,16,0.4375
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Probably good,7,26,0.2692307692307692
+NY,all-surveys,"Niagara County Correctional Facility, NY",Probably bad,7,37,0.1891891891891892
+OH,all-surveys,"Columbiana County Jail, OH",Probably good,7,15,0.4666666666666667
+OH,all-surveys,"Lorain County, OH ",Probably bad,7,23,0.30434782608695654
+OH,all-surveys,"Portage County, OH",Definitely good,7,17,0.4117647058823529
+OH,all-surveys,"Summit County, OH",Definitely bad,7,29,0.2413793103448276
+PA,all-surveys,"Columbia County, PA",Definitely bad,7,16,0.4375
+PA,all-surveys,"Delaware County, PA",Probably good,7,23,0.30434782608695654
+PA,all-surveys,"Franklin County, PA",Definitely good,7,24,0.2916666666666667
+TX,all-surveys,"Johnson County, TX",Definitely bad,7,36,0.19444444444444445
+TX,all-surveys,"Potter County Detention, TX",Definitely good,7,47,0.14893617021276595
+VA,all-surveys,"Arlington County Detention Center, VA",Definitely bad,7,27,0.25925925925925924
+VA,all-surveys,"Arlington County Detention Center, VA",Probably good,7,27,0.25925925925925924
+VA,all-surveys,"Pamunkey Regional Jail, VA",Definitely good,7,33,0.21212121212121213
+WI,all-surveys,"Dodge County, WI",Definitely bad,7,25,0.28
+WV,all-surveys,WV DCR Southern Regional Jail,Probably good,7,16,0.4375
+WV,all-surveys,WV DCR Western Regional Jail,Probably bad,7,28,0.25
+AL,all-surveys,"Riverside Regional, VA",Definitely good,6,23,0.2608695652173913
+AL,all-surveys,"Riverside Regional, VA",Probably good,6,23,0.2608695652173913
+AZ,all-surveys,"Pinal County Jail, AZ",Definitely bad,6,31,0.1935483870967742
+AZ,all-surveys,"Yavapai County Jail, AZ",Definitely bad,6,21,0.2857142857142857
+CA,all-surveys,"Alameda County-Santa Rita, CA",Probably bad,6,32,0.1875
+CA,all-surveys,"Madera County, CA",Probably bad,6,42,0.14285714285714285
+CO,all-surveys,"La Plata County, CO ",Probably good,6,13,0.46153846153846156
+FL,all-surveys,"Escambia County Jail, FL",Definitely bad,6,30,0.2
+FL,all-surveys,"Escambia County Jail, FL",Definitely good,6,30,0.2
+FL,all-surveys,"Sarasota County, FL",Probably bad,6,45,0.13333333333333333
+GA,all-surveys,"Catoosa County Jail, GA",Probably good,6,13,0.46153846153846156
+GA,all-surveys,"Cobb County, GA",Probably bad,6,29,0.20689655172413793
+GA,all-surveys,"Columbia County Detention Center, GA",Probably bad,6,20,0.3
+GA,all-surveys,"Forsyth County Detention Center, GA",Definitely good,6,15,0.4
+IA,all-surveys,"Polk County, IA ",Definitely good,6,29,0.20689655172413793
+IL,all-surveys,"Kane County, IL",Probably bad,6,34,0.17647058823529413
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Probably bad,6,23,0.2608695652173913
+KY,all-surveys,"Madison County, KY",Definitely good,6,18,0.3333333333333333
+MA,all-surveys,"Berkshire County House of Corrections, MA",Definitely bad,6,16,0.375
+MA,all-surveys,"Hampshire County, MA",Probably good,6,13,0.46153846153846156
+MD,all-surveys,"Anne Arundel County, MD",Definitely bad,6,13,0.46153846153846156
+ME,all-surveys,"Two Bridges Regional, ME",Definitely good,6,17,0.35294117647058826
+MI,all-surveys,"Genesee County, MI",Definitely bad,6,19,0.3157894736842105
+MI,all-surveys,"Genesee County, MI",Probably bad,6,19,0.3157894736842105
+MN,all-surveys,"Olmstead County Adult Detention Center, MN",Probably good,6,6,1
+NC,all-surveys,Durham County NC - Detention Facility,Definitely bad,6,18,0.3333333333333333
+NH,all-surveys,"Hillsborough County House of Corrections, NH",Probably bad,6,16,0.375
+NJ,all-surveys,"Bergen County, NJ",Definitely good,6,31,0.1935483870967742
+NJ,all-surveys,"Bergen County, NJ",Probably bad,6,31,0.1935483870967742
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Probably good,6,20,0.3
+NJ,all-surveys,"Hudson County Corrections Center, NJ",Probably good,6,16,0.375
+NJ,all-surveys,"Mercer County Correction Center, NJ",Definitely bad,6,9,0.6666666666666666
+NJ,all-surveys,"Ocean County, NJ",Probably good,6,16,0.375
+NY,all-surveys,"Chautauqua County, NY",Probably good,6,24,0.25
+NY,all-surveys,"Delaware County Correctional Facility, NY",Probably good,6,11,0.5454545454545454
+NY,all-surveys,"Onondaga County-Justice Center, NY",Definitely good,6,23,0.2608695652173913
+NY,all-surveys,"Saratoga County Correctional Facility, NY",Probably good,6,11,0.5454545454545454
+NY,all-surveys,"Ulster County Jail, NY",Definitely bad,6,16,0.375
+OH,all-surveys,"Greene County, OH: Adult Detention",Probably good,6,17,0.35294117647058826
+OH,all-surveys,"Lorain County, OH ",Definitely bad,6,23,0.2608695652173913
+PA,all-surveys,"Allegheny County Jail, PA",Definitely bad,6,14,0.42857142857142855
+PA,all-surveys,"Allegheny County Jail, PA",Probably good,6,14,0.42857142857142855
+PA,all-surveys,"Lebanon County, PA",Probably bad,6,44,0.13636363636363635
+SC,all-surveys,"Aiken County, SC",Probably good,6,14,0.42857142857142855
+TX,all-surveys,"Guadalupe County, TX",Definitely bad,6,46,0.13043478260869565
+TX,all-surveys,"Guadalupe County, TX",Probably bad,6,46,0.13043478260869565
+TX,all-surveys,"Wichita County, TX ",Definitely bad,6,26,0.23076923076923078
+TX,all-surveys,"Wichita County, TX ",Probably bad,6,26,0.23076923076923078
+UT,all-surveys,"Iron County, UT",Definitely good,6,14,0.42857142857142855
+VA,all-surveys,"Blue Ridge Regional Jail Authority, VA",Probably good,6,9,0.6666666666666666
+VA,all-surveys,"Pamunkey Regional Jail, VA",Definitely bad,6,33,0.18181818181818182
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Definitely good,6,40,0.15
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Probably bad,6,40,0.15
+WI,all-surveys,"Dodge County, WI",Probably bad,6,25,0.24
+WI,all-surveys,"Winnebago County, WI",Definitely bad,6,10,0.6
+WV,all-surveys,WV DCR South Central Regional Jail,Definitely bad,6,24,0.25

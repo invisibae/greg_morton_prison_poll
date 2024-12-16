@@ -1,0 +1,446 @@
+state,answer_set,facility_name,gender,count,n_respondents,pct_of_respondents
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Man,700,881,0.7945516458569807
+IL,all-surveys,"Cook County, IL",Man,480,569,0.843585237258348
+CA,all-surveys,"Santa Clara County, CA",Man,280,359,0.7799442896935933
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Man,233,298,0.7818791946308725
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Man,205,236,0.8686440677966102
+CA,all-surveys,"Fresno County, CA",Man,201,224,0.8973214285714286
+TX,all-surveys,"Travis County Jail, TX",Man,181,205,0.8829268292682927
+AZ,all-surveys,"Pima County Jail, AZ",Man,178,210,0.8476190476190476
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",Man,156,182,0.8571428571428571
+CA,all-surveys,"Stanislaus County, CA",Man,148,174,0.8505747126436781
+IL,all-surveys,"Winnebago County, IL",Man,143,156,0.9166666666666666
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Woman,142,881,0.1611804767309875
+CO,all-surveys,"Denver County Jail, CO",Man,129,150,0.86
+TX,all-surveys,"MTC: Giles Dalby, TX",Man,128,131,0.9770992366412213
+CA,all-surveys,"Orange County, CA - Theo Lacy",Man,126,136,0.9264705882352942
+NY,all-surveys,"Pasco County Corrections, FL",Man,118,148,0.7972972972972973
+PA,all-surveys,"Dauphin County Jail, PA",Man,104,119,0.8739495798319328
+CO,all-surveys,"Weld County, CO",Man,102,134,0.7611940298507462
+TN,all-surveys,"Davidson County Detention Center, TN",Man,102,119,0.8571428571428571
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Man,98,112,0.875
+PA,all-surveys,"Lackawana County, PA",Man,93,112,0.8303571428571429
+WV,all-surveys,WV DCR North Central Regional Jail,Man,90,115,0.782608695652174
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Man,88,109,0.8073394495412844
+FL,all-surveys,"Leon County Jail, FL",Man,84,97,0.865979381443299
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Man,83,101,0.8217821782178217
+WA,all-surveys,"Yakima County, WA",Man,83,111,0.7477477477477478
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Man,81,105,0.7714285714285715
+NC,all-surveys,"Cumberland County, NC",Man,79,86,0.9186046511627907
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Man,77,90,0.8555555555555555
+MI,all-surveys,"Kent County, MI ",Man,76,100,0.76
+NY,all-surveys,"Albany County Correctional Facility, NY",Man,76,88,0.8636363636363636
+CA,all-surveys,"San Joaquin County Jail, CA",Man,74,96,0.7708333333333334
+MO,all-surveys,"St. Louis County Jail, MO",Man,73,94,0.776595744680851
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Man,73,87,0.8390804597701149
+WA,all-surveys,"Spokane County Jail, WA",Man,73,83,0.8795180722891566
+DC,all-surveys,DC DOC: Central Detention Facility,Man,71,81,0.8765432098765432
+CO,all-surveys,"Mesa County, CO",Man,70,93,0.7526881720430108
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Man,70,93,0.7526881720430108
+PA,all-surveys,"Westmoreland County, PA",Man,70,89,0.7865168539325843
+PA,all-surveys,"Lehigh County, PA",Man,69,77,0.8961038961038961
+IN,all-surveys,"Hamilton County Main Jail, IN",Man,67,98,0.6836734693877551
+CO,all-surveys,"Jefferson County Detention Facility, CO",Man,65,77,0.8441558441558441
+TN,all-surveys,"Sullivan County Jail, TN",Man,65,88,0.7386363636363636
+MA,all-surveys,"Essex County Middleton HOC, MA",Man,64,70,0.9142857142857143
+CO,all-surveys,"Pueblo County, CO",Man,63,94,0.6702127659574468
+FL,all-surveys,"Pinellas County Jail, FL",Man,63,90,0.7
+NY,all-surveys,"New York City Department of Correction, NY (NYC DOC)",Man,63,70,0.9
+MA,all-surveys,"Middlesex County House of Corrections, MA",Man,62,68,0.9117647058823529
+CA,all-surveys,"Madera County, CA",Man,61,91,0.6703296703296703
+NE,all-surveys,"Lancaster County, NE",Man,60,74,0.8108108108108109
+TX,all-surveys,"Guadalupe County, TX",Man,60,76,0.7894736842105263
+VA,all-surveys,"Rappahannock Regional Jail, VA",Man,59,75,0.7866666666666666
+NY,all-surveys,"Suffolk County, NY ",Man,58,72,0.8055555555555556
+MA,all-surveys,"Suffolk County Jail, MA",Man,57,73,0.7808219178082192
+MO,all-surveys,"Cape Girardeau County Jail, MO",Man,57,69,0.8260869565217391
+NJ,all-surveys,"Essex County Correctional Facility, NJ",Man,57,67,0.8507462686567164
+OH,all-surveys,"Mahoning County Justice Center, OH",Man,57,85,0.6705882352941176
+TX,all-surveys,"Potter County Detention, TX",Man,57,77,0.7402597402597403
+IL,all-surveys,"Kane County, IL",Man,56,66,0.8484848484848485
+MA,all-surveys,"Worcester County Jail, MA",Man,54,56,0.9642857142857143
+PA,all-surveys,"Lebanon County, PA",Man,54,65,0.8307692307692308
+TX,all-surveys,"Collin County, TX ",Man,54,68,0.7941176470588235
+VA,all-surveys,"Chesapeake Correctional Center, VA",Man,54,75,0.72
+CA,all-surveys,"Santa Barbara County, CA",Man,53,74,0.7162162162162162
+PA,all-surveys,"Washington County, PA ",Man,53,61,0.8688524590163934
+NJ,all-surveys,"Bergen County, NJ",Man,51,51,1
+UT,all-surveys,"Salt Lake City County, UT",Man,51,66,0.7727272727272727
+FL,all-surveys,"Lee County, FL",Man,50,61,0.819672131147541
+PA,all-surveys,"Berks County Jail, PA",Man,50,59,0.847457627118644
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Man,50,64,0.78125
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Man,50,60,0.8333333333333334
+WI,all-surveys,"Brown County Jail, WI",Man,49,74,0.6621621621621622
+FL,all-surveys,"Okaloosa County Department of Corrections, FL",Man,48,58,0.8275862068965517
+IN,all-surveys,"Elkhart County Jail, IN",Man,48,57,0.8421052631578947
+NY,all-surveys,"Erie County, NY",Man,48,56,0.8571428571428571
+MA,all-surveys,"Bristol County House of Correction, MA",Man,47,57,0.8245614035087719
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Man,47,47,1
+PA,all-surveys,"Allegheny County Jail, PA",Man,47,54,0.8703703703703703
+PA,all-surveys,"Lancaster County Prison, PA",Man,47,58,0.8103448275862069
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Man,47,57,0.8245614035087719
+TX,all-surveys,"McLennan County, TX",Man,47,80,0.5875
+CA,all-surveys,"Butte County, CA",Man,46,57,0.8070175438596491
+GA,all-surveys,"Cobb County, GA",Man,46,58,0.7931034482758621
+VA,all-surveys,"Pamunkey Regional Jail, VA",Man,46,59,0.7796610169491526
+FL,all-surveys,Santa Rosa County FL,Man,45,60,0.75
+FL,all-surveys,"Sarasota County, FL",Man,45,66,0.6818181818181818
+WA,all-surveys,"King County Adult Detention, WA",Man,45,64,0.703125
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Woman,43,298,0.14429530201342283
+CA,all-surveys,"Santa Clara County, CA",Woman,43,359,0.11977715877437325
+FL,all-surveys,"Escambia County Jail, FL",Man,43,55,0.7818181818181819
+GA,all-surveys,"Athens Clarke County Jail, GA",Man,43,68,0.6323529411764706
+GA,all-surveys,"Bibb County Jail, GA",Man,43,51,0.8431372549019608
+IL,all-surveys,"Cook County, IL",Woman,43,569,0.07557117750439367
+MI,all-surveys,"Macomb County, MI",Man,40,55,0.7272727272727273
+OH,all-surveys,"Summit County, OH",Man,40,49,0.8163265306122449
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Man,39,40,0.975
+NY,all-surveys,"Niagara County Correctional Facility, NY",Man,39,49,0.7959183673469388
+OH,all-surveys,Corrections Center of NW Ohio,Man,39,45,0.8666666666666667
+UT,all-surveys,"Beaver County, UT",Man,39,40,0.975
+AL,all-surveys,"Etowah County Jail, AL",Man,38,54,0.7037037037037037
+AZ,all-surveys,"Pinal County Jail, AZ",Man,38,51,0.7450980392156863
+PA,all-surveys,"Cambria County Prison, PA",Man,38,42,0.9047619047619048
+TN,all-surveys,"Hamilton County, TN",Man,38,47,0.8085106382978723
+TX,all-surveys,"Johnson County, TX",Man,38,50,0.76
+OH,all-surveys,"Lorain County, OH ",Man,37,46,0.8043478260869565
+WA,all-surveys,"Whatcom County, WA - Main Jail",Man,37,49,0.7551020408163265
+WV,all-surveys,WV DCR Western Regional Jail,Man,37,39,0.9487179487179487
+WV,all-surveys,WV DCR Southwestern Regional Jail,Man,36,47,0.7659574468085106
+NM,all-surveys,"Santa Fe County Adult Correctional Facility, NM",Man,35,37,0.9459459459459459
+AL,all-surveys,"Tuscaloosa County Jail, AL",Man,34,36,0.9444444444444444
+GA,all-surveys,"Dekalb County Jail, GA",Man,34,37,0.918918918918919
+CO,all-surveys,"Larimer County, CO",Man,33,47,0.7021276595744681
+NY,all-surveys,"Chautauqua County, NY",Man,33,39,0.8461538461538461
+NY,all-surveys,"Onondaga County-Justice Center, NY",Man,33,39,0.8461538461538461
+VA,all-surveys,"Western Regional, VA",Man,33,54,0.6111111111111112
+CO,all-surveys,"Douglas Detention Center, CO",Man,32,43,0.7441860465116279
+IA,all-surveys,"Polk County, IA ",Man,32,44,0.7272727272727273
+WI,all-surveys,"Rock County, WI",Man,32,37,0.8648648648648649
+CA,all-surveys,"Alameda County-Santa Rita, CA",Man,31,41,0.7560975609756098
+IN,all-surveys,"La Port County Jail, IN",Man,31,38,0.8157894736842105
+PA,all-surveys,"Delaware County, PA",Man,31,36,0.8611111111111112
+PA,all-surveys,"Fayette County, PA",Man,31,37,0.8378378378378378
+WV,all-surveys,WV DCR Central Regional Jail,Man,31,41,0.7560975609756098
+NJ,all-surveys,"Hudson County Corrections Center, NJ",Man,30,32,0.9375
+PA,all-surveys,"Chester County Prison, PA",Man,30,32,0.9375
+TX,all-surveys,"McLennan County, TX",Woman,30,80,0.375
+WV,all-surveys,WV DCR South Central Regional Jail,Man,30,36,0.8333333333333334
+AL,all-surveys,"Riverside Regional, VA",Man,29,36,0.8055555555555556
+CA,all-surveys,"Sonoma County, CA",Man,29,41,0.7073170731707317
+FL,all-surveys,"Bay County, FL",Man,29,34,0.8529411764705882
+MA,all-surveys,"Norfolk County Jail, MA",Man,29,30,0.9666666666666667
+MI,all-surveys,"Genesee County, MI",Man,29,35,0.8285714285714286
+VA,all-surveys,"Arlington County Detention Center, VA",Man,29,34,0.8529411764705882
+AL,all-surveys,"Montgomery County, AL",Man,28,29,0.9655172413793104
+FL,all-surveys,"Lake County Detention Center, FL",Man,28,29,0.9655172413793104
+KS,all-surveys,"Shawnee County Detention Center, KS",Man,28,38,0.7368421052631579
+MD,all-surveys,"Washington County Detention Center, MD",Man,28,36,0.7777777777777778
+NM,all-surveys,"Lea County Sheriff's Office, NM",Man,28,35,0.8
+IN,all-surveys,"Boone County, IN",Man,27,31,0.8709677419354839
+NC,all-surveys,"Onslow County Jail, NC",Man,27,33,0.8181818181818182
+CO,all-surveys,"Pueblo County, CO",Woman,26,94,0.2765957446808511
+FL,all-surveys,"St. Lucie County Jail, FL",Man,26,27,0.9629629629629629
+IL,all-surveys,"DuPage County Jail, IL",Man,26,29,0.896551724137931
+IN,all-surveys,"Hamilton County Main Jail, IN",Woman,26,98,0.2653061224489796
+KS,all-surveys,"Douglas County, KS",Man,26,34,0.7647058823529411
+NC,all-surveys,"Craven County Jail, NC",Man,26,34,0.7647058823529411
+OR,all-surveys,"Lincoln County, OR",Man,26,40,0.65
+WI,all-surveys,"Dodge County, WI",Man,26,34,0.7647058823529411
+AZ,all-surveys,"Yavapai County Jail, AZ",Man,25,37,0.6756756756756757
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Man,25,34,0.7352941176470589
+NM,all-surveys,"Luna County Detention Center, NM",Man,25,37,0.6756756756756757
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Woman,25,236,0.1059322033898305
+NC,all-surveys,Durham County NC - Detention Facility,Man,24,25,0.96
+TX,all-surveys,"GEO Group-Kinney County, TX",Man,24,24,1
+WI,all-surveys,"Sheboygan County Jail, WI",Man,24,30,0.8
+KY,all-surveys,"Madison County, KY",Man,23,28,0.8214285714285714
+MA,all-surveys,"Hampshire County, MA",Man,23,27,0.8518518518518519
+ME,all-surveys,"Two Bridges Regional, ME",Man,23,24,0.9583333333333334
+NM,all-surveys,"Curry County Detention Center, NM",Man,23,30,0.7666666666666667
+NY,all-surveys,"Pasco County Corrections, FL",Woman,23,148,0.1554054054054054
+PA,all-surveys,"Franklin County, PA",Man,23,34,0.6764705882352942
+WV,all-surveys,WV DCR Southern Regional Jail,Man,23,29,0.7931034482758621
+AZ,all-surveys,"Pima County Jail, AZ",Woman,22,210,0.10476190476190476
+FL,all-surveys,"Nassau County, FL",Man,22,30,0.7333333333333333
+MA,all-surveys,"Berkshire County House of Corrections, MA",Man,22,24,0.9166666666666666
+NC,all-surveys,"New Hanover County Detention Center, NC",Man,22,25,0.88
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",Man,22,30,0.7333333333333333
+NJ,all-surveys,"Camden County Department of Corrections, NJ",Man,22,24,0.9166666666666666
+PA,all-surveys,"Cumberland County Prison, PA",Man,22,25,0.88
+VA,all-surveys,"Meherrin River Alberta, VA",Man,22,25,0.88
+WV,all-surveys,WV DCR North Central Regional Jail,Woman,22,115,0.19130434782608696
+AZ,all-surveys,"Apache County Jail, AZ",Man,21,24,0.875
+MI,all-surveys,"Kalamazoo County, MI",Man,21,24,0.875
+MI,all-surveys,"Kent County, MI ",Woman,21,100,0.21
+MO,all-surveys,"St. Louis County Jail, MO",Woman,21,94,0.22340425531914893
+NH,all-surveys,"Hillsborough County House of Corrections, NH",Man,21,24,0.875
+NM,all-surveys,"Eddy County Detention Center, NM",Man,21,29,0.7241379310344828
+OH,all-surveys,"Mahoning County Justice Center, OH",Woman,21,85,0.24705882352941178
+TN,all-surveys,"McMinn County Justice Center, TN",Man,21,23,0.9130434782608695
+GA,all-surveys,"Columbia County Detention Center, GA",Man,20,32,0.625
+IL,all-surveys,"Madison County, IL",Man,20,20,1
+IN,all-surveys,"Floyd County Jail, IN",Man,20,24,0.8333333333333334
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Man,20,25,0.8
+MI,all-surveys,"Livingston County, MI",Man,20,32,0.625
+NY,all-surveys,"Oneida County Correctional Facility, NY",Man,20,22,0.9090909090909091
+SC,all-surveys,"Clarendon County, SC",Man,20,21,0.9523809523809523
+TN,all-surveys,"Sullivan County Jail, TN",Woman,20,88,0.22727272727272727
+UT,all-surveys,"Weber County Correctional Facility, UT",Man,20,21,0.9523809523809523
+CA,all-surveys,"Madera County, CA",Woman,19,91,0.2087912087912088
+CO,all-surveys,"Weld County, CO",Woman,19,134,0.1417910447761194
+GA,all-surveys,"Athens Clarke County Jail, GA",Woman,19,68,0.27941176470588236
+OH,all-surveys,"Portage County, OH",Man,19,29,0.6551724137931034
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Woman,19,93,0.20430107526881722
+VA,all-surveys,"Blue Ridge Regional Jail Authority, VA",Man,19,28,0.6785714285714286
+VA,all-surveys,"Chesapeake Correctional Center, VA",Woman,19,75,0.25333333333333335
+VA,all-surveys,"Western Regional, VA",Woman,19,54,0.35185185185185186
+WI,all-surveys,"Brown County Jail, WI",Woman,19,74,0.25675675675675674
+WV,all-surveys,WV DCR Eastern Regional Jail,Man,19,20,0.95
+WV,all-surveys,WV DCR Potomac Highlands Regional Jail,Man,19,20,0.95
+CO,all-surveys,"La Plata County, CO ",Man,18,18,1
+FL,all-surveys,"Citrus County Detention Facility, FL",Man,18,30,0.6
+FL,all-surveys,"Monroe County-Key West, FL",Man,18,25,0.72
+IL,all-surveys,"Vermilion County Jail, IL",Man,18,19,0.9473684210526315
+NJ,all-surveys,"Cumberland County Jail, NJ",Man,18,24,0.75
+NJ,all-surveys,"Ocean County, NJ",Man,18,23,0.782608695652174
+TN,all-surveys,"Warren County Jail, TN",Man,18,26,0.6923076923076923
+TX,all-surveys,"Hunt County, TX",Man,18,25,0.72
+TX,all-surveys,"Wichita County, TX ",Man,18,33,0.5454545454545454
+CA,all-surveys,"Tehama County, CA",Man,17,21,0.8095238095238095
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",Woman,17,182,0.09340659340659341
+FL,all-surveys,"Sarasota County, FL",Woman,17,66,0.25757575757575757
+GA,all-surveys,"Thomas County Detention, GA",Man,17,20,0.85
+NY,all-surveys,"Broome County Public Safety Facility, NY",Man,17,20,0.85
+PA,all-surveys,"Bucks County Correctional Facility, PA",Man,17,23,0.7391304347826086
+PA,all-surveys,"Columbia County, PA",Man,17,23,0.7391304347826086
+CA,all-surveys,"Stanislaus County, CA",Woman,16,174,0.09195402298850575
+FL,all-surveys,"Pinellas County Jail, FL",Woman,16,90,0.17777777777777778
+ID,all-surveys,"Bonneville County, ID",Man,16,19,0.8421052631578947
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Man,16,29,0.5517241379310345
+MT,all-surveys,"Missoula County, MT",Man,16,21,0.7619047619047619
+NY,all-surveys,"Ulster County Jail, NY",Man,16,20,0.8
+OH,all-surveys,"Greene County, OH: Adult Detention",Man,16,24,0.6666666666666666
+OH,all-surveys,"Muskingum County, OH",Man,16,28,0.5714285714285714
+PA,all-surveys,"Indiana County, PA",Man,16,20,0.8
+PA,all-surveys,"Northampton County Prison, PA",Man,16,20,0.8
+PA,all-surveys,"Westmoreland County, PA",Woman,16,89,0.1797752808988764
+SC,all-surveys,"Aiken County, SC",Man,16,19,0.8421052631578947
+VA,all-surveys,"Henrico County Sheriff's Office, VA",Man,16,23,0.6956521739130435
+AL,all-surveys,"Etowah County Jail, AL",Woman,15,54,0.2777777777777778
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Woman,15,105,0.14285714285714285
+CA,all-surveys,"San Joaquin County Jail, CA",Woman,15,96,0.15625
+CA,all-surveys,"Yuba County, CA ",Man,15,18,0.8333333333333334
+CO,all-surveys,"Mesa County, CO",Woman,15,93,0.16129032258064516
+NJ,all-surveys,Middlesex County NJ: Adult Correctional,Man,15,16,0.9375
+SC,all-surveys,"Pickens County Detention Facility, SC",Woman,15,29,0.5172413793103449
+TX,all-surveys,"Potter County Detention, TX",Woman,15,77,0.19480519480519481
+TX,all-surveys,"Wichita County, TX ",Woman,15,33,0.45454545454545453
+VA,all-surveys,"Norfolk City Jail, VA",Man,15,17,0.8823529411764706
+WA,all-surveys,"Yakima County, WA",Woman,15,111,0.13513513513513514
+CA,all-surveys,"Lassen County, CA",Man,14,17,0.8235294117647058
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Woman,14,101,0.13861386138613863
+IN,all-surveys,"Kosciusko County, IN",Man,14,18,0.7777777777777778
+MD,all-surveys,"Anne Arundel County, MD",Man,14,21,0.6666666666666666
+MI,all-surveys,"Washtenaw County Jail, MI",Man,14,25,0.56
+NY,all-surveys,"Onondaga County, NY",Man,14,22,0.6363636363636364
+OH,all-surveys,"Ashland County, OH ",Man,14,17,0.8235294117647058
+UT,all-surveys,"Iron County, UT",Man,14,20,0.7
+VA,all-surveys,"Rappahannock Regional Jail, VA",Woman,14,75,0.18666666666666668
+CA,all-surveys,"Tuolumne-Dambacher Detention Center, CA",Man,13,17,0.7647058823529411
+ME,all-surveys,"Cumberland County Jail, ME",Man,13,16,0.8125
+MI,all-surveys,"Muskegon County Jail, MI",Man,13,17,0.7647058823529411
+MS,all-surveys,"Madison County Detention Center, MS",Man,13,16,0.8125
+NC,all-surveys,"Stanly County Jail, NC",Man,13,15,0.8666666666666667
+OH,all-surveys,"Columbiana County Jail, OH",Man,13,18,0.7222222222222222
+PA,all-surveys,"Adam County, PA - Adult Correctional Complex",Man,13,16,0.8125
+PA,all-surveys,"Lackawana County, PA",Woman,13,112,0.11607142857142858
+PA,all-surveys,"Lycoming County, PA",Man,13,14,0.9285714285714286
+SC,all-surveys,"Pickens County Detention Facility, SC",Man,13,29,0.4482758620689655
+TN,all-surveys,"Davidson County Detention Center, TN",Woman,13,119,0.1092436974789916
+TX,all-surveys,"Travis County Jail, TX",Woman,13,205,0.06341463414634146
+WI,all-surveys,"Winnebago County, WI",Man,13,14,0.9285714285714286
+AZ,all-surveys,"Yavapai County Jail, AZ",Woman,12,37,0.32432432432432434
+CA,all-surveys,"Santa Barbara County, CA",Woman,12,74,0.16216216216216217
+CO,all-surveys,"Larimer County, CO",Woman,12,47,0.2553191489361702
+FL,all-surveys,Santa Rosa County FL,Woman,12,60,0.2
+GA,all-surveys,"Catoosa County Jail, GA",Man,12,20,0.6
+GA,all-surveys,"Forsyth County Detention Center, GA",Man,12,21,0.5714285714285714
+KS,all-surveys,"Butler County Corrections, KS",Man,12,14,0.8571428571428571
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Woman,12,29,0.41379310344827586
+MI,all-surveys,"Macomb County, MI",Woman,12,55,0.21818181818181817
+NJ,all-surveys,"Mercer County Correction Center, NJ",Man,12,16,0.75
+NM,all-surveys,"Sandoval County Detention Center, NM",Man,12,14,0.8571428571428571
+NY,all-surveys,"Delaware County Correctional Facility, NY",Man,12,19,0.631578947368421
+NY,all-surveys,"Saratoga County Correctional Facility, NY",Man,12,13,0.9230769230769231
+OH,all-surveys,"Scioto County, OH ",Man,12,15,0.8
+PA,all-surveys,"Bradford County, PA",Man,12,13,0.9230769230769231
+SC,all-surveys,"Sumter County Detention Center, SC",Man,12,12,1
+TX,all-surveys,"Fannin County Jail, TX",Man,12,13,0.9230769230769231
+VA,all-surveys,"Pamunkey Regional Jail, VA",Woman,12,59,0.2033898305084746
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Woman,12,109,0.11009174311926606
+WA,all-surveys,"King County Adult Detention, WA",Woman,12,64,0.1875
+CO,all-surveys,"Denver County Jail, CO",Woman,11,150,0.07333333333333333
+CO,all-surveys,"Douglas Detention Center, CO",Woman,11,43,0.2558139534883721
+FL,all-surveys,"Leon County Jail, FL",Woman,11,97,0.1134020618556701
+FL,all-surveys,"Walton County Jail, FL",Man,11,13,0.8461538461538461
+KS,all-surveys,"Wyandotte County Detention Facility, KS",Man,11,14,0.7857142857142857
+KY,all-surveys,"Clay County Detention Center, KY",Man,11,13,0.8461538461538461
+MD,all-surveys,"Prince Georges County DOC, MD",Man,11,16,0.6875
+MI,all-surveys,"Livingston County, MI",Woman,11,32,0.34375
+NE,all-surveys,"Lancaster County, NE",Woman,11,74,0.14864864864864866
+NE,all-surveys,"Sarpy County Jail, NE",Man,11,13,0.8461538461538461
+NY,all-surveys,"Chemung County Jail, NY",Man,11,14,0.7857142857142857
+OH,all-surveys,"Medina County Jail, OH",Man,11,20,0.55
+TX,all-surveys,"Guadalupe County, TX",Woman,11,76,0.14473684210526316
+VA,all-surveys,"Southside Regional Jail, VA",Man,11,11,1
+AZ,all-surveys,"Pinal County Jail, AZ",Woman,10,51,0.19607843137254902
+CA,all-surveys,"Nevada County, CA",Man,10,12,0.8333333333333334
+CA,all-surveys,"Tulare County, CA-Bob Wiley Detention ",Man,10,12,0.8333333333333334
+FL,all-surveys,"Citrus County Detention Facility, FL",Woman,10,30,0.3333333333333333
+FL,all-surveys,"Lee County, FL",Woman,10,61,0.16393442622950818
+GA,all-surveys,"Columbia County Detention Center, GA",Woman,10,32,0.3125
+IA,all-surveys,"Dubuque County, IA ",Man,10,12,0.8333333333333334
+MA,all-surveys,"Suffolk County Jail, MA",Woman,10,73,0.136986301369863
+ME,all-surveys,"Somerset County Jail, ME",Man,10,10,1
+MT,all-surveys,"Cascade County, MT",Man,10,14,0.7142857142857143
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Woman,10,90,0.1111111111111111
+NJ,all-surveys,"Atlantic County Justice Facility, NJ",Man,10,13,0.7692307692307693
+NY,all-surveys,"Cayuga County, NY",Man,10,12,0.8333333333333334
+NY,all-surveys,"Rensselaer County Correctional Facility, NY",Man,10,13,0.7692307692307693
+NY,all-surveys,"Suffolk County, NY ",Woman,10,72,0.1388888888888889
+OH,all-surveys,"Fairfield County, OH",Man,10,16,0.625
+OH,all-surveys,"Muskingum County, OH",Woman,10,28,0.35714285714285715
+PA,all-surveys,"Centre County Correctional Facility, PA",Man,10,10,1
+PA,all-surveys,"Dauphin County Jail, PA",Woman,10,119,0.08403361344537816
+PA,all-surveys,"York County, PA",Man,10,17,0.5882352941176471
+TX,all-surveys,"Collin County, TX ",Woman,10,68,0.14705882352941177
+VA,all-surveys,"Loudoun County Adult Detention Center, VA",Man,10,11,0.9090909090909091
+VA,all-surveys,"Middle Peninsula Regional Jail, VA",Man,10,16,0.625
+WI,all-surveys,"Ozaukee County, WI",Man,10,13,0.7692307692307693
+CA,all-surveys,"Santa Clara County, CA",Transgender,9,359,0.025069637883008356
+FL,all-surveys,"Escambia County Jail, FL",Woman,9,55,0.16363636363636364
+FL,all-surveys,"Hardee County Jail, FL",Man,9,10,0.9
+GA,all-surveys,"Cobb County, GA",Woman,9,58,0.15517241379310345
+IA,all-surveys,"Polk County, IA ",Woman,9,44,0.20454545454545456
+IN,all-surveys,"Elkhart County Jail, IN",Woman,9,57,0.15789473684210525
+KS,all-surveys,"Sedgwick County Detention Facility, KS",Man,9,9,1
+KS,all-surveys,"Shawnee County Detention Center, KS",Woman,9,38,0.23684210526315788
+MA,all-surveys,"Franklin County Jail, MA",Man,9,14,0.6428571428571429
+MI,all-surveys,"Bay County Law Enforcement Center, MI",Man,9,10,0.9
+MI,all-surveys,"Monroe County Correctional System, MI",Man,9,13,0.6923076923076923
+MO,all-surveys,"Cape Girardeau County Jail, MO",Woman,9,69,0.13043478260869565
+MO,all-surveys,"Marion County, MO ",Man,9,12,0.75
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Woman,9,34,0.2647058823529412
+OR,all-surveys,"Lincoln County, OR",Woman,9,40,0.225
+PA,all-surveys,"Lebanon County, PA",Woman,9,65,0.13846153846153847
+PA,all-surveys,"Venango County Prison, PA",Man,9,16,0.5625
+SC,all-surveys,"Chester County, SC",Man,9,12,0.75
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Woman,9,57,0.15789473684210525
+TN,all-surveys,"Hamilton County, TN",Woman,9,47,0.19148936170212766
+TX,all-surveys,"San Patricio County Jail, TX",Man,9,9,1
+UT,all-surveys,"Sanpete County Jail, UT",Man,9,9,1
+VA,all-surveys,"Piedmont Regional Security Center, VA",Man,9,11,0.8181818181818182
+AZ,all-surveys,CoreCivic Central Arizona Florence,Man,8,11,0.7272727272727273
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Prefer not to answer,8,881,0.009080590238365494
+CA,all-surveys,"Sonoma County, CA",Woman,8,41,0.1951219512195122
+CO,all-surveys,"Jefferson County Detention Facility, CO",Woman,8,77,0.1038961038961039
+GA,all-surveys,"Forsyth County Detention Center, GA",Woman,8,21,0.38095238095238093
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Woman,8,112,0.07142857142857142
+IL,all-surveys,Edovo Go - General,Man,8,15,0.5333333333333333
+IL,all-surveys,"Kane County, IL",Woman,8,66,0.12121212121212122
+IL,all-surveys,"McLean County, IL",Man,8,10,0.8
+IN,all-surveys,"Shelby County, IN",Man,8,9,0.8888888888888888
+MA,all-surveys,"Bristol County House of Correction, MA",Woman,8,57,0.14035087719298245
+ME,all-surveys,"Kennebec County Jail, ME",Man,8,9,0.8888888888888888
+NM,all-surveys,"Eddy County Detention Center, NM",Woman,8,29,0.27586206896551724
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Woman,8,87,0.09195402298850575
+NY,all-surveys,"Ontario County Jail, NY",Man,8,9,0.8888888888888888
+OH,all-surveys,"Franklin County, OH",Man,8,8,1
+OH,all-surveys,"Summit County, OH",Woman,8,49,0.16326530612244897
+PA,all-surveys,"Lancaster County Prison, PA",Woman,8,58,0.13793103448275862
+PA,all-surveys,"Northumberland County, PA",Man,8,12,0.6666666666666666
+RI,all-surveys,"Donald Wyatt Federal Detention Facility, RI",Man,8,8,1
+TN,all-surveys,"Rhea County Jail, TN",Man,8,13,0.6153846153846154
+TX,all-surveys,"Jackson County, TX",Man,8,10,0.8
+TX,all-surveys,"Johnson County, TX",Woman,8,50,0.16
+TX,all-surveys,"Uvalde County, TX",Man,8,12,0.6666666666666666
+UT,all-surveys,"Salt Lake City County, UT",Woman,8,66,0.12121212121212122
+VA,all-surveys,"Botetourt Craig Public Safety Facility, VA",Woman,8,15,0.5333333333333333
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Woman,8,64,0.125
+WA,all-surveys,"Spokane County Jail, WA",Woman,8,83,0.0963855421686747
+WA,all-surveys,"Whatcom County, WA - Main Jail",Woman,8,49,0.16326530612244897
+WV,all-surveys,WV DCR Central Regional Jail,Woman,8,41,0.1951219512195122
+WV,all-surveys,WV DCR Southwestern Regional Jail,Woman,8,47,0.1702127659574468
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Woman,8,60,0.13333333333333333
+CA,all-surveys,"Butte County, CA",Woman,7,57,0.12280701754385964
+DC,all-surveys,DC DOC: Central Detention Facility,Woman,7,81,0.08641975308641975
+FL,all-surveys,"Nassau County, FL",Woman,7,30,0.23333333333333334
+FL,all-surveys,"Okaloosa County Department of Corrections, FL",Woman,7,58,0.1206896551724138
+GA,all-surveys,"Hall County Jail, GA",Man,7,10,0.7
+IL,all-surveys,Edovo Go - General,Woman,7,15,0.4666666666666667
+KY,all-surveys,"Boyd County Detention Center, KY",Man,7,8,0.875
+KY,all-surveys,"Pulaski County, KY",Woman,7,10,0.7
+MD,all-surveys,"Anne Arundel County, MD",Woman,7,21,0.3333333333333333
+MI,all-surveys,"Washtenaw County Jail, MI",Woman,7,25,0.28
+MN,all-surveys,"Dakota County Jail, MN",Man,7,9,0.7777777777777778
+NH,all-surveys,"Strafford County, NH",Man,7,8,0.875
+NM,all-surveys,"Luna County Detention Center, NM",Woman,7,37,0.1891891891891892
+NY,all-surveys,"Herkimer County Correctional Facility, NY",Man,7,8,0.875
+NY,all-surveys,"Jefferson County, NY",Man,7,8,0.875
+NY,all-surveys,"Livingston County Jail, NY",Man,7,8,0.875
+NY,all-surveys,"Niagara County Correctional Facility, NY",Woman,7,49,0.14285714285714285
+OH,all-surveys,"Medina County Jail, OH",Woman,7,20,0.35
+OH,all-surveys,"Portage County, OH",Woman,7,29,0.2413793103448276
+OR,all-surveys,"Polk County, OR",Man,7,7,1
+PA,all-surveys,"Huntingdon County Prison, PA",Man,7,7,1
+PA,all-surveys,"Monroe County Correctional Facility, PA",Man,7,7,1
+PA,all-surveys,"Venango County Prison, PA",Woman,7,16,0.4375
+TN,all-surveys,"Warren County Jail, TN",Woman,7,26,0.2692307692307692
+TX,all-surveys,"Hunt County, TX",Woman,7,25,0.28
+UT,all-surveys,"Uintah County Jail, UT",Man,7,7,1
+UT,all-surveys,"Utah County Jail, UT",Man,7,7,1
+VA,all-surveys,"Accommack County Jail, VA",Man,7,13,0.5384615384615384
+VA,all-surveys,"Botetourt Craig Public Safety Facility, VA",Man,7,15,0.4666666666666667
+WI,all-surveys,"Dodge County, WI",Woman,7,34,0.20588235294117646
+WI,all-surveys,"La Crosse County Jail, WI",Man,7,12,0.5833333333333334
+WI,all-surveys,"Langlade County, WI",Man,7,7,1
+WY,all-surveys,"Converse County Detention Center, WY",Man,7,8,0.875
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ","Man, Prefer not to answer",6,881,0.00681044267877412
+CA,all-surveys,"Fresno County, CA",Prefer not to answer,6,224,0.026785714285714284
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Nonbinary or gender non-conforming,6,298,0.020134228187919462
+CA,all-surveys,"Santa Clara County, CA",Prefer not to answer,6,359,0.016713091922005572
+GA,all-surveys,"Bibb County Jail, GA",Woman,6,51,0.11764705882352941
+ID,all-surveys,Bannock County Criminal Justice Center,Man,6,6,1
+IL,all-surveys,"Cook County, IL",Prefer not to answer,6,569,0.01054481546572935
+IL,all-surveys,"Kankakee County Jail & Detention Center, IL",Man,6,7,0.8571428571428571
+IN,all-surveys,"Marshall County Jail, IN",Man,6,6,1
+MD,all-surveys,"Dorchester County Detention Center, MD",Man,6,7,0.8571428571428571
+MD,all-surveys,"Washington County Detention Center, MD",Woman,6,36,0.16666666666666666
+MI,all-surveys,Midland County Jail. MI,Man,6,7,0.8571428571428571
+MS,all-surveys,"CoreCivic Tallahatchie, MS",Man,6,6,1
+MT,all-surveys,"Dawson County, MT",Man,6,7,0.8571428571428571
+NC,all-surveys,"Brunswick County Jail, NC",Man,6,12,0.5
+NC,all-surveys,"Cleveland County Jail, NC",Man,6,9,0.6666666666666666
+NC,all-surveys,"Craven County Jail, NC",Woman,6,34,0.17647058823529413
+NC,all-surveys,"Cumberland County, NC",Woman,6,86,0.06976744186046512
+NC,all-surveys,"Onslow County Jail, NC",Woman,6,33,0.18181818181818182
+NJ,all-surveys,"Salem County Correctional Facility, NJ",Man,6,6,1
+NM,all-surveys,"Curry County Detention Center, NM",Woman,6,30,0.2
+NM,all-surveys,"Lea County Sheriff's Office, NM",Woman,6,35,0.17142857142857143
+NM,all-surveys,"Valencia County Detention Center, NM",Man,6,6,1
+NV,all-surveys,"Elko County, NV",Man,6,10,0.6
+NY,all-surveys,"Onondaga County, NY",Woman,6,22,0.2727272727272727
+NY,all-surveys,"Onondaga County-Justice Center, NY",Woman,6,39,0.15384615384615385
+NY,all-surveys,"Sullivan County Jail, NY",Man,6,8,0.75
+OH,all-surveys,"Fairfield County, OH",Woman,6,16,0.375
+OH,all-surveys,"Greene County, OH: Adult Detention",Woman,6,24,0.25
+PA,all-surveys,"Franklin County, PA",Woman,6,34,0.17647058823529413
+PA,all-surveys,"Washington County, PA ",Woman,6,61,0.09836065573770492
+TN,all-surveys,"Johnson County Jail, TN",Man,6,8,0.75
+TX,all-surveys,"Fort Bend County Correctional Facility, TX",Man,6,6,1
+TX,all-surveys,Hay's County Law Enforcement Center,Man,6,12,0.5
+UT,all-surveys,"Iron County, UT",Woman,6,20,0.3
+UT,all-surveys,"Sevier County, UT",Man,6,7,0.8571428571428571
+VA,all-surveys,"Henrico County Sheriff's Office, VA",Woman,6,23,0.2608695652173913
+WI,all-surveys,"Sheboygan County Jail, WI",Woman,6,30,0.2

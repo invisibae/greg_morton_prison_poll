@@ -1,0 +1,27 @@
+state,answer_set,facility_name,sentence_length,count,n_respondents,pct_of_respondents
+TX,all-surveys,"MTC: Giles Dalby, TX",2 to 4.9 years,28,77,0.36363636363636365
+WV,all-surveys,WV DCR North Central Regional Jail,1 to 1.9 years,15,71,0.2112676056338028
+WV,all-surveys,WV DCR North Central Regional Jail,2 to 4.9 years,15,71,0.2112676056338028
+TX,all-surveys,"MTC: Giles Dalby, TX",More than 6 months but less than a year,14,77,0.18181818181818182
+WV,all-surveys,WV DCR North Central Regional Jail,Less than 6 months,12,71,0.16901408450704225
+WV,all-surveys,WV DCR North Central Regional Jail,More than 6 months but less than a year,10,71,0.14084507042253522
+TX,all-surveys,"MTC: Giles Dalby, TX",Less than 6 months,9,77,0.11688311688311688
+WV,all-surveys,WV DCR Southwestern Regional Jail,1 to 1.9 years,9,35,0.2571428571428571
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Less than 6 months,9,36,0.25
+TX,all-surveys,"MTC: Giles Dalby, TX",1 to 1.9 years,8,77,0.1038961038961039
+TX,all-surveys,"MTC: Giles Dalby, TX",5 to 9.9 years,8,77,0.1038961038961039
+WV,all-surveys,WV DCR Southwestern Regional Jail,Less than 6 months,8,35,0.22857142857142856
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,1 to 1.9 years,8,36,0.2222222222222222
+WV,all-surveys,WV DCR Central Regional Jail,2 to 4.9 years,7,21,0.3333333333333333
+WV,all-surveys,WV DCR Potomac Highlands Regional Jail,2 to 4.9 years,7,16,0.4375
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,2 to 4.9 years,7,36,0.19444444444444445
+WV,all-surveys,WV DCR Western Regional Jail,1 to 1.9 years,7,26,0.2692307692307692
+TX,all-surveys,"GEO Group-Kinney County, TX",2 to 4.9 years,6,16,0.375
+WV,all-surveys,WV DCR North Central Regional Jail,5 to 9.9 years,6,71,0.08450704225352113
+WV,all-surveys,WV DCR North Central Regional Jail,Life with the possibility of parole,6,71,0.08450704225352113
+WV,all-surveys,WV DCR South Central Regional Jail,2 to 4.9 years,6,24,0.25
+WV,all-surveys,WV DCR South Central Regional Jail,Less than 6 months,6,24,0.25
+WV,all-surveys,WV DCR Southern Regional Jail,Less than 6 months,6,17,0.35294117647058826
+WV,all-surveys,WV DCR Southwestern Regional Jail,2 to 4.9 years,6,35,0.17142857142857143
+WV,all-surveys,WV DCR Western Regional Jail,2 to 4.9 years,6,26,0.23076923076923078
+WV,all-surveys,WV DCR Western Regional Jail,Less than 6 months,6,26,0.23076923076923078

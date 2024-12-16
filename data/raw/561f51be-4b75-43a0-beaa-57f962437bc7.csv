@@ -1,0 +1,21 @@
+state,answer_set,facility_name,sentence_so_far_served,count,n_respondents,pct_of_respondents
+WV,all-surveys,WV DCR North Central Regional Jail,More than 6 months but less than a year,28,72,0.3888888888888889
+TX,all-surveys,"MTC: Giles Dalby, TX",1 to 1.9 years,23,86,0.26744186046511625
+WV,all-surveys,WV DCR North Central Regional Jail,Less than 6 months,23,72,0.3194444444444444
+TX,all-surveys,"MTC: Giles Dalby, TX",2 to 4.9 years,22,86,0.2558139534883721
+TX,all-surveys,"MTC: Giles Dalby, TX",More than 6 months but less than a year,21,86,0.2441860465116279
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Less than 6 months,19,38,0.5
+WV,all-surveys,WV DCR North Central Regional Jail,1 to 1.9 years,16,72,0.2222222222222222
+WV,all-surveys,WV DCR South Central Regional Jail,Less than 6 months,13,23,0.5652173913043478
+WV,all-surveys,WV DCR Southwestern Regional Jail,More than 6 months but less than a year,13,36,0.3611111111111111
+TX,all-surveys,"MTC: Giles Dalby, TX",Less than 6 months,12,86,0.13953488372093023
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,More than 6 months but less than a year,11,38,0.2894736842105263
+WV,all-surveys,WV DCR Central Regional Jail,Less than 6 months,10,23,0.43478260869565216
+WV,all-surveys,WV DCR Southern Regional Jail,Less than 6 months,10,18,0.5555555555555556
+WV,all-surveys,WV DCR Southwestern Regional Jail,Less than 6 months,10,36,0.2777777777777778
+WV,all-surveys,WV DCR Southwestern Regional Jail,1 to 1.9 years,7,36,0.19444444444444445
+WV,all-surveys,WV DCR Western Regional Jail,Less than 6 months,7,27,0.25925925925925924
+WV,all-surveys,WV DCR Western Regional Jail,More than 6 months but less than a year,7,27,0.25925925925925924
+TX,all-surveys,"GEO Group-Kinney County, TX",1 to 1.9 years,6,16,0.375
+WV,all-surveys,WV DCR Central Regional Jail,More than 6 months but less than a year,6,23,0.2608695652173913
+WV,all-surveys,WV DCR Potomac Highlands Regional Jail,1 to 1.9 years,6,15,0.4

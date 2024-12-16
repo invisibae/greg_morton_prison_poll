@@ -1,0 +1,243 @@
+---
+title: "Greg Morton Reporting Memo"
+format: html
+editor: visual
+---
+
+```{r, echo = FALSE, warning=FALSE, include = FALSE}
+# Packages + Functions 
+library(tidyverse)
+library(janitor)
+library(tigris)
+library(sf)
+library(mapview)
+library(kableExtra)
+
+# read functions in from another script 
+source("functions/functions.R")
+```
+
+
+```{r, include=FALSE, echo = FALSE}
+# Load data 
+
+# eligible_to_vote 
+eligible_to_vote <- 
+  read_csv("data/raw/3ce4a9b8-54f5-493a-ad02-9713456e5fa3.csv") %>% 
+  clean_poll_questions("eligible_to_vote")
+
+# likely to vote
+likely_to_vote <- 
+  read_csv("data/raw/5f29f7e9-0da3-422f-9f3d-8d9feb5d6504.csv") %>% 
+  clean_poll_questions("likely_to_vote_in_november_election")
+
+
+# gender 
+gender <- 
+  read_csv("data/raw/215733af-9fb4-47a1-a3a1-897500d2ddc8.csv") %>% 
+  clean_poll_questions("gender")
+
+# party 
+party <- 
+  read_csv("data/raw/85339265-b616-481d-bb82-dd040eb4f7af.csv") %>% 
+  clean_poll_questions("party")
+
+
+# race 
+race <-
+  read_csv("data/raw/c9530f91-7e2b-47e0-a373-3508fa28f14a.csv") %>% 
+  clean_poll_questions("race")
+
+# dictator day 1
+trump_dictator_first_day <- 
+  read_csv("data/raw/ebda8cb2-b3d3-410f-abf2-75886790bf76.csv") %>% 
+  clean_poll_questions("trump_dictator_first_day_opinion")
+
+# sentence length 
+sentence_length <- 
+  read_csv("data/raw/353203f0-e79b-4d87-9271-0b3eced2645e.csv") %>% 
+  clean_poll_questions("sentence_length")
+
+# time served 
+sentence_so_far_served <-
+  read_csv("data/raw/561f51be-4b75-43a0-beaa-57f962437bc7.csv") %>% 
+  clean_poll_questions("sentence_so_far_served")
+
+# age
+age <- 
+  read_csv("data/raw/158e0b7e-8a12-44ae-8fa6-b42b6ffc883b.csv") %>% 
+  clean_poll_questions("age")
+
+# who vote for (post-Biden)
+who_vote_for_supplment <- 
+  read_csv("data/raw/4649bad8-2ecb-4860-845d-7f9e5e705d67 (1).csv") %>% 
+  clean_poll_questions("who_vote_for_supplement")
+
+# climate change 
+climate_change <- 
+  read_csv("data/raw/ab30b7f3-4cb5-4a4e-8f8f-dfc523a79888.csv") %>% 
+  clean_poll_questions("climate_change_effects")
+
+# vote impact
+vote_impact_government_level <- 
+  read_csv("data/raw/93b60ce3-a538-4b8c-9e01-adeca65ee1ab.csv") %>% 
+  clean_poll_questions("vote_impact_government_level")
+
+# indep d/r
+indep_dr <- 
+  read_csv("data/raw/436d18d7-6aae-45c4-a471-39cdbc965310.csv") %>% 
+  clean_poll_questions("independent_preference_for_dem_rep")
+  
+```
+## Angle 1: Has distrust in government led to openness to authoritarianism?
+
+The slight majority of incarcerated people (50.6%) in our survey were open to Trump's promise to be a "dictator only on the first day of his second term." Nearly 20% said that it would "definitely be a good idea" for the country. 
+
+```{r, warning=FALSE}
+trump_dictator_first_day %>% 
+  summarise(
+    count_good = sum(count_definitely_good, count_probably_good, na.rm = T),
+    count_bad = sum(count_definitely_bad, count_probably_bad, na.rm = T),
+    pct_good = count_good / sum(respondents, na.rm = T),
+    pct_bad = count_bad / sum(respondents, na.rm = T)
+  ) %>% 
+  kbl() %>%
+  kable_material()
+```
+
+Considering the population being surveyed, this surprising result would be an interesting lens through which to explore both the broader dissatisfaction with the federal government, and how incarcerated people view their own highly regimented, authoritarian environments.
+
+The former is evident in other results from the same survey data. Independents nearly outnumbered Democrats and Republicans combined. Pressed on party allegiance, the majority of incarcerated independent voters answered "Neither." Fewer than one in four of all surveyed saw their vote in federal elections as their most important. This section would expand on [scholarly work](https://academic.oup.com/ia/article/94/3/515/4992409?utm_source=chatgpt.com&login=false) on how negative perceptions of government and democratic institutions can lay the groundwork for authoritarianism.
+
+To further examine the latter point, I'd like to obtain additional survey data that asks about perceptions of authoritarianism and how incarcerated people define terms like "dictatorship." Secondly, I'd like to do a more robust analysis on the relationship between time served, experience while incarcerated, and political beliefs. Here, I'd like to ask questions about how incarcerated people think about whether living in such a restrictive environment has made a positive or negative impact on their lives personally. While analysis of the relationship between time served and political beliefs is technically possible with the data I have, as I illustrate below, the number of facilities sampled is too small to draw any meaningful conclusions. 
+
+```{r, warning=FALSE}
+# We only have 'sentence served so far' data for a few facilities 
+sentence_so_far_served %>% 
+  left_join(trump_dictator_first_day, 
+            by = c("facility_name" = "facility_name",
+                   "state" = "state")) %>%
+  ungroup() %>% 
+  group_by(facility_name) %>% 
+  summarise(
+    respondents_served_so_far = sum(respondents.x, na.rm = T),
+    respondents_dictator = sum(respondents.y, na.rm = T),
+  ) %>% 
+  kbl() %>% 
+  # make this guy a little wider with scrolling
+  kable_material("hover") %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed")) %>% 
+  scroll_box(width = "100%", height = "400px")
+
+
+```
+
+
+## Angle 2: Civic engagement culture in jails and prisons
+
+The survey data shows a strong positive relationship between accesss to the ballot and likelihood of voting. In facilities where it is easier for people to vote, they are more likely to vote. This mirrors a broader nationwide trend, [where states that implement policies that make it easier to vote see higher voter turnout](https://academic.oup.com/book/33487/chapter-abstract/287782270?redirectedFrom=fulltext&login=false). 
+
+
+```{r, warning=FALSE}
+# What's the relationship between likelihood to vote and eligibility to vote?
+likely_to_vote %>% 
+  left_join(eligible_to_vote, 
+            by = c("facility_name" = "facility_name",
+                                     "state" = "state")) %>% 
+  group_by(facility_name, state) %>%
+  mutate(voter_pct = sum(pct_of_respondents_probably_will_vote, pct_of_respondents_definitely_will_vote, na.rm = T)) %>% 
+  ungroup() %>% 
+  # filter(voter_pct > 0)
+  ggplot(aes(x = voter_pct, y = pct_of_respondents_yes, size = respondents.x)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  labs(
+    x = "Percentage of Respondents Likely to Vote",
+    y = "Percentage of Respondents Eligible to Vote",
+    title = "Relationship between Likelihood to Vote and Eligibility to Vote"
+  ) +
+  theme_minimal()
+
+# sanity check with a linear model 
+eligible_vs_likely_model <- 
+  likely_to_vote %>% 
+  left_join(eligible_to_vote, 
+            by = c("facility_name" = "facility_name",
+                                     "state" = "state")) %>% 
+  group_by(facility_name, state) %>%
+  mutate(voter_pct = sum(pct_of_respondents_probably_will_vote, pct_of_respondents_definitely_will_vote, na.rm = T)) %>% 
+  ungroup() %>% 
+  lm(pct_of_respondents_yes ~ voter_pct, data = .) 
+
+summary(eligible_vs_likely_model)
+```
+
+I'd like to use this relationship as a jumping off point to explore the culture of civic engagement in jails and prisons. I'd like to interview incarcerated people about their experiences voting, and how they view the process. I'd also like to interview prison officials and state lawmakers about how they view their role in facilitating voting.
+
+I also like the idea of diving into outliers. Specifically, facilities where the majority of people are eligible to vote, but few are likely to vote. This could be a sign of a lack of access to the ballot, or a lack of interest in voting. Conversely I think it's also important to look at where civic participation is highest.
+```{r}
+# i hate voting 
+likely_to_vote %>% 
+  left_join(eligible_to_vote,
+            by = c("facility_name" = "facility_name",
+                                     "state" = "state")) %>%
+  ungroup() %>% 
+  group_by(facility_name) %>%
+  mutate(voter_pct = sum(pct_of_respondents_probably_will_vote, pct_of_respondents_definitely_will_vote, na.rm = T)) %>%
+  ungroup() %>%
+  filter(voter_pct < .25,
+         pct_of_respondents_yes > .5) %>%
+  select(
+    facility_name, 
+    respondents.x, 
+    respondents.y, 
+    voter_pct, 
+    pct_of_respondents_yes
+  ) %>% 
+  rename(
+    pct_eligible = pct_of_respondents_yes
+  ) %>% 
+  # make kable
+  kbl() %>%
+  kable_material() %>% 
+  scroll_box(width = "100%", height = "400px")
+
+# i love voting
+likely_to_vote %>% 
+  left_join(eligible_to_vote,
+            by = c("facility_name" = "facility_name",
+                                     "state" = "state")) %>%
+  ungroup() %>% 
+  group_by(facility_name) %>%
+  mutate(voter_pct = sum(pct_of_respondents_probably_will_vote, pct_of_respondents_definitely_will_vote, na.rm = T)) %>%
+  ungroup() %>%
+  filter(voter_pct > .65) %>% 
+         # pct_of_respondents_yes > .5) %>%
+  select(
+    facility_name, 
+    respondents.x, 
+    respondents.y, 
+    voter_pct, 
+    pct_of_respondents_yes
+  ) %>% 
+  rename(
+    pct_eligible = pct_of_respondents_yes
+  ) %>% 
+  kbl() %>%
+  kable_material() %>% 
+  scroll_box(width = "100%", height = "400px")
+  
+  
+
+
+```
+
+## Angle 3: How are campaigns reaching undecided incarcerated voters
+
+Our survey data gives an indication that incarcerated people were dissatisfied with both options (as I discussed above), but also that only around one in four surveyed had given "quite a lot" of thought to their vote in the 2024 election. This suggests that there is a pool of undecided voters that campaigns could target (though it is unclear, race-by-race, how impactful this group would be in actually swinging an election). 
+
+I'd like to comb through [FEC campaign spending data](https://www.fec.gov/data/browse-data/?tab=spending) to try to identify which campaigns are spending on outreach to incarcerated people and those awaiting trial. I'd also like to interview campaign strategists to understand how they are thinking about this population and whether they have used data or any other means to target them. 
+
+While pre-trial detainees probably make up the majority of incarcerated people who are eligible to vote, this story also represents an opportunity to take a closer look at Vermont, Maine, D.C., and Puerto Rico, where people can vote while incarcerated for felony offenses.
+
+

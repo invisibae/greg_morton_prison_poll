@@ -1,0 +1,424 @@
+state,answer_set,facility_name,who_vote_for_supplement,count,n_respondents,pct_of_respondents
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Donald J. Trump,281,600,0.4683333333333333
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Kamala Harris,183,600,0.305
+IL,all-surveys,"Cook County, IL",Donald J. Trump,145,325,0.4461538461538462
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",Donald J. Trump,113,183,0.6174863387978142
+IL,all-surveys,"Cook County, IL",Kamala Harris,111,325,0.3415384615384615
+NY,all-surveys,"Pasco County Corrections, FL",Donald J. Trump,85,147,0.5782312925170068
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Don't know,68,600,0.11333333333333333
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Donald J. Trump,67,125,0.536
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Donald J. Trump,63,114,0.5526315789473685
+IL,all-surveys,"Winnebago County, IL",Donald J. Trump,63,109,0.5779816513761468
+TN,all-surveys,"Sullivan County Jail, TN",Donald J. Trump,59,88,0.6704545454545454
+FL,all-surveys,"Pinellas County Jail, FL",Donald J. Trump,54,89,0.6067415730337079
+TN,all-surveys,"Davidson County Detention Center, TN",Donald J. Trump,54,120,0.45
+CA,all-surveys,"Fresno County, CA",Donald J. Trump,52,130,0.4
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Wouldn't vote,48,600,0.08
+AZ,all-surveys,"Pima County Jail, AZ",Donald J. Trump,48,111,0.43243243243243246
+PA,all-surveys,"Dauphin County Jail, PA",Donald J. Trump,48,76,0.631578947368421
+WV,all-surveys,WV DCR North Central Regional Jail,Donald J. Trump,47,66,0.7121212121212122
+CA,all-surveys,"Fresno County, CA",Kamala Harris,46,130,0.35384615384615387
+TX,all-surveys,"Travis County Jail, TX",Donald J. Trump,46,90,0.5111111111111111
+FL,all-surveys,"Okaloosa County Department of Corrections, FL",Donald J. Trump,42,60,0.7
+TN,all-surveys,"Davidson County Detention Center, TN",Kamala Harris,42,120,0.35
+VA,all-surveys,"Rappahannock Regional Jail, VA",Donald J. Trump,42,76,0.5526315789473685
+AZ,all-surveys,"Pima County Jail, AZ",Kamala Harris,37,111,0.3333333333333333
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Donald J. Trump,37,67,0.5522388059701493
+FL,all-surveys,"Leon County Jail, FL",Donald J. Trump,37,96,0.3854166666666667
+PA,all-surveys,"Westmoreland County, PA",Donald J. Trump,37,62,0.5967741935483871
+CA,all-surveys,"Orange County, CA - Theo Lacy",Donald J. Trump,36,76,0.47368421052631576
+CO,all-surveys,"Denver County Jail, CO",Donald J. Trump,36,73,0.4931506849315068
+WI,all-surveys,"Brown County Jail, WI",Donald J. Trump,36,73,0.4931506849315068
+CO,all-surveys,"Weld County, CO",Donald J. Trump,35,83,0.42168674698795183
+TX,all-surveys,"MTC: Giles Dalby, TX",Donald J. Trump,35,62,0.5645161290322581
+DC,all-surveys,DC DOC: Central Detention Facility,Donald J. Trump,34,74,0.4594594594594595
+IN,all-surveys,"Elkhart County Jail, IN",Donald J. Trump,34,57,0.5964912280701754
+NJ,all-surveys,"Essex County Correctional Facility, NJ",Kamala Harris,34,68,0.5
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Kamala Harris,34,125,0.272
+PA,all-surveys,"Lackawana County, PA",Donald J. Trump,34,67,0.5074626865671642
+CA,all-surveys,"Madera County, CA",Donald J. Trump,33,61,0.5409836065573771
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",Kamala Harris,33,183,0.18032786885245902
+FL,all-surveys,"Leon County Jail, FL",Kamala Harris,33,96,0.34375
+IL,all-surveys,"Cook County, IL",Don't know,33,325,0.10153846153846154
+IN,all-surveys,"Hamilton County Main Jail, IN",Donald J. Trump,33,63,0.5238095238095238
+NY,all-surveys,"New York City Department of Correction, NY (NYC DOC)",Donald J. Trump,33,71,0.4647887323943662
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Donald J. Trump,32,35,0.9142857142857143
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Donald J. Trump,31,46,0.6739130434782609
+CA,all-surveys,"Stanislaus County, CA",Donald J. Trump,30,54,0.5555555555555556
+CO,all-surveys,"Mesa County, CO",Donald J. Trump,30,55,0.5454545454545454
+CO,all-surveys,"Weld County, CO",Kamala Harris,29,83,0.3493975903614458
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Donald J. Trump,29,57,0.5087719298245614
+PA,all-surveys,"Lancaster County Prison, PA",Donald J. Trump,29,58,0.5
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Donald J. Trump,29,58,0.5
+OH,all-surveys,Corrections Center of NW Ohio,Donald J. Trump,28,45,0.6222222222222222
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Donald J. Trump,28,57,0.49122807017543857
+CA,all-surveys,"Orange County, CA - Theo Lacy",Kamala Harris,26,76,0.34210526315789475
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Kamala Harris,26,114,0.22807017543859648
+NY,all-surveys,"New York City Department of Correction, NY (NYC DOC)",Kamala Harris,26,71,0.36619718309859156
+TX,all-surveys,"Guadalupe County, TX",Donald J. Trump,26,42,0.6190476190476191
+TX,all-surveys,"Potter County Detention, TX",Donald J. Trump,26,47,0.5531914893617021
+TX,all-surveys,"Travis County Jail, TX",Kamala Harris,26,90,0.28888888888888886
+FL,all-surveys,"Bay County, FL",Donald J. Trump,25,34,0.7352941176470589
+IL,all-surveys,"Winnebago County, IL",Kamala Harris,25,109,0.22935779816513763
+MI,all-surveys,"Kent County, MI ",Donald J. Trump,25,56,0.44642857142857145
+VA,all-surveys,"Pamunkey Regional Jail, VA",Donald J. Trump,25,36,0.6944444444444444
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Donald J. Trump,24,47,0.5106382978723404
+NE,all-surveys,"Lancaster County, NE",Donald J. Trump,24,47,0.5106382978723404
+TN,all-surveys,"Hamilton County, TN",Donald J. Trump,24,46,0.5217391304347826
+WA,all-surveys,"Yakima County, WA",Donald J. Trump,24,42,0.5714285714285714
+WI,all-surveys,"Brown County Jail, WI",Kamala Harris,24,73,0.3287671232876712
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Donald J. Trump,23,53,0.4339622641509434
+DC,all-surveys,DC DOC: Central Detention Facility,Kamala Harris,23,74,0.3108108108108108
+PA,all-surveys,"Washington County, PA ",Donald J. Trump,23,38,0.6052631578947368
+WA,all-surveys,"King County Adult Detention, WA",Donald J. Trump,23,57,0.40350877192982454
+CO,all-surveys,"Jefferson County Detention Facility, CO",Donald J. Trump,22,41,0.5365853658536586
+CO,all-surveys,"Pueblo County, CO",Donald J. Trump,22,53,0.41509433962264153
+FL,all-surveys,Santa Rosa County FL,Donald J. Trump,22,32,0.6875
+IN,all-surveys,"La Port County Jail, IN",Donald J. Trump,22,38,0.5789473684210527
+PA,all-surveys,"Lehigh County, PA",Donald J. Trump,22,36,0.6111111111111112
+TX,all-surveys,"MTC: Giles Dalby, TX",Kamala Harris,22,62,0.3548387096774194
+TX,all-surveys,"McLennan County, TX",Donald J. Trump,22,49,0.4489795918367347
+WV,all-surveys,WV DCR Central Regional Jail,Donald J. Trump,22,31,0.7096774193548387
+MO,all-surveys,"Cape Girardeau County Jail, MO",Donald J. Trump,21,42,0.5
+NY,all-surveys,"Pasco County Corrections, FL",Kamala Harris,21,147,0.14285714285714285
+PA,all-surveys,"Allegheny County Jail, PA",Donald J. Trump,21,40,0.525
+PA,all-surveys,"Lebanon County, PA",Donald J. Trump,21,34,0.6176470588235294
+SC,all-surveys,"Pickens County Detention Facility, SC",Donald J. Trump,21,30,0.7
+WV,all-surveys,WV DCR Southwestern Regional Jail,Donald J. Trump,21,24,0.875
+FL,all-surveys,"Citrus County Detention Facility, FL",Donald J. Trump,20,30,0.6666666666666666
+PA,all-surveys,"Berks County Jail, PA",Donald J. Trump,20,34,0.5882352941176471
+PA,all-surveys,"Cambria County Prison, PA",Donald J. Trump,20,34,0.5882352941176471
+PA,all-surveys,"Lackawana County, PA",Kamala Harris,20,67,0.29850746268656714
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Kamala Harris,20,57,0.3508771929824561
+AL,all-surveys,"Etowah County Jail, AL",Donald J. Trump,19,28,0.6785714285714286
+CA,all-surveys,"San Joaquin County Jail, CA",Donald J. Trump,19,43,0.4418604651162791
+FL,all-surveys,"St. Lucie County Jail, FL",Donald J. Trump,19,27,0.7037037037037037
+MA,all-surveys,"Middlesex County House of Corrections, MA",Donald J. Trump,19,28,0.6785714285714286
+MI,all-surveys,"Kent County, MI ",Kamala Harris,19,56,0.3392857142857143
+NJ,all-surveys,"Essex County Correctional Facility, NJ",Donald J. Trump,19,68,0.27941176470588236
+NY,all-surveys,"Albany County Correctional Facility, NY",Donald J. Trump,19,45,0.4222222222222222
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Donald J. Trump,19,41,0.4634146341463415
+TN,all-surveys,"Sullivan County Jail, TN",Kamala Harris,19,88,0.2159090909090909
+WV,all-surveys,WV DCR Western Regional Jail,Donald J. Trump,19,25,0.76
+CO,all-surveys,"Denver County Jail, CO",Kamala Harris,18,73,0.2465753424657534
+FL,all-surveys,"Escambia County Jail, FL",Donald J. Trump,18,28,0.6428571428571429
+FL,all-surveys,"Pinellas County Jail, FL",Kamala Harris,18,89,0.20224719101123595
+GA,all-surveys,"Athens Clarke County Jail, GA",Donald J. Trump,18,31,0.5806451612903226
+MO,all-surveys,"St. Louis County Jail, MO",Donald J. Trump,18,39,0.46153846153846156
+NM,all-surveys,"Santa Fe County Adult Correctional Facility, NM",Donald J. Trump,18,37,0.4864864864864865
+PA,all-surveys,"Chester County Prison, PA",Donald J. Trump,18,27,0.6666666666666666
+TN,all-surveys,"Warren County Jail, TN",Donald J. Trump,18,27,0.6666666666666666
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Donald J. Trump,18,40,0.45
+VA,all-surveys,"Western Regional, VA",Donald J. Trump,18,27,0.6666666666666666
+WA,all-surveys,"King County Adult Detention, WA",Kamala Harris,18,57,0.3157894736842105
+WI,all-surveys,"Sheboygan County Jail, WI",Donald J. Trump,18,30,0.6
+AL,all-surveys,"Tuscaloosa County Jail, AL",Donald J. Trump,17,33,0.5151515151515151
+CO,all-surveys,"Larimer County, CO",Donald J. Trump,17,31,0.5483870967741935
+FL,all-surveys,"Lee County, FL",Donald J. Trump,17,33,0.5151515151515151
+IL,all-surveys,"Cook County, IL",Wouldn't vote,17,325,0.052307692307692305
+KS,all-surveys,"Shawnee County Detention Center, KS",Donald J. Trump,17,36,0.4722222222222222
+KY,all-surveys,"Madison County, KY",Donald J. Trump,17,22,0.7727272727272727
+NC,all-surveys,"Craven County Jail, NC",Donald J. Trump,17,35,0.4857142857142857
+NY,all-surveys,"Pasco County Corrections, FL",Wouldn't vote,17,147,0.11564625850340136
+NY,all-surveys,"Suffolk County, NY ",Donald J. Trump,17,35,0.4857142857142857
+PA,all-surveys,"Lancaster County Prison, PA",Kamala Harris,17,58,0.29310344827586204
+TN,all-surveys,"Hamilton County, TN",Kamala Harris,17,46,0.3695652173913043
+VA,all-surveys,"Chesapeake Correctional Center, VA",Kamala Harris,17,32,0.53125
+VA,all-surveys,"Rappahannock Regional Jail, VA",Kamala Harris,17,76,0.2236842105263158
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Kamala Harris,17,58,0.29310344827586204
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Third-party candidate,16,600,0.02666666666666667
+CA,all-surveys,"San Joaquin County Jail, CA",Kamala Harris,16,43,0.37209302325581395
+CA,all-surveys,"Santa Barbara County, CA",Donald J. Trump,16,40,0.4
+CA,all-surveys,"Santa Barbara County, CA",Kamala Harris,16,40,0.4
+CA,all-surveys,"Santa Clara County, CA",Kamala Harris,16,33,0.48484848484848486
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Kamala Harris,16,53,0.3018867924528302
+CO,all-surveys,"Mesa County, CO",Kamala Harris,16,55,0.2909090909090909
+CO,all-surveys,"Pueblo County, CO",Kamala Harris,16,53,0.3018867924528302
+FL,all-surveys,"Lake County Detention Center, FL",Donald J. Trump,16,29,0.5517241379310345
+GA,all-surveys,"Cobb County, GA",Donald J. Trump,16,38,0.42105263157894735
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Kamala Harris,16,57,0.2807017543859649
+IN,all-surveys,"Hamilton County Main Jail, IN",Kamala Harris,16,63,0.25396825396825395
+IN,all-surveys,"Kosciusko County, IN",Donald J. Trump,16,18,0.8888888888888888
+NC,all-surveys,"Cumberland County, NC",Donald J. Trump,16,37,0.43243243243243246
+NY,all-surveys,"Albany County Correctional Facility, NY",Kamala Harris,16,45,0.35555555555555557
+PA,all-surveys,"Dauphin County Jail, PA",Kamala Harris,16,76,0.21052631578947367
+TX,all-surveys,"McLennan County, TX",Kamala Harris,16,49,0.32653061224489793
+CA,all-surveys,"Madera County, CA",Kamala Harris,15,61,0.2459016393442623
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Kamala Harris,15,67,0.22388059701492538
+CA,all-surveys,"Stanislaus County, CA",Kamala Harris,15,54,0.2777777777777778
+FL,all-surveys,"Nassau County, FL",Donald J. Trump,15,22,0.6818181818181818
+IL,all-surveys,"Kane County, IL",Donald J. Trump,15,43,0.3488372093023256
+IL,all-surveys,"Kane County, IL",Kamala Harris,15,43,0.3488372093023256
+MA,all-surveys,"Essex County Middleton HOC, MA",Donald J. Trump,15,24,0.625
+MD,all-surveys,"Washington County Detention Center, MD",Donald J. Trump,15,30,0.5
+NC,all-surveys,"Onslow County Jail, NC",Donald J. Trump,15,35,0.42857142857142855
+NY,all-surveys,"Onondaga County-Justice Center, NY",Donald J. Trump,15,22,0.6818181818181818
+OH,all-surveys,"Mahoning County Justice Center, OH",Donald J. Trump,15,29,0.5172413793103449
+PA,all-surveys,"Westmoreland County, PA",Kamala Harris,15,62,0.24193548387096775
+TX,all-surveys,"Collin County, TX ",Donald J. Trump,15,34,0.4411764705882353
+TX,all-surveys,"Potter County Detention, TX",Kamala Harris,15,47,0.3191489361702128
+UT,all-surveys,"Salt Lake City County, UT",Donald J. Trump,15,32,0.46875
+UT,all-surveys,"Weber County Correctional Facility, UT",Donald J. Trump,15,21,0.7142857142857143
+CA,all-surveys,"Sonoma County, CA",Kamala Harris,14,31,0.45161290322580644
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",Don't know,14,183,0.07650273224043716
+GA,all-surveys,"Bibb County Jail, GA",Donald J. Trump,14,19,0.7368421052631579
+NM,all-surveys,"Lea County Sheriff's Office, NM",Donald J. Trump,14,26,0.5384615384615384
+NY,all-surveys,"Niagara County Correctional Facility, NY",Donald J. Trump,14,25,0.56
+NY,all-surveys,"Pasco County Corrections, FL",Don't know,14,147,0.09523809523809523
+TX,all-surveys,"Johnson County, TX",Donald J. Trump,14,22,0.6363636363636364
+VA,all-surveys,"Henrico County Sheriff's Office, VA",Donald J. Trump,14,24,0.5833333333333334
+WA,all-surveys,"Whatcom County, WA - Main Jail",Kamala Harris,14,33,0.42424242424242425
+CA,all-surveys,"Fresno County, CA",Don't know,13,130,0.1
+FL,all-surveys,"Hillsborough County Sheriff's Office, FL",Wouldn't vote,13,183,0.07103825136612021
+FL,all-surveys,"Leon County Jail, FL",Wouldn't vote,13,96,0.13541666666666666
+FL,all-surveys,"Monroe County-Key West, FL",Donald J. Trump,13,16,0.8125
+FL,all-surveys,"Sarasota County, FL",Kamala Harris,13,33,0.3939393939393939
+MO,all-surveys,"St. Louis County Jail, MO",Kamala Harris,13,39,0.3333333333333333
+NE,all-surveys,"Lancaster County, NE",Kamala Harris,13,47,0.2765957446808511
+NM,all-surveys,"Eddy County Detention Center, NM",Donald J. Trump,13,21,0.6190476190476191
+NY,all-surveys,"Oneida County Correctional Facility, NY",Donald J. Trump,13,22,0.5909090909090909
+OH,all-surveys,"Summit County, OH",Donald J. Trump,13,26,0.5
+PA,all-surveys,"Venango County Prison, PA",Donald J. Trump,13,16,0.8125
+TX,all-surveys,"GEO Group-Kinney County, TX",Donald J. Trump,13,18,0.7222222222222222
+FL,all-surveys,"Sarasota County, FL",Donald J. Trump,12,33,0.36363636363636365
+IL,all-surveys,"DuPage County Jail, IL",Donald J. Trump,12,29,0.41379310344827586
+IN,all-surveys,"Elkhart County Jail, IN",Kamala Harris,12,57,0.21052631578947367
+MA,all-surveys,"Bristol County House of Correction, MA",Donald J. Trump,12,25,0.48
+MA,all-surveys,"Worcester County Jail, MA",Donald J. Trump,12,19,0.631578947368421
+ME,all-surveys,"Two Bridges Regional, ME",Donald J. Trump,12,14,0.8571428571428571
+MI,all-surveys,"Livingston County, MI",Donald J. Trump,12,15,0.8
+MI,all-surveys,"Macomb County, MI",Donald J. Trump,12,20,0.6
+MI,all-surveys,"Washtenaw County Jail, MI",Kamala Harris,12,25,0.48
+NC,all-surveys,"Craven County Jail, NC",Kamala Harris,12,35,0.34285714285714286
+NJ,all-surveys,"Bergen County, NJ",Donald J. Trump,12,29,0.41379310344827586
+NM,all-surveys,"Santa Fe County Adult Correctional Facility, NM",Kamala Harris,12,37,0.32432432432432434
+NY,all-surveys,"Chautauqua County, NY",Donald J. Trump,12,24,0.5
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Kamala Harris,12,41,0.2926829268292683
+NY,all-surveys,"Suffolk County, NY ",Kamala Harris,12,35,0.34285714285714286
+OH,all-surveys,Corrections Center of NW Ohio,Kamala Harris,12,45,0.26666666666666666
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Don't know,12,125,0.096
+PA,all-surveys,"Allegheny County Jail, PA",Kamala Harris,12,40,0.3
+UT,all-surveys,"Beaver County, UT",Donald J. Trump,12,31,0.3870967741935484
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Kamala Harris,12,40,0.3
+WA,all-surveys,"Whatcom County, WA - Main Jail",Donald J. Trump,12,33,0.36363636363636365
+AL,all-surveys,"Montgomery County, AL",Donald J. Trump,11,21,0.5238095238095238
+AL,all-surveys,"Riverside Regional, VA",Donald J. Trump,11,19,0.5789473684210527
+AL,all-surveys,"Tuscaloosa County Jail, AL",Kamala Harris,11,33,0.3333333333333333
+AZ,all-surveys,"Pima County Jail, AZ",Wouldn't vote,11,111,0.0990990990990991
+CA,all-surveys,"Butte County, CA",Donald J. Trump,11,20,0.55
+CA,all-surveys,"Sonoma County, CA",Donald J. Trump,11,31,0.3548387096774194
+CO,all-surveys,"Jefferson County Detention Facility, CO",Kamala Harris,11,41,0.2682926829268293
+GA,all-surveys,"Cobb County, GA",Kamala Harris,11,38,0.2894736842105263
+GA,all-surveys,"Dekalb County Jail, GA",Kamala Harris,11,16,0.6875
+IN,all-surveys,"Floyd County Jail, IN",Donald J. Trump,11,24,0.4583333333333333
+KS,all-surveys,"Shawnee County Detention Center, KS",Kamala Harris,11,36,0.3055555555555556
+MI,all-surveys,"Genesee County, MI",Donald J. Trump,11,23,0.4782608695652174
+NC,all-surveys,"Cumberland County, NC",Kamala Harris,11,37,0.2972972972972973
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Kamala Harris,11,47,0.23404255319148937
+NM,all-surveys,"Luna County Detention Center, NM",Donald J. Trump,11,21,0.5238095238095238
+NY,all-surveys,"Erie County, NY",Kamala Harris,11,24,0.4583333333333333
+OH,all-surveys,"Lorain County, OH ",Donald J. Trump,11,23,0.4782608695652174
+PA,all-surveys,"Delaware County, PA",Donald J. Trump,11,24,0.4583333333333333
+PA,all-surveys,"Delaware County, PA",Kamala Harris,11,24,0.4583333333333333
+CA,all-surveys,"Fresno County, CA",Wouldn't vote,10,130,0.07692307692307693
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Don't know,10,114,0.08771929824561403
+FL,all-surveys,"Lake County Detention Center, FL",Kamala Harris,10,29,0.3448275862068966
+GA,all-surveys,"Athens Clarke County Jail, GA",Kamala Harris,10,31,0.3225806451612903
+GA,all-surveys,"Columbia County Detention Center, GA",Kamala Harris,10,18,0.5555555555555556
+IA,all-surveys,"Polk County, IA ",Donald J. Trump,10,25,0.4
+ID,all-surveys,"Bonneville County, ID",Donald J. Trump,10,13,0.7692307692307693
+IL,all-surveys,"DuPage County Jail, IL",Kamala Harris,10,29,0.3448275862068966
+MO,all-surveys,"Cape Girardeau County Jail, MO",Kamala Harris,10,42,0.23809523809523808
+NC,all-surveys,"New Hanover County Detention Center, NC",Kamala Harris,10,24,0.4166666666666667
+NC,all-surveys,"Onslow County Jail, NC",Kamala Harris,10,35,0.2857142857142857
+NC,all-surveys,"Stanly County Jail, NC",Donald J. Trump,10,15,0.6666666666666666
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Donald J. Trump,10,22,0.45454545454545453
+OH,all-surveys,"Lorain County, OH ",Kamala Harris,10,23,0.43478260869565216
+PA,all-surveys,"Bucks County Correctional Facility, PA",Donald J. Trump,10,18,0.5555555555555556
+PA,all-surveys,"Fayette County, PA",Donald J. Trump,10,16,0.625
+PA,all-surveys,"Franklin County, PA",Donald J. Trump,10,16,0.625
+PA,all-surveys,"Lebanon County, PA",Kamala Harris,10,34,0.29411764705882354
+PA,all-surveys,"Lycoming County, PA",Donald J. Trump,10,13,0.7692307692307693
+SC,all-surveys,"Clarendon County, SC",Donald J. Trump,10,14,0.7142857142857143
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Kamala Harris,10,46,0.21739130434782608
+TN,all-surveys,"Davidson County Detention Center, TN",Don't know,10,120,0.08333333333333333
+TN,all-surveys,"McMinn County Justice Center, TN",Donald J. Trump,10,23,0.43478260869565216
+TN,all-surveys,"McMinn County Justice Center, TN",Kamala Harris,10,23,0.43478260869565216
+UT,all-surveys,"Beaver County, UT",Kamala Harris,10,31,0.3225806451612903
+VA,all-surveys,"Meherrin River Alberta, VA",Kamala Harris,10,20,0.5
+VA,all-surveys,"Rappahannock Regional Jail, VA",Don't know,10,76,0.13157894736842105
+WA,all-surveys,"King County Adult Detention, WA",Don't know,10,57,0.17543859649122806
+WI,all-surveys,"Brown County Jail, WI",Don't know,10,73,0.136986301369863
+WV,all-surveys,WV DCR North Central Regional Jail,Kamala Harris,10,66,0.15151515151515152
+AZ,all-surveys,"Pima County Jail, AZ",Don't know,9,111,0.08108108108108109
+AZ,all-surveys,"Pinal County Jail, AZ",Donald J. Trump,9,22,0.4090909090909091
+AZ,all-surveys,"Pinal County Jail, AZ",Kamala Harris,9,22,0.4090909090909091
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Wouldn't vote,9,114,0.07894736842105263
+CA,all-surveys,"Tehama County, CA",Donald J. Trump,9,13,0.6923076923076923
+CO,all-surveys,"Weld County, CO",Don't know,9,83,0.10843373493975904
+DC,all-surveys,DC DOC: Central Detention Facility,Wouldn't vote,9,74,0.12162162162162163
+FL,all-surveys,"Leon County Jail, FL",Don't know,9,96,0.09375
+FL,all-surveys,"Okaloosa County Department of Corrections, FL",Kamala Harris,9,60,0.15
+IL,all-surveys,"Vermilion County Jail, IL",Kamala Harris,9,19,0.47368421052631576
+IN,all-surveys,"Boone County, IN",Donald J. Trump,9,14,0.6428571428571429
+IN,all-surveys,"Floyd County Jail, IN",Kamala Harris,9,24,0.375
+MA,all-surveys,"Hampshire County, MA",Donald J. Trump,9,20,0.45
+MA,all-surveys,"Suffolk County Jail, MA",Donald J. Trump,9,23,0.391304347826087
+MD,all-surveys,"Washington County Detention Center, MD",Kamala Harris,9,30,0.3
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Kamala Harris,9,22,0.4090909090909091
+NY,all-surveys,"Broome County Public Safety Facility, NY",Donald J. Trump,9,20,0.45
+NY,all-surveys,"Erie County, NY",Donald J. Trump,9,24,0.375
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Wouldn't vote,9,125,0.072
+OH,all-surveys,"Portage County, OH",Donald J. Trump,9,19,0.47368421052631576
+PA,all-surveys,"Cambria County Prison, PA",Kamala Harris,9,34,0.2647058823529412
+PA,all-surveys,"Washington County, PA ",Kamala Harris,9,38,0.23684210526315788
+TN,all-surveys,"Davidson County Detention Center, TN",Wouldn't vote,9,120,0.075
+TN,all-surveys,"Rhea County Jail, TN",Donald J. Trump,9,13,0.6923076923076923
+TX,all-surveys,"Fannin County Jail, TX",Donald J. Trump,9,13,0.6923076923076923
+TX,all-surveys,Hay's County Law Enforcement Center,Donald J. Trump,9,12,0.75
+VA,all-surveys,"Blue Ridge Regional Jail Authority, VA",Kamala Harris,9,22,0.4090909090909091
+VA,all-surveys,"Chesapeake Correctional Center, VA",Donald J. Trump,9,32,0.28125
+WI,all-surveys,"Rock County, WI",Kamala Harris,9,18,0.5
+WV,all-surveys,WV DCR South Central Regional Jail,Donald J. Trump,9,15,0.6
+WV,all-surveys,WV DCR Southern Regional Jail,Donald J. Trump,9,15,0.6
+AZ,all-surveys,"Yavapai County Jail, AZ",Kamala Harris,8,18,0.4444444444444444
+CA,all-surveys,"Lassen County, CA",Donald J. Trump,8,10,0.8
+CA,all-surveys,"Santa Clara County, CA",Donald J. Trump,8,33,0.24242424242424243
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Don't know,8,53,0.1509433962264151
+FL,all-surveys,"Lee County, FL",Kamala Harris,8,33,0.24242424242424243
+FL,all-surveys,"Walton County Jail, FL",Donald J. Trump,8,13,0.6153846153846154
+IL,all-surveys,"Cook County, IL","Donald J. Trump, Kamala Harris",8,325,0.024615384615384615
+IL,all-surveys,"Cook County, IL",Third-party candidate,8,325,0.024615384615384615
+IL,all-surveys,"Kane County, IL",Don't know,8,43,0.18604651162790697
+IN,all-surveys,"Hamilton County Main Jail, IN",Wouldn't vote,8,63,0.12698412698412698
+IN,all-surveys,"La Port County Jail, IN",Kamala Harris,8,38,0.21052631578947367
+KS,all-surveys,"Butler County Corrections, KS",Donald J. Trump,8,14,0.5714285714285714
+KS,all-surveys,"Douglas County, KS",Donald J. Trump,8,17,0.47058823529411764
+MA,all-surveys,"Hampshire County, MA",Kamala Harris,8,20,0.4
+MA,all-surveys,"Norfolk County Jail, MA",Donald J. Trump,8,13,0.6153846153846154
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Kamala Harris,8,14,0.5714285714285714
+MA,all-surveys,"Suffolk County Jail, MA",Kamala Harris,8,23,0.34782608695652173
+MD,all-surveys,"Prince Georges County DOC, MD",Donald J. Trump,8,14,0.5714285714285714
+MI,all-surveys,"Washtenaw County Jail, MI",Donald J. Trump,8,25,0.32
+MT,all-surveys,"Cascade County, MT",Donald J. Trump,8,14,0.5714285714285714
+NC,all-surveys,"New Hanover County Detention Center, NC",Donald J. Trump,8,24,0.3333333333333333
+NE,all-surveys,"Lancaster County, NE",Wouldn't vote,8,47,0.1702127659574468
+NE,all-surveys,"Sarpy County Jail, NE",Donald J. Trump,8,13,0.6153846153846154
+NJ,all-surveys,"Cumberland County Jail, NJ",Donald J. Trump,8,14,0.5714285714285714
+NJ,all-surveys,"Essex County Correctional Facility, NJ",Don't know,8,68,0.11764705882352941
+NJ,all-surveys,Middlesex County NJ: Adult Correctional,Donald J. Trump,8,12,0.6666666666666666
+NM,all-surveys,"Curry County Detention Center, NM",Kamala Harris,8,21,0.38095238095238093
+NY,all-surveys,"Broome County Public Safety Facility, NY",Kamala Harris,8,20,0.4
+NY,all-surveys,"Niagara County Correctional Facility, NY",Kamala Harris,8,25,0.32
+OH,all-surveys,"Summit County, OH",Kamala Harris,8,26,0.3076923076923077
+OR,all-surveys,"Lincoln County, OR",Kamala Harris,8,14,0.5714285714285714
+PA,all-surveys,"Berks County Jail, PA",Kamala Harris,8,34,0.23529411764705882
+TX,all-surveys,"Collin County, TX ",Kamala Harris,8,34,0.23529411764705882
+TX,all-surveys,"Travis County Jail, TX",Wouldn't vote,8,90,0.08888888888888889
+TX,all-surveys,"Wichita County, TX ",Donald J. Trump,8,13,0.6153846153846154
+UT,all-surveys,"Salt Lake City County, UT",Kamala Harris,8,32,0.25
+WI,all-surveys,"Dodge County, WI",Donald J. Trump,8,18,0.4444444444444444
+CA,all-surveys,"Fresno County, CA",Third-party candidate,7,130,0.05384615384615385
+CA,all-surveys,"Orange County, CA - Theo Lacy",Wouldn't vote,7,76,0.09210526315789473
+CO,all-surveys,"Denver County Jail, CO",Don't know,7,73,0.0958904109589041
+FL,all-surveys,"Pinellas County Jail, FL",Wouldn't vote,7,89,0.07865168539325842
+GA,all-surveys,"Columbia County Detention Center, GA",Donald J. Trump,7,18,0.3888888888888889
+IA,all-surveys,"Polk County, IA ",Kamala Harris,7,25,0.28
+IL,all-surveys,"Vermilion County Jail, IL",Donald J. Trump,7,19,0.3684210526315789
+IN,all-surveys,"Shelby County, IN",Donald J. Trump,7,9,0.7777777777777778
+KS,all-surveys,"Sedgwick County Detention Facility, KS",Donald J. Trump,7,8,0.875
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Donald J. Trump,7,8,0.875
+MA,all-surveys,"Middlesex County House of Corrections, MA",Kamala Harris,7,28,0.25
+MD,all-surveys,"Anne Arundel County, MD",Donald J. Trump,7,8,0.875
+MD,all-surveys,"Dorchester County Detention Center, MD",Kamala Harris,7,8,0.875
+ME,all-surveys,"Kennebec County Jail, ME",Donald J. Trump,7,9,0.7777777777777778
+ME,all-surveys,"Somerset County Jail, ME",Donald J. Trump,7,10,0.7
+MI,all-surveys,"Bay County Law Enforcement Center, MI",Donald J. Trump,7,10,0.7
+MI,all-surveys,"Muskegon County Jail, MI",Donald J. Trump,7,16,0.4375
+MI,all-surveys,"Muskegon County Jail, MI",Kamala Harris,7,16,0.4375
+MT,all-surveys,"Dawson County, MT",Donald J. Trump,7,8,0.875
+NC,all-surveys,Durham County NC - Detention Facility,Donald J. Trump,7,14,0.5
+NC,all-surveys,"Onslow County Jail, NC",Don't know,7,35,0.2
+NH,all-surveys,"Hillsborough County House of Corrections, NH",Kamala Harris,7,13,0.5384615384615384
+NJ,all-surveys,"Bergen County, NJ",Kamala Harris,7,29,0.2413793103448276
+NJ,all-surveys,"Hudson County Corrections Center, NJ",Donald J. Trump,7,14,0.5
+NJ,all-surveys,"Ocean County, NJ",Donald J. Trump,7,11,0.6363636363636364
+NY,all-surveys,"Delaware County Correctional Facility, NY",Donald J. Trump,7,12,0.5833333333333334
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Wouldn't vote,7,41,0.17073170731707318
+OH,all-surveys,"Mahoning County Justice Center, OH",Kamala Harris,7,29,0.2413793103448276
+OH,all-surveys,"Portage County, OH",Kamala Harris,7,19,0.3684210526315789
+PA,all-surveys,"Huntingdon County Prison, PA",Donald J. Trump,7,7,1
+SC,all-surveys,"Sumter County Detention Center, SC",Donald J. Trump,7,13,0.5384615384615384
+TN,all-surveys,"Sullivan County Jail, TN",Wouldn't vote,7,88,0.07954545454545454
+TN,all-surveys,"Warren County Jail, TN",Kamala Harris,7,27,0.25925925925925924
+TX,all-surveys,"McLennan County, TX",Don't know,7,49,0.14285714285714285
+UT,all-surveys,"Sanpete County Jail, UT",Donald J. Trump,7,9,0.7777777777777778
+VA,all-surveys,"Blue Ridge Regional Jail Authority, VA",Donald J. Trump,7,22,0.3181818181818182
+VA,all-surveys,"Meherrin River Alberta, VA",Donald J. Trump,7,20,0.35
+VA,all-surveys,"Norfolk City Jail, VA",Donald J. Trump,7,17,0.4117647058823529
+VA,all-surveys,"Northern Neck Regional Jail, VA",Donald J. Trump,7,9,0.7777777777777778
+VA,all-surveys,"Western Regional, VA",Kamala Harris,7,27,0.25925925925925924
+WA,all-surveys,"Yakima County, WA",Kamala Harris,7,42,0.16666666666666666
+WI,all-surveys,"Sheboygan County Jail, WI",Kamala Harris,7,30,0.23333333333333334
+WV,all-surveys,WV DCR Eastern Regional Jail,Donald J. Trump,7,11,0.6363636363636364
+AL,all-surveys,"Montgomery County, AL",Kamala Harris,6,21,0.2857142857142857
+CA,all-surveys,"Alameda County-Santa Rita, CA",Donald J. Trump,6,17,0.35294117647058826
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Don't know,6,67,0.08955223880597014
+CA,all-surveys,"Tuolumne-Dambacher Detention Center, CA",Donald J. Trump,6,8,0.75
+CA,all-surveys,"Yuba County, CA ",Donald J. Trump,6,8,0.75
+CO,all-surveys,"Mesa County, CO",Don't know,6,55,0.10909090909090909
+CO,all-surveys,"Pueblo County, CO",Third-party candidate,6,53,0.11320754716981132
+CO,all-surveys,"Pueblo County, CO",Wouldn't vote,6,53,0.11320754716981132
+FL,all-surveys,"Lee County, FL",Don't know,6,33,0.18181818181818182
+GA,all-surveys,"Cobb County, GA",Don't know,6,38,0.15789473684210525
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Wouldn't vote,6,57,0.10526315789473684
+IL,all-surveys,"Madison County, IL",Donald J. Trump,6,10,0.6
+IL,all-surveys,"McLean County, IL",Donald J. Trump,6,8,0.75
+IL,all-surveys,"Winnebago County, IL",Don't know,6,109,0.05504587155963303
+IN,all-surveys,"Elkhart County Jail, IN",Don't know,6,57,0.10526315789473684
+IN,all-surveys,"Hamilton County Main Jail, IN",Don't know,6,63,0.09523809523809523
+KS,all-surveys,"Butler County Corrections, KS",Kamala Harris,6,14,0.42857142857142855
+KS,all-surveys,"Wyandotte County Detention Facility, KS",Donald J. Trump,6,12,0.5
+KY,all-surveys,"Boyd County Detention Center, KY",Donald J. Trump,6,7,0.8571428571428571
+MA,all-surveys,"Berkshire County House of Corrections, MA",Kamala Harris,6,13,0.46153846153846156
+MA,all-surveys,"Essex County Middleton HOC, MA",Kamala Harris,6,24,0.25
+MD,all-surveys,"Prince Georges County DOC, MD",Kamala Harris,6,14,0.42857142857142855
+ME,all-surveys,"Cumberland County Jail, ME",Kamala Harris,6,12,0.5
+MI,all-surveys,"Genesee County, MI",Kamala Harris,6,23,0.2608695652173913
+MS,all-surveys,"Madison County Detention Center, MS",Donald J. Trump,6,16,0.375
+MS,all-surveys,"Madison County Detention Center, MS",Kamala Harris,6,16,0.375
+NC,all-surveys,"Cleveland County Jail, NC",Donald J. Trump,6,9,0.6666666666666666
+NC,all-surveys,"Cumberland County, NC",Wouldn't vote,6,37,0.16216216216216217
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Wouldn't vote,6,47,0.1276595744680851
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",Donald J. Trump,6,13,0.46153846153846156
+NJ,all-surveys,"Bergen County, NJ",Don't know,6,29,0.20689655172413793
+NJ,all-surveys,"Camden County Department of Corrections, NJ",Donald J. Trump,6,11,0.5454545454545454
+NJ,all-surveys,"Essex County Correctional Facility, NJ",Wouldn't vote,6,68,0.08823529411764706
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Donald J. Trump,6,10,0.6
+NM,all-surveys,"Curry County Detention Center, NM",Donald J. Trump,6,21,0.2857142857142857
+NY,all-surveys,"Cayuga County, NY",Donald J. Trump,6,12,0.5
+NY,all-surveys,"Chautauqua County, NY",Don't know,6,24,0.25
+NY,all-surveys,"New York City Department of Correction, NY (NYC DOC)",Don't know,6,71,0.08450704225352113
+NY,all-surveys,"Pasco County Corrections, FL",Third-party candidate,6,147,0.04081632653061224
+OH,all-surveys,"Fairfield County, OH",Donald J. Trump,6,8,0.75
+OH,all-surveys,"Medina County Jail, OH",Donald J. Trump,6,11,0.5454545454545454
+OH,all-surveys,"Muskingum County, OH",Donald J. Trump,6,10,0.6
+PA,all-surveys,"Berks County Jail, PA",Wouldn't vote,6,34,0.17647058823529413
+PA,all-surveys,"Chester County Prison, PA",Kamala Harris,6,27,0.2222222222222222
+PA,all-surveys,"Cumberland County Prison, PA",Donald J. Trump,6,14,0.42857142857142855
+PA,all-surveys,"Lackawana County, PA",Don't know,6,67,0.08955223880597014
+PA,all-surveys,"Lancaster County Prison, PA",Wouldn't vote,6,58,0.10344827586206896
+PA,all-surveys,"Lehigh County, PA",Kamala Harris,6,36,0.16666666666666666
+PA,all-surveys,"Northampton County Prison, PA",Donald J. Trump,6,12,0.5
+SC,all-surveys,"Aiken County, SC",Donald J. Trump,6,9,0.6666666666666666
+SC,all-surveys,"Pickens County Detention Facility, SC",Kamala Harris,6,30,0.2
+TX,all-surveys,"Guadalupe County, TX",Kamala Harris,6,42,0.14285714285714285
+TX,all-surveys,"Hunt County, TX",Donald J. Trump,6,11,0.5454545454545454
+TX,all-surveys,"San Patricio County Jail, TX",Donald J. Trump,6,8,0.75
+TX,all-surveys,"Uvalde County, TX",Donald J. Trump,6,12,0.5
+VA,all-surveys,"Middle Peninsula Regional Jail, VA",Donald J. Trump,6,8,0.75
+VA,all-surveys,"Pamunkey Regional Jail, VA",Kamala Harris,6,36,0.16666666666666666
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Wouldn't vote,6,58,0.10344827586206896
+WI,all-surveys,"Dodge County, WI",Kamala Harris,6,18,0.3333333333333333
+WI,all-surveys,"Rock County, WI",Donald J. Trump,6,18,0.3333333333333333
+WV,all-surveys,WV DCR Potomac Highlands Regional Jail,Donald J. Trump,6,11,0.5454545454545454

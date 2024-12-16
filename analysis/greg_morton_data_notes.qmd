@@ -1,0 +1,303 @@
+---
+title: "Data notes"
+editor: visual
+---
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(janitor)
+library(tigris)
+library(sf)
+library(mapview)
+library(kableExtra)
+
+# read functions in from another script 
+source("functions/functions.R")
+
+
+# Load data 
+
+# eligible_to_vote 
+eligible_to_vote <- 
+  read_csv("data/raw/3ce4a9b8-54f5-493a-ad02-9713456e5fa3.csv") %>% 
+  clean_poll_questions("eligible_to_vote")
+
+# likely to vote
+likely_to_vote <- 
+  read_csv("data/raw/5f29f7e9-0da3-422f-9f3d-8d9feb5d6504.csv") %>% 
+  clean_poll_questions("likely_to_vote_in_november_election")
+
+
+# gender 
+gender <- 
+  read_csv("data/raw/215733af-9fb4-47a1-a3a1-897500d2ddc8.csv") %>% 
+  clean_poll_questions("gender")
+
+# party 
+party <- 
+  read_csv("data/raw/85339265-b616-481d-bb82-dd040eb4f7af.csv") %>% 
+  clean_poll_questions("party")
+
+
+# race 
+race <-
+  read_csv("data/raw/c9530f91-7e2b-47e0-a373-3508fa28f14a.csv") %>% 
+  clean_poll_questions("race")
+
+# dictator day 1
+trump_dictator_first_day <- 
+  read_csv("data/raw/ebda8cb2-b3d3-410f-abf2-75886790bf76.csv") %>% 
+  clean_poll_questions("trump_dictator_first_day_opinion")
+
+# sentence length 
+sentence_length <- 
+  read_csv("data/raw/353203f0-e79b-4d87-9271-0b3eced2645e.csv") %>% 
+  clean_poll_questions("sentence_length")
+
+# time served 
+sentence_so_far_served <-
+  read_csv("data/raw/561f51be-4b75-43a0-beaa-57f962437bc7.csv") %>% 
+  clean_poll_questions("sentence_so_far_served")
+
+# age
+age <- 
+  read_csv("data/raw/158e0b7e-8a12-44ae-8fa6-b42b6ffc883b.csv") %>% 
+  clean_poll_questions("age")
+
+# who vote for (post-Biden)
+who_vote_for_supplment <- 
+  read_csv("data/raw/4649bad8-2ecb-4860-845d-7f9e5e705d67 (1).csv") %>% 
+  clean_poll_questions("who_vote_for_supplement")
+
+# climate change 
+climate_change <- 
+  read_csv("data/raw/ab30b7f3-4cb5-4a4e-8f8f-dfc523a79888.csv") %>% 
+  clean_poll_questions("climate_change_effects")
+
+# vote impact
+vote_impact_government_level <- 
+  read_csv("data/raw/93b60ce3-a538-4b8c-9e01-adeca65ee1ab.csv") %>% 
+  clean_poll_questions("vote_impact_government_level")
+
+# indep d/r
+indep_dr <- 
+  read_csv("data/raw/436d18d7-6aae-45c4-a471-39cdbc965310.csv") %>% 
+  clean_poll_questions("independent_preference_for_dem_rep")
+  
+```
+
+## Part I: Cleaning and parsing
+
+The 'clean_poll_questions' function serves as a one-size fits all solution for cleaning the survey response data and cutting down on repetitive code. It takes in a dataframe and a question name, and returns a dataframe with the responses organized by facility.
+
+Why organize by facility? Because we want to be able to join the responses to other dataframes later on. One of the potentially interesting uses for this data is to examine the relationship between survey responses and other facility characteristics, like demographics, location and types of people incarcerated there (e.g. pre-trial, sentenced, etc.).
+
+```{r}
+# Functions
+clean_poll_questions <-
+  function(x, quesiton = "eligible_to_vote") {
+    
+    # we start with responses grouped by facility, state, and question
+    x %>%
+      # We want to organize responses by facility to so they are easier to join to each other later
+      pivot_wider(
+        names_from = quesiton,
+        values_from = c("count", "n_respondents", "pct_of_respondents")
+      ) %>%
+      clean_names() %>%
+      group_by(state, facility_name) %>%
+      # sanity check on percentages
+      mutate(count_check = sum(across(starts_with("count")), na.rm = T),
+             respondents = rowMeans(across(starts_with("n_respondents")), na.rm = T),
+             pct_sum = rowSums(across(starts_with("pct_of_respondents")), na.rm = T),
+             pct_check = count_check / respondents) %>%
+      select(
+        # we don't need this anymore
+        -starts_with("n_respondents"),
+      ) %>%
+      ungroup() %>%
+      # replace all pct NA's with 0s
+      # hesitant to do this for counts because I want to treat NAs and 0s differently
+      mutate(across(starts_with("pct_of_respondents"), ~replace_na(., 0)))
+
+  }
+```
+
+What we end up with is a dataframe for each question that looks like this:
+
+-   state
+-   facility_name
+-   count (for each option)
+-   percentage (for each option)
+-   count_check (sum of all counts)
+-   respondents (total number of respondents including NA's)
+-   pct_sum (sum of all percentages)
+-   pct_check (count check / respondents)
+
+## Part II: Checking our work / High level analysis
+
+### Has distrust in government led to openness to authoritarianism?
+
+We'll begin here, as with all of our questions, by examining the population we surveyed. Who are they and what kind of sample do we have?
+
+```{r}
+# all of them (we'll cut this off after top 10 most respondents)
+trump_dictator_first_day %>% 
+  group_by(facility_name, state) %>%
+  summarise(
+    respondents = sum(respondents, na.rm = T),
+    count_good = sum(count_definitely_good, count_probably_good, na.rm = T),
+    count_definitely_good = sum(count_definitely_good, na.rm = T),
+    count_bad = sum(count_definitely_bad, count_probably_bad, na.rm = T),
+    pct_good = count_good / sum(respondents, na.rm = T),
+    pct_definitely_good = count_definitely_good / sum(respondents, na.rm = T),
+    pct_bad = count_bad / sum(respondents, na.rm = T),
+    pct_na = 1 - (pct_good + pct_bad)
+  ) %>% 
+  arrange(desc(respondents)) %>% 
+  head(10) %>% 
+  kbl() %>%
+  kable_material_dark()
+
+# which states do we have 
+trump_dictator_first_day %>% 
+  group_by(state) %>% 
+  summarise(
+    respondents = sum(respondents, na.rm = T)
+  ) %>% 
+  arrange(desc(respondents)) %>% 
+  kbl() %>%
+  kable_material_dark()
+```
+
+Next, we'll move onto verifying specific claims from my reporting memo:
+
+'The slight majority of incarcerated people (50.6%) in our survey were open to Trump's promise to be a "dictator only on the first day of his second term." Nearly 20% said that it would "definitely be a good idea" for the country. '
+
+```{r}
+# checking our numbers 
+trump_dictator_first_day %>% 
+  summarise(
+    respondents = sum(respondents, na.rm = T),
+    count_good = sum(count_definitely_good, count_probably_good, na.rm = T),
+    count_definitely_good = sum(count_definitely_good, na.rm = T),
+    count_bad = sum(count_definitely_bad, count_probably_bad, na.rm = T),
+    pct_good = count_good / sum(respondents, na.rm = T),
+    pct_definitely_good = count_definitely_good / sum(respondents, na.rm = T),
+    pct_bad = count_bad / sum(respondents, na.rm = T),
+    pct_na = 1 - (pct_good + pct_bad),
+    sanity_check = pct_good + pct_bad + pct_na
+  ) %>% 
+  select(-starts_with("count")) %>% 
+  kbl() %>%
+  kable_material_dark()
+
+trump_dictator_first_day %>% 
+  summarise(
+    count_good = sum(count_definitely_good, count_probably_good, na.rm = T),
+    count_bad = sum(count_definitely_bad, count_probably_bad, na.rm = T),
+    pct_good = count_good / sum(respondents, na.rm = T),
+    pct_bad = count_bad / sum(respondents, na.rm = T),
+    pct_na = 1 - (pct_good + pct_bad)
+  ) %>% 
+  ungroup() %>% 
+  pivot_longer(cols = starts_with("pct"), names_to = "response", values_to = "pct") %>% 
+  select(response, pct) %>% 
+  ggplot(aes(x = response, y = pct)) +
+  geom_col() +
+  labs(
+    x = "Response",
+    y = "Percentage of Respondents",
+    title = "Respondents' Feelings on Trump's First Day as Dictator"
+  ) 
+```
+
+'Independents nearly outnumbered Democrats and Republicans combined. Pressed on party allegiance, the majority of incarcerated independent voters answered "Neither." '
+
+```{r}
+# Independents nearly outnumbered Democrats and Republicans combined.
+party %>% 
+  summarise(
+    count_dem = sum(count_democrat, na.rm = T),
+    count_rep = sum(count_republican, na.rm = T),
+    count_ind = sum(count_independent, na.rm = T),
+    count_other = sum(count_other, na.rm = T),
+    pct_dem = count_dem / sum(respondents, na.rm = T),
+    pct_rep = count_rep / sum(respondents, na.rm = T),
+    pct_ind = count_ind / sum(respondents, na.rm = T),
+    pct_other = count_other / sum(respondents, na.rm = T)
+  ) %>% 
+  select(-starts_with("count")) %>% 
+  kbl() %>%
+  kable_material_dark()
+  
+  
+# Pressed on party allegiance, the majority of incarcerated independent voters answered "Neither."
+indep_dr %>% 
+  summarise(
+    count_dem = sum(count_the_democratic_party, na.rm = T),
+    count_rep = sum(count_the_republican_party, na.rm = T),
+    count_neither = sum(count_neither, na.rm = T),
+    pct_dem = count_dem / sum(respondents, na.rm = T),
+    pct_rep = count_rep / sum(respondents, na.rm = T),
+    pct_neither = count_neither / sum(respondents, na.rm = T)
+  ) %>% 
+  kbl() %>%
+  kable_material_dark()
+
+
+```
+
+'Fewer than one in four of all surveyed saw their vote in federal elections as their most important.'
+
+```{r}
+vote_impact_government_level %>% 
+  summarise(
+    respondents = sum(respondents, na.rm = T),
+    count_federal = sum(count_federal, na.rm = T),
+    pct_federal = count_federal / sum(respondents, na.rm = T)
+  ) %>% 
+  kbl() %>%
+  kable_material_dark()
+
+
+```
+
+
+### Civic engagement culture in jails and prisons
+
+```{r}
+# all of them (we'll cut this off after top 10 most respondents)
+likely_to_vote %>% 
+  left_join(eligible_to_vote,
+            by = c("facility_name" = "facility_name",
+                                     "state" = "state")) %>%
+  group_by(facility_name, state) %>%
+  mutate(voter_pct = sum(pct_of_respondents_probably_will_vote, pct_of_respondents_definitely_will_vote, na.rm = T)) %>%
+  ungroup() %>%
+  filter(voter_pct < .25,
+         pct_of_respondents_yes > .5) %>%
+  select(
+    facility_name, 
+    state, 
+    respondents.x, 
+    respondents.y, 
+    voter_pct, 
+    pct_of_respondents_yes
+  ) 
+# which states do we have 
+likely_to_vote %>% 
+  group_by(state) %>% 
+  summarise(
+    respondents = sum(respondents, na.rm = T)
+  ) %>% 
+  arrange(desc(respondents)) %>% 
+  kbl() %>%
+  kable_material_dark()
+```
+
+## Questions, data quirks and takeaways
+
+-   People are surprisingly receptive to the idea of a dictator
+
+-   It would be interesting to see crosstabs on this data to get a better idea of how results broke down by race, gender, etc.
